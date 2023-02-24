@@ -25,3 +25,5 @@ With JSON validation
 
 ### gRPC
 
+### Azure IoT Edge
+
