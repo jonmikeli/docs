@@ -11,12 +11,16 @@ This section enumerates some of the tools that I have been building for IoT and 
 The accelerators have for purpose to increase the productivity of specific tasks. For now, accelerators are mainly technical even though they provide different types of value.
 
 ### IoT Accelerator
-The IoT Accelerator takes in charge the deployment of the infrastructure or the platform components of an IoT Solution. Inherently, the produced content remains quite technical but this what is expected at this level.
+The IoT Accelerator takes in charge the deployment of the infrastructure or the platform components of an IoT Solution. Inherently, the produced content remains quite technical but this is what is expected at this level.
 
-
+This tools is not available for a public use now.
+After some inapropriated uses, it has been retired from the public access. A commercial version is being considered instead.
 
 ## Simulators
+Simulators might represent different types of tools. So, it is probably useful to state what the simulators are in this case.
 
+The simulators are applications being able to reproduce most of the IoT flows and interactions (D2C and C2D).
+These simulators do not include rich data simulation features. Instead, they contain very simple components to randomize data from the technical perspective.
 
 
 ### Containerized
