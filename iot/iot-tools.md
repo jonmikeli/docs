@@ -8,29 +8,42 @@ This section enumerates some of the tools that I have been building for IoT and 
 
 
 ## Accelerators
+The accelerators have for purpose to increase the productivity of specific tasks. For now, accelerators are mainly technical even though they provide different types of value.
+
 
 ## Simulators
 
+
 ### Containerized
+
 
 ### Mobile app
 
+
 ## Extensions
 
+
 ### EH to SB
+
 
 ### EH to EH
 With JSON validation
 
+
 ### EH to SR
+
 
 ### EH to DT
 
+
 ### IoT Hub facade
+
 
 ### REST API
 
+
 ### gRPC
+
 
 ### Azure IoT Edge
 
