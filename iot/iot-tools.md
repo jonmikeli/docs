@@ -10,8 +10,13 @@ This section enumerates some of the tools that I have been building for IoT and 
 ## Accelerators
 The accelerators have for purpose to increase the productivity of specific tasks. For now, accelerators are mainly technical even though they provide different types of value.
 
+### IoT Accelerator
+The IoT Accelerator takes in charge the deployment of the infrastructure or the platform components of an IoT Solution. Inherently, the produced content remains quite technical but this what is expected at this level.
+
+
 
 ## Simulators
+
 
 
 ### Containerized
