@@ -22,8 +22,12 @@ Simulators might represent different types of tools. So, it is probably useful t
 The simulators are applications being able to reproduce most of the IoT flows and interactions (D2C and C2D).
 These simulators do not include rich data simulation features. Instead, they contain very simple components to randomize data from the technical perspective.
 
-
+The mentioned simulators are delivered through two formats
+    - containerized application
+    - standalone application (mobile application)
+  
 ### Containerized
+The containerized simulator is the initial and default version of the simulator. It is the one which offers the most possibilities. It is more suitable for a set of simulated devices in a park of devices.
 
 
 ### Mobile app
