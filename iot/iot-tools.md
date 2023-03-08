@@ -17,7 +17,7 @@ This tool is not available for a public use now.
 After some unappropriated uses, it has been retired from public access. A commercial version is being considered instead.
 
 ### Others
-
+Other types of accelerators have been under work. They will be published when the value the provide will be good enough and/or meaningful. For now, they are only technical facilitators for specific tasks.
 
 ## Simulators
 Simulators might represent different types of tools. So, it is probably useful to state what the simulators are in this case.
