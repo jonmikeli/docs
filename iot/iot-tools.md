@@ -38,6 +38,7 @@ It finds its place in projects that need different IoT simulated devices running
 ### Mobile app
 A [mobile application simulating](https://techcommunity.microsoft.com/t5/internet-of-things-blog/transform-your-phone-into-an-iot-device-with-net-maui/ba-p/3673909?WT.mc_id=AZ-MVP-5004280) most of the IoT flows has been implemented too.
 
+You can fin the details [here](https://techcommunity.microsoft.com/t5/internet-of-things-blog/transform-your-phone-into-an-iot-device-with-net-maui/ba-p/3673909?WT.mc_id=AZ-MVP-5004280).
 
 
 ## Extensions
