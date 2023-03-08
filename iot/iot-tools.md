@@ -77,8 +77,9 @@ The extensions described in this section are declined in two versions:
 - [].NET CLI]()
 
 ### gRPC
-- [Visual Studio]()
- - [].NET CLI]()
+
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7gRPCAPIVSTemplate)
+- [].NET CLI](https://www.nuget.org/packages/JMI.DotNet7.GRPC.API.Template.CSharp/)
 
 ### Azure IoT Edge
 
