@@ -31,7 +31,8 @@ The mentioned simulators are delivered through two formats
     - standalone application (mobile application)
   
 ### Containerized
-The containerized simulator is the initial and default version of the simulator. It is the one which offers the most possibilities. It is more suitable for a set of simulated devices in a park of devices.
+The containerized simulator is the initial and default version of the simulator. It is the richer and more versatile type of built simulator here.
+It finds its place in projects that need different IoT simulated devices running autonomously.
 
 
 ### Mobile app
