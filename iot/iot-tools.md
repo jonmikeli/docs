@@ -43,10 +43,11 @@ You can fin the details [here](https://techcommunity.microsoft.com/t5/internet-o
 
 ## Extensions
 A set of extensions complete the different tools and accelerators described in this content.
-
+The extensions described in this section are declined in two versions:
+ - Visual Studio version
+ - .NET CLI version
 
 ### EH to SB
-
 
 
 ### EH to EH
