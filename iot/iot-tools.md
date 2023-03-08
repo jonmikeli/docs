@@ -48,26 +48,39 @@ The extensions described in this section are declined in two versions:
  - .NET CLI version
 
 ### EH to SB
-
+ - [Visual Studio]()
+ - [].NET CLI]()
 
 ### EH to EH
-With JSON validation
 
+- [Visual Studio]()
+- [].NET CLI]()
 
 ### EH to SR
 
+- [Visual Studio]()
+- [].NET CLI]()
 
 ### EH to DT
 
+- [Visual Studio]()
+- [].NET CLI]()
 
 ### IoT Hub facade
 
+- [Visual Studio]()
+- [].NET CLI]()
 
 ### REST API
 
+- [Visual Studio]()
+- [].NET CLI]()
 
 ### gRPC
-
+- [Visual Studio]()
+ - [].NET CLI]()
 
 ### Azure IoT Edge
 
+- [Visual Studio]()
+- [].NET CLI]()
