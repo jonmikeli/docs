@@ -20,9 +20,10 @@ After some unappropriated uses, it has been retired from public access. A commer
 Other types of accelerators have been under work. They will be published when the value the provide will be good enough and/or meaningful. For now, they are only technical facilitators for specific tasks.
 
 ## Simulators
-Simulators might represent different types of tools. So, it is probably useful to state what the simulators are in this case.
+Not sure there is a clear definition of what to expect behind a "simulator".
+So, it is probably useful to state what the simulators are in the context of this content.
 
-The simulators are applications being able to reproduce most of the IoT flows and interactions (D2C and C2D).
+Simulators are applications being able to reproduce most of the IoT flows and interactions (D2C and C2D).
 These simulators do not include rich data simulation features. Instead, they contain very simple components to randomize data from the technical perspective.
 
 The mentioned simulators are delivered through two formats
