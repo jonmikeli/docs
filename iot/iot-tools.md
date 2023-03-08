@@ -13,8 +13,11 @@ The accelerators have for purpose to increase the productivity of specific tasks
 ### IoT Accelerator
 The IoT Accelerator takes in charge the deployment of the infrastructure or the platform components of an IoT Solution. Inherently, the produced content remains quite technical but this is what is expected at this level.
 
-This tools is not available for a public use now.
-After some inapropriated uses, it has been retired from the public access. A commercial version is being considered instead.
+This tool is not available for a public use now.
+After some unappropriated uses, it has been retired from public access. A commercial version is being considered instead.
+
+### Others
+
 
 ## Simulators
 Simulators might represent different types of tools. So, it is probably useful to state what the simulators are in this case.
