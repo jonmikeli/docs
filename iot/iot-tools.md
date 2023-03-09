@@ -47,6 +47,8 @@ The extensions described in this section are declined in two versions:
  - Visual Studio version
  - .NET CLI version
 
+The provided links target the last existing version. Most of the provided extensions have been declined in different .NET versions.
+
 ### EH to SB
 
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateServiceBus)
