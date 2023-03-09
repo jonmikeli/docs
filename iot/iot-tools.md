@@ -81,6 +81,12 @@ Solution template extension to create an Azure Function reading messages from an
 
 ### EH to DT
 
+#### Description
+
+Solution template extension to create an Azure Function reading messages from an Event Hub, implementing some processing (validations, etc) and sending the messages to Digital Twins.
+
+#### Links
+
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFDigitalTwinsVSTemplate)
  - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.DigitalTwins.Template.CSharp/)
 
