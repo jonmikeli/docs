@@ -92,10 +92,22 @@ Solution template extension to create an Azure Function reading messages from an
 
 ### IoT Hub facade
 
+#### Description
+
+Solution template extension to create an REST API (WebAPI) following structured and layered solutions.
+
+#### Links
+
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.IoTHubDotNet7RESTAPITemplate)
  - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.IoTHub.REST.API.Template.CSharp/)
 
 ### REST API
+
+#### Description
+
+Solution template extension to create an REST API (WebAPI) following structured and layered solutions.
+
+#### Links
 
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7RESTAPIVSTemplate)
  - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.REST.API.Template.CSharp/)
