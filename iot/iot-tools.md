@@ -70,6 +70,12 @@ Solution template extension to create an Azure Function reading messages from an
 
 ### EH to SR
 
+#### Description
+
+Solution template extension to create an Azure Function reading messages from an Event Hub, implementing some processing (validations, etc) and sending the messages to SignalR.
+
+#### Links
+
  - [Visual Studio]()
  - [.NET CLI]()
 
