@@ -48,13 +48,14 @@ The extensions described in this section are declined in two versions:
  - .NET CLI version
 
 ### EH to SB
- - [Visual Studio]()
- - [.NET CLI]()
+
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateServiceBus)
+- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.SchemaValidator.IoT.StructuredOutputs.ServiceBus.Template.CSharp/)
 
 ### EH to EH
 
-- [Visual Studio]()
-- [.NET CLI]()
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateEventHub)
+- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.SchemaValidator.IoT.StructuredOutputs.EventHub.Template.CSharp/)
 
 ### EH to SR
 
@@ -68,13 +69,13 @@ The extensions described in this section are declined in two versions:
 
 ### IoT Hub facade
 
-- [Visual Studio]()
-- [.NET CLI]()
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.IoTHubDotNet7RESTAPITemplate)
+- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.IoTHub.REST.API.Template.CSharp/)
 
 ### REST API
 
-- [Visual Studio]()
-- [.NET CLI]()
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7RESTAPIVSTemplate)
+- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.REST.API.Template.CSharp/)
 
 ### gRPC
 
@@ -83,5 +84,9 @@ The extensions described in this section are declined in two versions:
 
 ### Azure IoT Edge
 
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AzureIoTEdgeDotNet6CSharpVSTemplate)
+- [.NET CLI]()
+
+### Data simulation
 - [Visual Studio]()
-- [].NET CLI]()
+- [.NET CLI](https://www.nuget.org/packages/JMI.JSON.Data/)
