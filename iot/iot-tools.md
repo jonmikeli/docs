@@ -94,7 +94,7 @@ Solution template extension to create an Azure Function reading messages from an
 
 #### Description
 
-Solution template extension to create an REST API (WebAPI) following structured and layered solutions.
+Solution template extension to create an IoT Hub facade, based on the REST API (WebAPI) extension, following structured and layered solutions.
 
 #### Links
 
