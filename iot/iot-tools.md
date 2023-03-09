@@ -50,7 +50,10 @@ The extensions described in this section are declined in two versions:
 The provided links target the last existing version. Most of the provided extensions have been declined in different .NET versions.
 
 ### EH to SB
+#### Description
+Solution template extension to create an Azure Function reading messages from an Event Hub, implementing some processing (validations, etc) and pushes the messages to a Service Bus.
 
+#### Links
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateServiceBus)
  - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.SchemaValidator.IoT.StructuredOutputs.ServiceBus.Template.CSharp/)
 
