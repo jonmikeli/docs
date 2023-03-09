@@ -125,9 +125,22 @@ Solution template extension to create an gRPC services with default and common s
 
 ### Azure IoT Edge
 
+#### Description
+
+Solution template extension to create an IoT Edge solution with common setting and slightly improved structure.
+
+#### Links
+
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AzureIoTEdgeDotNet6CSharpVSTemplate)
  - [.NET CLI]()
 
 ### Data simulation
+
+#### Description
+
+Library containing simple logic to randomize data after a JSON schema definition.
+
+#### Links
+
  - [Visual Studio]()
  - [.NET CLI](https://www.nuget.org/packages/JMI.JSON.Data/)
