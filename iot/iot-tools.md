@@ -49,44 +49,44 @@ The extensions described in this section are declined in two versions:
 
 ### EH to SB
 
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateServiceBus)
-- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.SchemaValidator.IoT.StructuredOutputs.ServiceBus.Template.CSharp/)
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateServiceBus)
+ - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.SchemaValidator.IoT.StructuredOutputs.ServiceBus.Template.CSharp/)
 
 ### EH to EH
 
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateEventHub)
-- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.SchemaValidator.IoT.StructuredOutputs.EventHub.Template.CSharp/)
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateEventHub)
+ - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.SchemaValidator.IoT.StructuredOutputs.EventHub.Template.CSharp/)
 
 ### EH to SR
 
-- [Visual Studio]()
-- [.NET CLI]()
+ - [Visual Studio]()
+ - [.NET CLI]()
 
 ### EH to DT
 
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFDigitalTwinsVSTemplate)
-- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.DigitalTwins.Template.CSharp/)
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFDigitalTwinsVSTemplate)
+ - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.DigitalTwins.Template.CSharp/)
 
 ### IoT Hub facade
 
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.IoTHubDotNet7RESTAPITemplate)
-- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.IoTHub.REST.API.Template.CSharp/)
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.IoTHubDotNet7RESTAPITemplate)
+ - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.IoTHub.REST.API.Template.CSharp/)
 
 ### REST API
 
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7RESTAPIVSTemplate)
-- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.REST.API.Template.CSharp/)
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7RESTAPIVSTemplate)
+ - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.REST.API.Template.CSharp/)
 
 ### gRPC
 
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7gRPCAPIVSTemplate)
-- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.GRPC.API.Template.CSharp/)
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7gRPCAPIVSTemplate)
+ - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.GRPC.API.Template.CSharp/)
 
 ### Azure IoT Edge
 
-- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AzureIoTEdgeDotNet6CSharpVSTemplate)
-- [.NET CLI]()
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AzureIoTEdgeDotNet6CSharpVSTemplate)
+ - [.NET CLI]()
 
 ### Data simulation
-- [Visual Studio]()
-- [.NET CLI](https://www.nuget.org/packages/JMI.JSON.Data/)
+ - [Visual Studio]()
+ - [.NET CLI](https://www.nuget.org/packages/JMI.JSON.Data/)
