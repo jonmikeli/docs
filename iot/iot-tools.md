@@ -114,6 +114,12 @@ Solution template extension to create an REST API (WebAPI) following structured 
 
 ### gRPC
 
+#### Description
+
+Solution template extension to create an gRPC services with default and common settings.
+
+#### Links
+
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7gRPCAPIVSTemplate)
  - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.GRPC.API.Template.CSharp/)
 
