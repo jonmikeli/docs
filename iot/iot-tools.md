@@ -49,37 +49,37 @@ The extensions described in this section are declined in two versions:
 
 ### EH to SB
  - [Visual Studio]()
- - [].NET CLI]()
+ - [.NET CLI]()
 
 ### EH to EH
 
 - [Visual Studio]()
-- [].NET CLI]()
+- [.NET CLI]()
 
 ### EH to SR
 
 - [Visual Studio]()
-- [].NET CLI]()
+- [.NET CLI]()
 
 ### EH to DT
 
-- [Visual Studio]()
-- [].NET CLI]()
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFDigitalTwinsVSTemplate)
+- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.DigitalTwins.Template.CSharp/)
 
 ### IoT Hub facade
 
 - [Visual Studio]()
-- [].NET CLI]()
+- [.NET CLI]()
 
 ### REST API
 
 - [Visual Studio]()
-- [].NET CLI]()
+- [.NET CLI]()
 
 ### gRPC
 
 - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7gRPCAPIVSTemplate)
-- [].NET CLI](https://www.nuget.org/packages/JMI.DotNet7.GRPC.API.Template.CSharp/)
+- [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.GRPC.API.Template.CSharp/)
 
 ### Azure IoT Edge
 
