@@ -142,5 +142,4 @@ Library containing simple logic to randomize data after a JSON schema definition
 
 #### Links
 
- - [Visual Studio]()
- - [.NET CLI](https://www.nuget.org/packages/JMI.JSON.Data/)
+ - [.NuGet](https://www.nuget.org/packages/JMI.JSON.Data/)
