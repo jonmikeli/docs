@@ -132,7 +132,7 @@ Solution template extension to create an IoT Edge solution with common setting a
 #### Links
 
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AzureIoTEdgeDotNet6CSharpVSTemplate)
- - [.NET CLI]()
+- [.NET CLI](https://www.nuget.org/packages/JMI.IoT.Edge.DotNet6.CSharp.Template.CLI/)
 
 ### Data simulation
 
