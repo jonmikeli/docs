@@ -33,7 +33,7 @@ The mentioned simulators are delivered through two formats
 ### Containerized
 The containerized simulator is the initial and default version of the simulator. It is the richer and more versatile type of built simulator here.
 It finds its place in projects that need different IoT simulated devices running autonomously.
-
+Similarly to the accelerator mentioned previously, the containerzed version of the simulator as been made private to protected the work against unethical use.
 
 ### Mobile app
 A [mobile application simulating](https://techcommunity.microsoft.com/t5/internet-of-things-blog/transform-your-phone-into-an-iot-device-with-net-maui/ba-p/3673909?WT.mc_id=AZ-MVP-5004280) most of the IoT flows has been implemented too.
