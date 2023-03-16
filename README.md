@@ -9,7 +9,7 @@ The content is structured in many sections. For now, those identified are:
  - DevOps
  - dotnet
  - Iac
- - IoT
+ - [IoT](./iot/iot-tools.md)
  - Azure (backend distributed applications with different types of persistence)
 
 These sections might evolve with time.
