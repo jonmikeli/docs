@@ -7,6 +7,15 @@ This section enumerates some of the tools that I have been building for IoT and 
  - industrialize and streamline the development process
 
 
+
+Accelerators: 2
+
+Simulators: +5
+
+Extensions: 8
+
+Libraries: 1
+
 ## Accelerators
 The accelerators have for purpose to increase the productivity of specific tasks. For now, accelerators are mainly technical even though they provide different types of value.
 
