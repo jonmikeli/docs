@@ -65,17 +65,27 @@ dotnet new -i <package name>
 ```
 
 ## How to use it?
-[TODO]
 
 ### Visual Studio
-[TODO]
 
+The use of the template is quite straightforward.
+Once the extension is installed, it can be found in the list of available templates when creating a new project.
+The project creation assistant will guide you through the process asking the required inputs.
+ 
 ### .NET CLI
-[TODO]
 
+Once the extension is installed, it can be found in the list of available templates when creating a new project.
+The solution creation command line requires some parameters.
+To know which parameters are needed, you can use the following command:
 
 ```bash
-dotnet new <template name> -n <project name>
+dotnet new <template name> --help
+```
+
+Solution creation command:
+
+```bash
+dotnet new <template name> -n <solution name>
 ```
 
 
