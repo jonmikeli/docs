@@ -13,12 +13,24 @@ The typical scenario in mind is:
  - API or gateway
  - how to implement a security mechanism to be sure that the API or gateway can only be called by the front application
 
+# Why
+
+It is quite common to see solutions implementing security mechanisms based on user authentication and authorization. However, I am not sure this approach is the best one when:
+ - your APIs do not need to know the user for authentication processes
+ - your APIs rely a lot more on application authentication and authorization (which applications can call them and not which users)
+
+Besides increasing security and performance, it also clarifies roles and responsibilities within the solution.
+
 # How
+
+Managed Identities could be one of the solutions.
+In this approach, we are going to describe a different approach, without Managed Identities, in order to remain more "generic".
+
 
 These are the steps to follow in order to implement the solution:
  - register the front application at AAD B2C
  - register the gateway application at AAD B2C
- - update gateway application "appRoles" at AAD B2C with applicative roles below
+ - update gateway application "appRoles" at AAD B2C with the needed applicative roles. For instance:
 
 ```json
 "appRoles": [
@@ -42,7 +54,7 @@ These are the steps to follow in order to implement the solution:
 
 > NOTE
 >
-> The previous settings are not available through the UI in the portal. You will need to update the json directly (can be done through the manifest editor in the portal).
+> There is no visual section in the portal to edit these settings. You will need to update the security manifest directly (it can be done through the manifest editor in the portal).
 
 This setting is needed to be able to configure permissions regarding the access to the app and its scopes, as an application and not in a delegated manner.
 
