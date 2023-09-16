@@ -11,6 +11,7 @@ Why: this is quite common in development steps or when the solution uses more th
 ```bash
 az login --allow-no-subscriptions
 ```
+With this command you will be able to see the tenant you need to register the application in.
 
  - set the target tenant using the following command:
 
@@ -18,10 +19,8 @@ az login --allow-no-subscriptions
 az account set -s [id]
 ```
 
- - register the application using the following command:
+ - register the application 
 
-```bash
-```	
 
 # References
 
