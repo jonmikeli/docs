@@ -65,10 +65,14 @@ dotnet new -i <package name>
 ```
 
 ## How to use it?
+[TODO]
 
 ### Visual Studio
+[TODO]
 
 ### .NET CLI
+[TODO]
+
 
 ```bash
 dotnet new <template name> -n <project name>
