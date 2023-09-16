@@ -24,4 +24,5 @@ One could wonder why in the minimalistic era we are living (Minimal APIs trend, 
 The initial and natural use of such a template would be for complex and rich REST APIs. RESTFul APIs are not meant to contain business logic because of their nature and inherent definition (resource oriented, not business logic oriented).
 This said, due to the "everything REST" trend, it is quite common to encounter (and even have to develop) business REST APIs.
 
-
+With this in mind, rich and business APIs might start "simple" but, quite soon, they grow and end up needing some structure and seggregation of concerns.
+This template anticipates that and, even though it might seem a bit overkill for an initial and simple API, it will help developers to keep their code clean and structured.
