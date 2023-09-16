@@ -39,8 +39,13 @@ Of course, the template integrates specific choices when it comes to some practi
 ## Where to find it?
 
 The extension might be found:
- - in the Visual Studio Marketplace
- - in NuGet.org repository
+ - in the Visual Studio Marketplace (Visual Studio version)
+ - in NuGet.org repository (.NET CLI version)
+
+> NOTE
+>
+> Visual Studio is able now to view and use extensions packaged as NuGet packages. Installing the VSIX (Visual Studio Extension native format) is not necessary if you already have the NUGet package installed.
+> The NuGet package might be used either through Visual Studio or .NET CLI.
 
 ## How to install it?
 [TODO]
