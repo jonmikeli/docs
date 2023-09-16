@@ -58,6 +58,11 @@ The extension can also be installed from the Extensions menu in Visual Studio.
 
 ### .NET CLI
 
+The extension might be installed from the [NuGet.org repository](https://www.nuget.org/packages) using the following command:
+
+```bash
+dotnet new -i <package name>
+```
 
 ## How to use it?
 [TODO]
