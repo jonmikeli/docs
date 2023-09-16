@@ -37,7 +37,10 @@ Technology evolves fast, very fast. At the same time, developers come from very 
 Of course, the template integrates specific choices when it comes to some practices or ways to solve problems. This is not meant to be the only way to do things, but it is a way that works and that can be used as a starting point.
 
 ## Where to find it?
-[TODO]
+
+The extension might be found:
+ - in the Visual Studio Marketplace
+ - in NuGet.org repository
 
 ## How to install it?
 [TODO]
