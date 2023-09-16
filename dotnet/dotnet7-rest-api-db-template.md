@@ -17,4 +17,11 @@ The template also includes:
  - factorized DI
  - default test projects relying on the same IoC/DI principles than the actual solution (wich adds test integrity)
 
-In the minimalistic era we are living nowadays, 
+## Why?
+
+One could wonder why in the minimalistic era we are living (Minimal APIs trend, etc), such a template could still be relevant.
+
+The initial and natural use of such a template would be for complex and rich REST APIs. RESTFul APIs are not meant to contain business logic because of their nature and inherent definition (resource oriented, not business logic oriented).
+This said, due to the "eveyrthing REST" trend, it is quite common to encounter (and even have to develop) business REST APIs.
+
+
