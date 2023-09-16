@@ -32,3 +32,10 @@ This template anticipates that and, even though it might seem a bit overkill for
 ### A concentrate of "how tos"
 Technology evolves fast, very fast. At the same time, developers come from very different paths, some of them not giving time, importance or focus enough to specific topics. Saying that all the needed concepts, principles and patterns are understood, there is still a need to know how to use a given technology stack to implement them. This template tries to help with that.
 Of course, the template integrates specific choices when it comes to some practices or ways to solve problems. This is not meant to be the only way to do things, but it is a way that works and that can be used as a starting point.
+
+## How to use it?
+[TODO]
+
+
+## Template description
+[TODO]
