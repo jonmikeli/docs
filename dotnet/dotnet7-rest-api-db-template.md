@@ -2,7 +2,7 @@
 
 This template is meant to help developers to build REST APIs:
  - with structured and layered solutions
- - using data persistance with Entity Framework Core (SQL Server or SQL Database in the template)
+ - using data persistence with Entity Framework Core (SQL Server or SQL Database in the template)
  - using structured validation mechanisms
  - with configurable OpenAPI/Swagger exposition
  - with dynamic OpenAPI/Swagger documentation (including versioning)

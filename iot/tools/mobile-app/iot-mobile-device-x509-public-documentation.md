@@ -1,6 +1,6 @@
 ﻿# IoT Device Mobile - New features - X509
 
-Starting from v1.3.736, the application includes a long awaited feature: support for X509 provisioning (enrollment group mode).
+Starting from v1.3.736, the application includes a long awaited feature: support of X509 provisioning (enrollment group mode).
 There have been a "few" tricky parts to deal with when it comes to make everything work with MAUI and Android.
 This said, the feature is now ready to be used and this documentation will explain you how.
 
