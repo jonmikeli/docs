@@ -34,7 +34,7 @@ Visual Studio will not generate business code (yet?). The idea is to help develo
 ### REST "Business" APIS?
 
 The initial and natural use of such a template would be for complex and rich REST APIs. RESTFul APIs are not meant to contain business logic because of their nature and inherent definition (resource oriented, not business logic oriented).
-This said, due to the "everything REST" trend, it is quite common to encounter (and even have to develop) business REST APIs.
+This said, due to the "everything REST" trend, it is quite common to find (and even have to develop) business REST APIs.
 
 ### "Simple" APIs vs Complex APIs
 
