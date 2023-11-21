@@ -97,7 +97,3 @@ Solution creation command:
 ```bash
 dotnet new <template name> -n <solution name>
 ```
-
-
-## Template description
-[TODO]
