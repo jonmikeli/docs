@@ -49,7 +49,7 @@ Of course, the template integrates specific choices when it comes to some practi
 ## Where to find it?
 
 The extension might be found:
- - in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/?WT.mc_id=AZ-MVP-5004280) (Visual Studio version)
+ - in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8RESTAPIDBTemplate?WT.mc_id=AZ-MVP-5004280) (Visual Studio version)
  - in NuGet.org repository (.NET CLI version)
 
 > NOTE
@@ -61,7 +61,7 @@ The extension might be found:
 
 ### Visual Studio
 
-The extension might be installed from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/?WT.mc_id=AZ-MVP-5004280).
+The extension might be installed from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8RESTAPIDBTemplate?WT.mc_id=AZ-MVP-5004280).
 If the VSIX is downloaded to the local machine, you only need to double-click on it and it triggers the installation process.
 
 The extension can also be installed from the Extensions menu in Visual Studio.
