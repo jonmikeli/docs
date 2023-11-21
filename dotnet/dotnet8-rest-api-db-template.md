@@ -26,10 +26,9 @@ This template creates a Visual Studio solution with many projects answering to t
 
 ## Why?
 
-As mentioned above, the "Why" of this extension is to cover the need of templates with something else than pure technical contents.
-Of course, Visual Studio will not generate business code (yet?). The idea here is to help developers to keep maximize their working time in value creation. Business oriented APIs might be "complex" in certain aspects. Uniformizing the way to implement them and test them are important aspects to bear in mind.
+As mentioned above, the "Why" of this extension is to cover the need of templates with something else than pure technical content. "Technical" templates are great but inhere, the idea is to solve another type of need and create a different type of value.
 
-Very humbly, the proposed extension should help in this.
+Visual Studio will not generate business code (yet?). The idea is to help developers to maximize the creation of value. Business oriented APIs might be "complex" in certain aspects and generate considerable technical debt if "bad" decisions are made. The extension provides an opinionated canvas to solve the mentioned problems and create a proposal of value.
 
 
 ### REST "Business" APIS?
