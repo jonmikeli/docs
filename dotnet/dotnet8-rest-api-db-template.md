@@ -23,26 +23,14 @@ This template creates a Visual Studio solution with many projects answering to t
     - partial test code 
     - automatic documentation (included at OpenAPI level)
 
-This template is meant to help developers to build REST APIs:
- - with structured and layered solutions
- - using data persistence with Entity Framework Core (SQL Server or SQL Database in the template)
- - using structured validation mechanisms
- - with configurable OpenAPI/Swagger exposition
- - with dynamic OpenAPI/Swagger documentation (including versioning)
- - with included API versioning (Url based)
-
-The template also includes:
- - IoC/DI principles
- - generic exception management
- - default traces and logs
- - configurable integration with Application Insights
- - factorized mappings between layers
- - factorized DI
- - default test projects relying on the same IoC/DI principles than the actual solution (which adds test integrity)
 
 ## Why?
 
-One could wonder why in the minimalistic era we are living (Minimal APIs trend, etc), such a template could still be relevant.
+As mentioned above, the "Why" of this extension is to cover the need of templates with something else than pure technical contents.
+Of course, Visual Studio will not generate business code (yet?). The idea here is to help developers to keep maximize their working time in value creation. Business oriented APIs might be "complex" in certain aspects. Uniformizing the way to implement them and test them are important aspects to bear in mind.
+
+Very humbly, the proposed extension should help in this.
+
 
 ### REST "Business" APIS?
 
