@@ -50,7 +50,7 @@ Of course, the template integrates specific choices when it comes to some practi
 
 The extension might be found:
  - in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8RESTAPIDBTemplate?WT.mc_id=AZ-MVP-5004280) (Visual Studio version)
- - in NuGet.org repository [.NET CLI version](https://www.nuget.org/packages/JMI.DotNet8.REST.API.DB.Template.CSharp/)
+ - in NuGet.org repository [.NET CLI version](https://www.nuget.org/packages/JMI.DotNet8.REST.API.DB.Template.CSharp/?WT.mc_id=AZ-MVP-5004280)
 
 > NOTE
 >
@@ -68,7 +68,7 @@ The extension can also be installed from the Extensions menu in Visual Studio.
 
 ### .NET CLI
 
-The extension might be installed from the [NuGet.org repository](https://www.nuget.org/packages/JMI.DotNet8.REST.API.DB.Template.CSharp/) using the following command:
+The extension might be installed from the [NuGet.org repository](https://www.nuget.org/packages/JMI.DotNet8.REST.API.DB.Template.CSharp/?WT.mc_id=AZ-MVP-5004280) using the following command:
 
 ```bash
 dotnet new -i <package name>
