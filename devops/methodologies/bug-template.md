@@ -1,0 +1,23 @@
+*Create a content template to define bugs in Azure DevOps*
+* [ ] **Title**: Bug: [Bug Title]
+* [ ] **Description**: [Bug Description]
+* [ ] **Steps to Reproduce**: [Steps to Reproduce]
+* [ ] **Expected Behavior**: [Expected Behavior]
+* [ ] **Actual Behavior**: [Actual Behavior]
+* [ ] **Attachments**: [Attachments]
+* [ ] **Priority**: [Priority]
+* [ ] **Severity**: [Severity]
+* [ ] **Reproducibility**: [Reproducibility]
+* [ ] **Workaround**: [Workaround]
+* [ ] **Environment**: [Environment]
+* [ ] **Comments**: [Comments]
+* [ ] **Tags**: [Tags]
+* [ ] **Assigned To**: [Assigned To]
+* [ ] **Related Work Items**: [Related Work Items]
+* [ ] **Related Test Cases**: [Related Test Cases]
+* [ ] **Related Requirements**: [Related Requirements]
+* [ ] **Related Links**: [Related Links]
+* [ ] **Related Changesets**: [Related Changesets]
+* [ ] **Related Files**: [Related Files]
+
+
