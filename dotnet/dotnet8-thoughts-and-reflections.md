@@ -16,7 +16,7 @@ After .NET 5, .NET Framework and .NET Core were merged and named .NET.
 
 During the .NET Framework era, .NET built a very specific image and made part of the market/community quite reluctant to use it (closed-source, mono-platform, owned by Microsoft, proprietary tooling, etc). Without judging those opinions and that image, there were limitations despite the great value offered by the framework.
 
-.NET has changed a lot since then. Now, it is cross-platform, open source, can be easily extended with third part libraries, fully integrated with the community, free tooling besides the proprietary tooling, the learning curve is quite short, it offers answers to a enterprise/architectural/developer needs, 
+.NET has changed a lot since then. Now, it is cross-platform, open source, can easily be extended with third part libraries, fully integrated with the community, free tooling besides the proprietary tooling, the learning curve is quite short, it offers answers to a enterprise/architectural/developer needs, 
 
 
 
