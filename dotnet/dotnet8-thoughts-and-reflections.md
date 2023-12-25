@@ -1,6 +1,12 @@
 # .NET 8 Thoughts and Reflections
 # TODO
 
+.NET has been around for a while, going through different phases and transformations.
+We could even say quite fairly that it has been gone through very deep transformations.
+
+
+
+
 
 .NET 8 Improvements
 Performances
@@ -20,3 +26,6 @@ Isn't it a great time to be a .NET developer?
 Not only talking about the technology itself, but also the community and the ecosystem ... and also business.
 From the business perspective, isn't .NET a great technical stack to invest in?
 
+
+.NET 8 is here, and it's a great time to be a .NET developer.
+Let's understand why.
