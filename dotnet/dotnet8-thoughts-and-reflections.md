@@ -4,7 +4,11 @@
 .NET has been around for a while, going through different phases and transformations.
 We could even say quite fairly that it has been gone through very deep transformations.
 
+Inherently, developers, architects and companies might have experienced different feelings and thoughts about .NET.
 
+What is the state of .NET today?
+
+# .NET 8
 
 
 
