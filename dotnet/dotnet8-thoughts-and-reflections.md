@@ -18,11 +18,11 @@ During the .NET Framework era, .NET built a very specific image and made part of
 
 .NET has changed a lot since then. Now, it is cross-platform, open source, can easily be extended with third part libraries, is integrated with the community, there is free tooling besides the proprietary tooling, the learning curve is quite short, it offers answers to a enterprise/architectural/developer needs and a long etc.
 
-However, I still notice obsolete answers, opinions or complains. This is why, I decided to write these few lines, in order to state that things have changed and a new assessment of what .NET does is probably worth it before making decisions.
-I am not trying to sell or promote anything. I am just talking from the engineering and business perspective, trying to be as objective as possible. All the opinions and decisions are good and more than respectful.
+However, it is still quite common to feel a certain level of reluctance to use .NET, from specific parts of the community. This post might be seen as an attempt of convincing to change their minds and use .NET. In fact, the main purpose is less opinionated and just sharing a perpection, and, if it makes sense to the readers, try to assess and value .NET as it is today.
 
+As an engineer, it is up to as to decide later if the use of .NET makes sense, could help our teams or be meaningful in the technical/business strategy of the company we work for.
 
-
+ 
 .NET 8 Improvements
 Performances
 Updated libraries and dependencies
