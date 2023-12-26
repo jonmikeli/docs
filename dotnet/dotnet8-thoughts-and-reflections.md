@@ -22,18 +22,44 @@ However, it is still quite common to feel a certain level of reluctance to use .
 
 As an engineer, it is up to as to decide later if the use of .NET makes sense, could help our teams or be meaningful in the technical/business strategy of the company we work for.
 
- 
-.NET 8 Improvements
-Performances
-Updated libraries and dependencies
-API features (WebAPI, CoreWCf, gRPC)
-EF8
-Blazor 8
-MAUI 8
-Traces, logging, and debugging
+ # Aspects to reconsider about .NET 8
 
-General development experience (mainly for distributed applications)
-Special mention to Aspire
+ ## Cross-platform
+
+ ## Open source
+
+    ## Community
+
+    ## Tooling
+
+    ## Learning curve
+
+    ## Enterprise/architectural/developer needs
+
+    ## Ecosystem
+
+    ## Business
+
+    ## Performances
+
+    ## EF8
+
+    ## Blazor 8
+
+    ## API developement
+
+    ## MAUI 8
+
+    ## Traces, logging, and debugging
+
+    ## Containerization
+
+    ## Distributed applications, Aspire
+
+    ## Azure development
+
+    ## Development experience
+
 
 And without talking about all the Azure improvements (too long be exhaustive and precise), AI services, GitHub and Azure DevOps, etc.
 
