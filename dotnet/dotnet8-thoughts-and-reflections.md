@@ -37,44 +37,46 @@ As an engineer, it is up to us to decide later if the use of .NET makes sense, c
  - etc
 
 
+# Aspects to reconsider about .NET 8
 
- # Aspects to reconsider about .NET 8
+## Cross-platform
 
- ## Cross-platform
+Yes, .NET is cross-platform. It is not only cross-platform, but also cross-architecture (x86, x64, ARM, etc).
+There are parts of .NET like the UI related content where the cross-platform support is not complete. However, many other .NET features are cross-platform.
 
- ## Open source
+## Open source
 
-    ## Community
+## Community
 
-    ## Tooling
+## Tooling
 
-    ## Learning curve
+## Learning curve
 
-    ## Enterprise/architectural/developer needs
+## Enterprise/architectural/developer needs
 
-    ## Ecosystem
+## Ecosystem
 
-    ## Business
+## Business
 
-    ## Performances
+## Performances
 
-    ## EF8
+## EF8
 
-    ## Blazor 8
+## Blazor 8
 
-    ## API developement
+## API developement
 
-    ## MAUI 8
+## MAUI 8
 
-    ## Traces, logging, and debugging
+## Traces, logging, and debugging
 
-    ## Containerization
+## Containerization
 
-    ## Distributed applications, Aspire
+## Distributed applications, Aspire
 
-    ## Azure development
+## Azure development
 
-    ## Development experience
+## Development experience
 
 
 And without talking about all the Azure improvements (too long be exhaustive and precise), AI services, GitHub and Azure DevOps, etc.
