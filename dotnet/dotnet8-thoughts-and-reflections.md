@@ -102,6 +102,11 @@ From this perspective, .NET and its whole ecosystem offer a good choice thanks t
 The size of the ecosystem is hard to assess. There are probably other ecosystems larger in volume.
 This said, the .NET ecosystem is quite rich in terms of variety and volume (rich enough at least to avoid the closeness feeling).
 
+That ecosystem relies on:
+ - third editors
+ - private companies
+ - community
+ - contributors (MVPs, RDs, other community members, etc)
 
 ## Business
 
