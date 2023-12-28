@@ -108,9 +108,6 @@ That ecosystem relies on:
  - community
  - contributors (MVPs, RDs, other community members, etc)
 
-## Business
-
-
 
 ## Performances
 
