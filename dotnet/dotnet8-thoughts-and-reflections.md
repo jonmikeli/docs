@@ -74,29 +74,57 @@ The Learn Team is working to change this and it is becoming better.
 There are a lot of free resources to start learning .NET and even, go deeper in specific topics.
 There are also very good paid trainings from community members (ex: [https://dometrain.com](dometrain.com) from Nick Chapsas) or proffesionnal training services.
 
+The features of .NET, how they have been implemented, their approach and how they are exposed to be used contains the learning effort to be done.
+
+All these together builds a quite condensed learning curve.
+
 ## Enterprise/architectural/developer needs
+
+
 
 ## Ecosystem
 
+
+
 ## Business
+
+
 
 ## Performances
 
+
+
 ## EF8
+
+
 
 ## Blazor 8
 
+
+
 ## API developement
+
+
 
 ## MAUI 8
 
+
+
 ## Traces, logging, and debugging
+
+
 
 ## Containerization
 
+
+
 ## Distributed applications, Aspire
 
+
+
 ## Azure development
+
+
 
 ## Development experience
 
