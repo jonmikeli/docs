@@ -45,9 +45,26 @@ There are parts of .NET like the UI related content where the cross-platform sup
 
 ## Open source
 
+Yes, .NET is opens source. This still surprises some people.
+
 ## Community
 
+Yes, there is an important community around .NET contributing and enriching with rich content, libraries, tools, etc.
+
 ## Tooling
+
+Tooling around .NET is probably among the best in the industry.
+There are proprietary IDEs like Visual Studio, Rider, etc.
+
+There are also free IDEs like Visual Studio Code, Visual Studio Community, etc.
+
+The same IDE is used for the different types of development.
+
+Visual Studio, my personal choice for most of the tasks, is truly a great IDE:
+ - the developer experience is quite good (IntelliSense, tools, extensions, performance analyzers, thread analyzers, etc)
+ - the debugging experience is unique.
+ - seamless integration with Azure, GitHub, Azure DevOps, etc (Git integration could be better though)
+ 
 
 ## Learning curve
 
