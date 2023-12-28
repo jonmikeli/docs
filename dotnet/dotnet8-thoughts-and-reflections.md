@@ -78,7 +78,21 @@ The features of .NET, how they have been implemented, their approach and how the
 
 All these together builds a quite condensed learning curve.
 
+
 ## Enterprise/architectural/developer needs
+
+Technical features and usability are one thing, but architectural/developer needs at enterprise level are another thing.
+From this perspective, .NET and its whole ecosystem offer a good choice thanks to:
+ - the maturity level
+ - clear roadmaps (even though we all hate the speed of changes sometimes) guaranteed by a company like Microsoft
+ - continuous improvements
+ - reliability and stability
+ - proprietary tooling that clearly improves the developer experience (coding, testing, efficiency, etc)
+ - security patches and improvements
+ - constant performance improvements
+ - efficient support (different levels of support depending on the needs)
+ - projection in time (long term support)
+ - migration tools, guidance and support
 
 
 
