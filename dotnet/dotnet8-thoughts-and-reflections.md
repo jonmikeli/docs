@@ -68,6 +68,12 @@ Visual Studio, my personal choice for most of the tasks, is truly a great IDE:
 
 ## Learning curve
 
+.NET documentation and references are (or were) sometimes a mess.
+The Learn Team is working to change this and it is becoming better.
+
+There are a lot of free resources to start learning .NET and even, go deeper in specific topics.
+There are also very good paid trainings from community members (ex: [https://dometrain.com/](dometrain.com) from Nick Chapsas) or proffesionnal training services.
+
 ## Enterprise/architectural/developer needs
 
 ## Ecosystem
