@@ -73,7 +73,7 @@ This said, it is growing in popularity because it addresses other needs and it i
 
 ## Learning curve
 
-.NET documentation and references are (or were) sometimes a mess.
+.NET documentation and references needed a review.
 The Learn Team is working to change this and it is becoming better.
 
 There are a lot of free resources to start learning .NET and even, go deeper in specific topics.
