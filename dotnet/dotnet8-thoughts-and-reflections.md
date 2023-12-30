@@ -67,6 +67,9 @@ Visual Studio, my personal choice for most of the tasks, is truly a great IDE:
  - the debugging experience is unique.
  - seamless integration with Azure, GitHub, Azure DevOps, etc (Git integration could be better though)
  
+Visual Studio Code developing and debuging experience remains limited compared to Visual Studio (when it comes to .NET developement).
+This said, it is growing in popularity because it addresses other needs and it is cross-platform (also free).
+
 
 ## Learning curve
 
