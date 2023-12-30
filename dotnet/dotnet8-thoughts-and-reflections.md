@@ -47,7 +47,7 @@ So, I would dare to invite those who keep the .NET Framework image in their mind
 
 ## Open source
 
-Yes, .NET is opens source. This still surprises some people.
+.NET is opens source.
 
 ## Community
 
