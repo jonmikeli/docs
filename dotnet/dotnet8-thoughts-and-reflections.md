@@ -51,7 +51,7 @@ So, I would dare to invite those who keep the .NET Framework image in their mind
 
 ## Community
 
-Yes, there is an important community around .NET contributing and enriching with rich content, libraries, tools, etc.
+There is an important community around .NET contributing and enriching with valuable content, libraries, tools, etc.
 
 ## Tooling
 
