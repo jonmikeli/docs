@@ -98,7 +98,7 @@ From this perspective, .NET and its whole ecosystem offer a good choice thanks t
  - projection in time (long term support)
  - migration tools, guidance and support
  
- From the business perspective, .NET is good for the present and also for the future.
+From the business perspective, this consolidates .NET in a strong position.
 
 
 ## Ecosystem
