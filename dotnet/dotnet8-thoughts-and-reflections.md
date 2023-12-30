@@ -114,11 +114,12 @@ That ecosystem relies on:
 
 
 ## Performances
->>>>>>> 95268ae91426ca30e9043db9e3ce8a7b6baa8fa8
 
+Performance improvements since .NET 5 are being quite impressive actually.
 
 
 ## EF8
+
 
 
 
