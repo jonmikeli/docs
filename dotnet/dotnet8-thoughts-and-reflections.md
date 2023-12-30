@@ -17,7 +17,7 @@ Actually, a lot of things have changed. .NET covers now a lot of more areas, mor
 So, I would dare to invite those who keep the .NET Framework image in their minds, to just give a try to the "other" .NET and assess again if it could be a good choice to them.
 
 
-# What does .NET 8 cover?
+# An excerpt of the changes/improvements in .NET 8
 
 .NET 8 is a cross-platform framework that covers different scenarios, such as:
  - Web development (special mention to Blazor, the WASM framework that allows to build web applications with C#)
@@ -27,8 +27,10 @@ So, I would dare to invite those who keep the .NET Framework image in their mind
  - Machine learning
  - Game development
  - IoT development (IoT Operations, and IoT Solutions at cloud level)
- - API development (WebAPIs, CoreWCF, gRPC, etc)
+ - API development (WebAPIs, minimal APIs, CoreWCF, gRPC, etc)
  - Distributed applications (Aspire, Dapr, etc)
+ - C# itself
+ - compilation
  - etc
 
 
