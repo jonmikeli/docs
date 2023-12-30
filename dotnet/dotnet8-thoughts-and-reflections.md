@@ -12,13 +12,9 @@ What is the state of .NET today?
 
 .NET 8 is the current version of .NET.
 It is now a cross platform framework. In the past, the .NET Framework was tightly linked to Windows but that has changed.
-After .NET 5, .NET Framework and .NET Core were merged and named .NET.
+Actually, a lot of things have changed. .NET covers now a lot of more areas, more efficiently and better.
 
-During the .NET Framework era, .NET built a very specific image and made part of the market/community quite reluctant to use it (closed-source, mono-platform, owned by Microsoft, proprietary tooling, etc). Without judging those opinions and that image, there were limitations despite the great value offered by the framework.
-
-.NET has changed a lot since then. Now, it is cross-platform, open source, can easily be extended with third part libraries, is integrated with the community, there is free tooling besides the proprietary tooling, the learning curve is quite short, it offers answers to a enterprise/architectural/developer needs and a long etc.
-
-However, I still notice opinions locked in args from a very old past. So, I decided to write these few lines to state that things have changed and a new assessment of what .NET does is probably worth it before making decisions.
+So, I would dare to invite those who keep the .NET Framework image in their minds, to just give a try to the "other" .NET and assess again if it could be a good choice to them.
 
 
 # What does .NET 8 cover?
