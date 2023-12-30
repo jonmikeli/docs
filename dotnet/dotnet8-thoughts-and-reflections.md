@@ -31,6 +31,7 @@ So, I would dare to invite those who keep the .NET Framework image in their mind
  - Distributed applications (Aspire, Dapr, etc)
  - C# itself
  - compilation
+ - containerization and optmized containers
  - etc
 
 
