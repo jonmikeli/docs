@@ -11,7 +11,7 @@ What is the state of .NET today?
 # .NET 8
 
 .NET 8 is the current version of .NET.
-It is now a cross platform framework. In the past, .NET Framework was tightly linked to Windows. However, since .NET Core, .NET is aiming different platforms.
+It is now a cross platform framework. In the past, the .NET Framework was tightly linked to Windows but that has changed.
 After .NET 5, .NET Framework and .NET Core were merged and named .NET.
 
 During the .NET Framework era, .NET built a very specific image and made part of the market/community quite reluctant to use it (closed-source, mono-platform, owned by Microsoft, proprietary tooling, etc). Without judging those opinions and that image, there were limitations despite the great value offered by the framework.
