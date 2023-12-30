@@ -77,11 +77,10 @@ This said, it is growing in popularity because it addresses other needs and it i
 The Learn Team is working to change this and it is becoming better.
 
 There are a lot of free resources to start learning .NET and even, go deeper in specific topics.
-There are also very good paid trainings from community members (ex: [https://dometrain.com](dometrain.com) from Nick Chapsas) or proffesionnal training services.
+There are also very good paid trainings from community members (ex: [https://dometrain.com](dometrain.com) from Nick Chapsas) or profesionnal training services.
 
-The features of .NET, how they have been implemented, their approach and how they are exposed to be used contains the learning effort to be done.
-
-All these together builds a quite condensed learning curve.
+.NET learning curve is in the end, one among the most competitive ones and with a very valuable ROI.
+This point is a key en companies.
 
 
 ## Enterprise/architectural/developer needs
