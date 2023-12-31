@@ -128,6 +128,10 @@ With .NET8, the gap between EF8 and its alternatives has been narrowed considera
 
 ## Blazor 8
 
+Wen development is a very special type of development.
+The issues related to technologies like Javascript and the frameworks/products on top of it has been growing.
+
+WASM tries to bring an alternative and a solution to that problem. Blazor is Microsoft's answer to develop in WASM/WASI.
 
 
 ## API developement
