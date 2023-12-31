@@ -120,7 +120,10 @@ Performance improvements since .NET 5 are being quite impressive actually.
 
 ## EF8
 
+Entity Framework Core is quite convenient to use and answers to most of needs.
+However, some alternatives were more performant at some specific tasks.
 
+With .NET8, the gap between EF8 and its alternatives has been narrowed considerably.
 
 
 ## Blazor 8
