@@ -132,6 +132,9 @@ Wen development is a very special type of development.
 The issues related to technologies like Javascript and the frameworks/products on top of it has been growing.
 
 WASM tries to bring an alternative and a solution to that problem. Blazor is Microsoft's answer to develop in WASM/WASI.
+Blazor 8, very waited by the market, has been rolled out with considerable improvements and additional features than Blazor 7.
+
+Web development might dramatically change in the short future.
 
 
 ## API developement
