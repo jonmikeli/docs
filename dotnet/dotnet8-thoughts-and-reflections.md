@@ -141,6 +141,7 @@ Blazor is considered as a potential game changer by part of the Web Developers.
 Backend development has also seen many changes. These are the most significant:
  - REST APIs based on WebAPI (controller-based development)
  - minimal APIs
+ - gRPC
 
 
 
