@@ -143,6 +143,14 @@ Backend development has also seen many changes. These are the most significant:
  - minimal APIs
  - gRPC
  - CoreWCF
+ - their monitorization, and governance (OpenTelemetry integration, custom metrics, etc generic to .NET, not only API development)
+ - first class resilience mechanisms
+ - YARP
+
+The API development experience has changed considerably.
+It is way easier now to focus on the business side of the code relying on homogeneous and easy to use technical layers implementing the necessary plumbing to build enterprise ready solutions.
+
+# Distributed applications
 
 
 
