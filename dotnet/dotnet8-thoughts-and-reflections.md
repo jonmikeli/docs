@@ -168,7 +168,7 @@ Azure is not linked to .NET only. However, it was worth it to mention the multip
 Besides these native features, there are initiatives like Dapr, Orleans, and many other that extend the alternatives of building distributed applications with .NET.
 
 
-.NET 8 has also 
+.NET 8 has also been released with Aspire, a new type of projects to address common and repetitive problems when it comes to developing distributed applications (containerized or not). Aspire is still in preview but looks very promising.
 
 
 ## MAUI 8
