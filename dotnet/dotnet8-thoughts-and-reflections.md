@@ -155,13 +155,13 @@ It is way easier now to focus on the business side of the code relying on homoge
 
 After thinking of services, the natural next step is to think of distributed applications.
 From this perspective, .NET has also evolved and gained in maturity (new containers with optimized composition, container integration, distributed logs, etc). .NET with Azure offer pretty impressive capabilities in this field:
- - ACA (Azure Container for Apps)
- - AKS (Azure Kubernes Service)
+ - Azure App Service (containerized or not)
+ - Azure Container for Apps (ACA)
+ - Azure Kubernes Service (AKS)
  - APIM
  - Azure Container Registry (ACR)
  - Azure Monitor
  - All the security services related to the services mentioned above
-
 
 Azure is not linked to .NET only. However, it was worth it to mention the multiplied potential of combining both.
 
