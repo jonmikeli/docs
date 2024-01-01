@@ -131,7 +131,8 @@ With .NET8, the gap between EF8 and its alternatives has been narrowed considera
 Web development is a very special type of development.
 The issues related to technologies like Javascript and the frameworks/products on top of it have been growing.
 
-WASM tries to bring an alternative and a solution to that problem. Blazor is Microsoft's answer to develop in WASM/WASI.
+WASM tries to bring a more efficient and productive alternative (with more potential too and technologically at another level of possibilities). Blazor is Microsoft's answer to this.
+
 Blazor 8, very waited by the market, has been rolled out with considerable improvements and additional features than Blazor 7.
 
 Web development might dramatically change in the short future.
