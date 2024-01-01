@@ -172,6 +172,7 @@ Besides these native features, there are initiatives like Dapr, Orleans, and man
 
 ## MAUI 8
 
+Microsoft tentatives of building tools for mobile development have not always been successful.
 
 
 ## Traces, logging, and debugging
