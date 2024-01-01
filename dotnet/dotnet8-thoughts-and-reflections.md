@@ -133,9 +133,7 @@ The issues related to technologies like Javascript and the frameworks/products o
 
 WASM tries to bring a more efficient and productive alternative (with more potential too and technologically at another level of possibilities). Blazor is Microsoft's answer to this.
 
-Blazor 8, very waited by the market, has been rolled out with considerable improvements and additional features than Blazor 7.
-
-Web development might dramatically change in the short future.
+Blazor is considered as a potential game changer by part of the Web Developers.
 
 
 ## API developement
