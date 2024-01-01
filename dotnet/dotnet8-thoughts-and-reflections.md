@@ -186,15 +186,9 @@ Good and consistent monitoring is vital in nowadays applications.
 .NET brings that level of first class level of consistency. Additionnally, it can be extended to be used with other protocols or tools promoted by the community (Prometheus, OpenTelemetry, Grafana, etc).
 
 
-General development experience (mainly for distributed applications)
-Special mention to Aspire
+# Bottom line
 
-And without talking about all the Azure improvements (too long be exhaustive and precise), AI services, GitHub and Azure DevOps, etc.
+All this is only a very small portion of what .NET is today. The general development experience is soft, efficient, with less frictions than ever.
+It seems .NET is not only a great technical alternative but also, a business one.
 
-Isn't it a great time to be a .NET developer?
-Not only talking about the technology itself, but also the community and the ecosystem ... and also business.
-From the business perspective, isn't .NET a great technical stack to invest in?
-
-
-.NET 8 is here, and it's a great time to be a .NET developer.
-Let's understand why.
+With all this is combined with Azure, DevOps (Azure DevOps, GitHub, whatever), communities and the whole ecosystem, isn't it a great time to be a .NET developer?
