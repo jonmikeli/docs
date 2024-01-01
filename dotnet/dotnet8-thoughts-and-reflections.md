@@ -165,6 +165,11 @@ From this perspective, .NET has also evolved and gained in maturity (new contain
 
 Azure is not linked to .NET only. However, it was worth it to mention the multiplied potential of combining both.
 
+Besides these native features, there are initiatives like Dapr, Orleans, and many other that extend the alternatives of building distributed applications with .NET.
+
+
+.NET 8 has also 
+
 
 ## MAUI 8
 
