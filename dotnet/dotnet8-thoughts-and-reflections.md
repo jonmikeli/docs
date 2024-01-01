@@ -182,6 +182,10 @@ MAUI is often linked to mobile development. However, it can beyond that with cro
 
 ## Traces, logging, and debugging
 
+Good and consistent monitoring is vital in nowadays applications.
+.NET brings that level of first class level of consistency. Additionnally, it can be extended to be used with other protocols or tools promoted by the community (Prometheus, OpenTelemetry, Grafana, etc).
+
+
 General development experience (mainly for distributed applications)
 Special mention to Aspire
 
