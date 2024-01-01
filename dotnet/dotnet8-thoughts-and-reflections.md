@@ -150,8 +150,20 @@ Backend development has also seen many changes. These are the most significant:
 The API development experience has changed considerably.
 It is way easier now to focus on the business side of the code relying on homogeneous and easy to use technical layers implementing the necessary plumbing to build enterprise ready solutions.
 
+
 # Distributed applications
 
+After thinking of services, the natural next step is to think of distributed applications.
+From this perspective, .NET has also evolved and gained in maturity (new containers with optimized composition, container integration, distributed logs, etc). .NET with Azure offer pretty impressive capabilities in this field:
+ - ACA (Azure Container for Apps)
+ - AKS (Azure Kubernes Service)
+ - APIM
+ - Azure Container Registry (ACR)
+ - Azure Monitor
+ - All the security services related to the services mentioned above
+
+
+Azure is not linked to .NET only. However, it was worth it to mention the multiplied potential of combining both.
 
 
 ## MAUI 8
