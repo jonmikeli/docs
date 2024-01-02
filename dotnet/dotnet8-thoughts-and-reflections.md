@@ -172,7 +172,7 @@ Besides these native features, there are initiatives like Dapr, Orleans, and man
 
 ## MAUI 8
 
-Microsoft attempts of building tools for mobile development have not always been successful.
+Microsoft's attempts of building tools for mobile development have not always been successful.
 
 MAUI comes as the next step of many of them.
 MAUI 8 has been delivered with the promise of solving the issues of the initial version of MAUI.
