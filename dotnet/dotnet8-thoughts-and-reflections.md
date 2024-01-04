@@ -27,7 +27,7 @@ So, I would dare to invite those who keep the .NET Framework image in their mind
  - Game development
  - IoT development (IoT Operations, and IoT Solutions at cloud level)
  - API development (WebAPIs, minimal APIs, CoreWCF, gRPC, etc)
- - Distributed applications (Aspire, Dapr, etc)
+ - Distributed applications (Aspire, DAPR, etc)
  - C# itself
  - compilation
  - containerization and optimized containers
