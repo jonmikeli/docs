@@ -1,5 +1,4 @@
 # .NET 8 Thoughts and Reflections
-# TODO
 
 .NET has been around for a while, going through different phases and transformations.
 We could even say quite fairly that it has been gone through very deep transformations.
