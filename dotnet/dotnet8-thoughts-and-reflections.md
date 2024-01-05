@@ -1,7 +1,7 @@
 # .NET 8, Thoughts
 
-.NET has been around for a while, going through different phases and transformations.
-We could even say quite fairly that it has been gone through very deep transformations.
+.NET has been around for a while, going through different levels of evolutions, growth and maturity.
+It is quite fair to say that .NET since .NET 5 is a new "product".
 
 Inherently, developers, architects and companies might have experienced different feelings and thoughts about .NET.
 
