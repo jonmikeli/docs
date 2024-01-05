@@ -30,7 +30,7 @@ You will find below some of them (not an exhaustive list).
  - API development (WebAPIs, minimal APIs, CoreWCF, gRPC, etc)
  - Distributed applications (Aspire, DAPR, etc)
  - C# itself
- - compilation
+ - compilation improvements, modes, AOT, etc
  - containerization and optimized containers
  - etc
 
