@@ -10,7 +10,9 @@ This post shares some personal thoughts (but trying to remain as objective as po
 # Current .NET version: .NET 8
 
 .NET 8 is the current version of .NET.
-It is now a cross platform framework. In the past, the .NET Framework was tightly linked to Windows but that has changed.
+It is a cross platform framework in contrast to .NET Framework.
+
+In the past, the .NET Framework was tightly linked to Windows but that has changed.
 Actually, a lot of things have changed. .NET covers now a lot of more areas, more efficiently and better.
 
 So, I would dare to invite those who keep the .NET Framework image in their minds, to just give a try to the "other" .NET and assess again if it could be a good choice to them.
