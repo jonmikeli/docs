@@ -45,6 +45,7 @@ You will find below some of them (not an exhaustive list).
 ## Community
 
 There is an important community around .NET contributing and enriching with valuable content, libraries, tools, etc.
+The number of interesting/good GitHub projects related to .NET are considerable.
 
 ## Tooling
 
