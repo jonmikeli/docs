@@ -31,7 +31,7 @@ You will find below some of them (not an exhaustive list).
  - Distributed applications (Aspire, DAPR, etc)
  - C# itself
  - compilation improvements, modes, AOT, etc
- - containerization and optimized containers
+ - containerization and chiseled containers
  - etc
 
 
