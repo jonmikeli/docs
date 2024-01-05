@@ -1,7 +1,7 @@
 # .NET 8, Thoughts
 
 .NET has been around for a while, going through different levels of evolutions, growth and maturity.
-It is quite fair to say that .NET since .NET 5 is a new "product".
+It is quite fair to say that .NET is following a total new strategy line since .NET Core, and especially after the unification of.NET 5.
 
 What it seems strange is that, even though .NET has been evolving significantly, some opinions seem not to have.
 This post shares some personal thoughts (but trying to remain as objective as possible) and invites readers to ignore all the opinionated contents (even this one) and just give a try to the current version of .NET.
