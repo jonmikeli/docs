@@ -3,8 +3,8 @@
 .NET has been around for a while, going through different levels of evolutions, growth and maturity.
 It is quite fair to say that .NET since .NET 5 is a new "product".
 
-What it seems strange is that, even though the product has been evolving significantly, some opinions about it have not.
-So, as an engineer, I just wanted to share some thoughts about .NET, try to invite readers to take time and build a new opinion based on the recent versions of .NET.
+What it seems strange is that, even though .NET has been evolving significantly, some opinions seem not to have.
+This post shares some personal thoughts (but trying to remain as objective as possible) and invites readers to ignore all the opinionated contents (even this one) and just give a try to the current version of .NET.
 
 What is the state of .NET today?
 
