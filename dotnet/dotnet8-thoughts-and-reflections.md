@@ -69,8 +69,8 @@ Rider is probably the most known alternative to Visual Studio and it is truly cr
 
 ## Learning curve
 
-.NET documentation and references needed a review.
-The Learn Team is working to change this and it is becoming better.
+The Learn Team is working continuously to refresh, update and improve all the official learning content from Microsoft.
+Microsoft Learn includes getting started tutorials, richer step by step tutorials or very detailed documentation.
 
 There are a lot of free resources to start learning .NET and even, go deeper in specific topics.
 There are also very good paid trainings from community members (ex: [https://dometrain.com](dometrain.com) from Nick Chapsas) or profesionnal training services.
