@@ -20,7 +20,7 @@ You will find below some of them (not an exhaustive list).
 # An excerpt of the changes/improvements in .NET 8
 
 .NET 8 is a cross-platform framework that covers different workloads, such as:
- - Web development (special mention to Blazor, the WASM framework that allows to build web applications with C#)
+ - Web development (special mention to Blazor, the framework to develop WASM apps in C#)
  - native and cross-platform mobile development (MAUI)
  - Desktop development (WPF, UWP, WinUI, MAUI) (not mentioning WinForms even though it seems still quite used)
  - Cloud development (APIs, Azure Functions, event/messages driven applications, data consuming applications, etc)
