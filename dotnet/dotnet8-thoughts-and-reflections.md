@@ -35,15 +35,8 @@ You will find below some of them (not an exhaustive list).
  - etc
 
 
-# Other important/interesting Aspects to reconsider about .NET 8
+# Other important/interesting Aspects to consider about .NET 8
 
-## Cross-platform
-
-.NET is cross-platform. It is not only cross-platform, but also cross-architecture (x86, x64, ARM, etc).
-
-> NOTE
-> 
-> There are parts of .NET like the UI related content where the cross-platform support is limited.
 
 ## Open source
 
