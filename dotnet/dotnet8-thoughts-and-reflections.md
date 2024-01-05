@@ -64,6 +64,8 @@ Visual Studio, my personal choice for most of the tasks, is truly a great IDE:
 Visual Studio Code developing and debugging experience remains limited compared to Visual Studio (when it comes to .NET developement).
 This said, it is growing in popularity because it addresses other needs and it is cross-platform (also free).
 
+Rider is probably the most known alternative to Visual Studio and it is truly cross-platform.
+
 
 ## Learning curve
 
