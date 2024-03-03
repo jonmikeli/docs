@@ -95,19 +95,6 @@ Quand on regarde dans l'ensemble, la courbe d'apprentissage des différents work
 Ceci fait de .NET un framework à très bon ROI, ce qui est toujours bon à prendre en tant que développeur et surtout, en tant qu'entreprise.
 
 
-
-The Learn Team is working continuously to refresh, update and improve all the official learning content from Microsoft.
-Microsoft Learn includes getting started tutorials, richer step by step tutorials or very detailed documentation.
-These resources are free.
-
-There are also very good paid trainings from community members (ex: [https://dometrain.com](dometrain.com) from Nick Chapsas) or profesionnal training services (Pluralsight or professional trainers).
-
-Some books are also excellent too.
-
-.NET learning curve is in the end, one among the most competitive ones and with a very valuable ROI.
-This point is a key en companies.
-
-
 ## Enterprise/architectural/developer needs
 
 Technical features and usability are one thing, but architectural/developer needs at enterprise level are another thing.
