@@ -196,12 +196,9 @@ D'autres projets comme Dapr, Orleans, Radius se penchent sur ces problématiques
 
 ## MAUI 8
 
-Microsoft's attempts of building tools for mobile development have not always been successful.
+J'ai hésité à faire une section différente sur MAUI mais je pense qu'il est intéressant de mettre en valeur les efforts par Microsoft et la communauté pour proposer une plateforme de développment cross-plateform (initialement mobile mais on sent la volonté d'aller au-delà).
 
-MAUI comes as the next step of many of them.
-MAUI 8 has been delivered with the promise of solving the issues of the initial version of MAUI.
-
-MAUI is often linked to mobile development. However, it can beyond that with cross-platform development for mobile and desktop applications.
+COmme mentionné, MAUI est la technologie .NET/XAML qui a pour but de construire des applications crossplatform (Windows, Android, iOS). Même si le concept est intéressant, les débuts ont été difficiles par les nombreux bugs. Microsoft a fait un focus important en .NET 8 pour essayer de tous les résoudre.
 
 
 ## Traces, logging, and debugging
