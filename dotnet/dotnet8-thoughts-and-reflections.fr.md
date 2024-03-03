@@ -1,14 +1,12 @@
 # .NET 8, faisons le point
 
 
-.NET est parmi nous depuis le début des années 2000, ce qui fait un bon bout de temps en IT.
-Le framework a beaucoup évolué et traversé différentes "époques", modes, tendances, etc.
-On pourrait même affirmer de manière assez légitime que la version actuelle du framework est assez différente de celle de ses débuts, dans son contenu mais aussi dans sa stratégie.
+.NET est parmi nous depuis le début des années 2000, ce qui fait un bon bout de temps.
+Le framework a beaucoup évolué et traversé différentes "époques", "modes", contextes et changements de stratégie.
+L'évolution a été telle que laa version actuelle du framework est assez différente de celle de ses débuts, dans son contenu mais aussi dans sa stratégie.
 
-Qui est .NET aujourd'hui?
-Qu'est-ce qu'il apporte?
-Envie d'en savoir un peu plus?
-
+Au-delà de cette transformation, on peut se demander qu'est-ce que ce framework a à nous offrir.
+L'idée de cet article est de faire un peu le bilan et ajouter une perspective depuis le monde de l'entreprise.
 
 
 .NET has been around for a while, going through different levels of evolutions, growth and maturity.
