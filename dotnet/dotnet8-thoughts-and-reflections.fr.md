@@ -201,10 +201,11 @@ J'ai hésité à faire une section différente sur MAUI mais je pense qu'il est 
 COmme mentionné, MAUI est la technologie .NET/XAML qui a pour but de construire des applications crossplatform (Windows, Android, iOS). Même si le concept est intéressant, les débuts ont été difficiles par les nombreux bugs. Microsoft a fait un focus important en .NET 8 pour essayer de tous les résoudre.
 
 
-## Traces, logging, and debugging
+## Traces, logging, et debugging
 
-Good and consistent monitoring is vital in nowadays applications.
-.NET brings that level of first class level of consistency. Additionnally, it can be extended to be used with other protocols or tools promoted by the community (Prometheus, OpenTelemetry, Grafana, etc).
+Les traces, logs et debugging sont un ensemble de sujets auxquels on ne pense pas toujours quand on se lance dans un développement ou le choix d'une technologie. Hors, ces points s'avère clé dans l'efficacité et l'usage d'un framework ou un autre.
+
+.NET offre des solutions qui ont fait ses preuves, consistantes, interopérables et simples à mettre en place (voire à étendre).
 
 
 # Bottom line
