@@ -100,6 +100,20 @@ Ceci fait de .NET un framework à très bon ROI, ce qui est toujours bon à pren
 Ces points sont importants mais les besoins vont souvent au-delà dans des environnements d'entreprise ou professionnels.
 Qu'en est-il?
 
+.NET offre de nos jours:
+ - un niveau de maturité très avancé
+ - une stabilité et qualité dans son évolution (même si la stabilité reste relative car l'écosystème évolue constamment)
+ - des roadmaps claires et publiques
+ - un support efficace
+ - une fiabilité importante
+ - des updates très fréquents pour corriger des bugs ou incrémenter la sécurité
+ - une sécurité testée et améliorée constamment
+ - une amélioration continue incéssante
+ - une projection temporelle rassurante
+ - des outils de migration quand certains changements de version exigent des upgrades importants
+ - des outils de travail intégrés, efficaces, stables et performants
+
+Ces éléments mettent .NET dans une position très robuste dans l'environnement professionnel.
 
 ## Enterprise/architectural/developer needs
 
