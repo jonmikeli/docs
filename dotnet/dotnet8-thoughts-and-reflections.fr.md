@@ -116,16 +116,16 @@ Qu'en est-il?
 Ces éléments mettent .NET dans une position très robuste dans l'environnement professionnel.
 
 
-## Ecosystem
+## Ecosystème
 
-The size of the ecosystem is hard to assess. There are probably other ecosystems larger in volume.
-This said, the .NET ecosystem is quite rich in terms of variety and volume (rich enough at least to avoid the closeness feeling).
+La taille de l'écosystème et la/les communauté(s) est difficile à estimer.
+Sans rentrer dans des considérations subjectives, l'écosystème .NET est significatif, varié et actif.
 
-That ecosystem relies on:
- - third editors
- - private companies
- - community
- - contributors (MVPs, RDs, other community members, etc)
+Cet écosystème est composé de:
+- éditeurs tiers
+- entreprises privées
+- communauté composée par de nombreux développeurs
+- contributeurs (MVPs, RDs, autres types de membres de la communauté, etc)
 
 
 ## Performances
