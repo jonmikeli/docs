@@ -3,21 +3,13 @@
 
 .NET est parmi nous depuis le début des années 2000, ce qui fait un bon bout de temps.
 Le framework a beaucoup évolué et traversé différentes "époques", "modes", contextes et changements de stratégie.
-L'évolution a été telle que laa version actuelle du framework est assez différente de celle de ses débuts, dans son contenu mais aussi dans sa stratégie.
+L'évolution a été telle que la version actuelle du framework est assez différente de celle de ses débuts, dans son contenu mais aussi dans sa stratégie.
 
 Au-delà de cette transformation, on peut se demander qu'est-ce que ce framework a à nous offrir.
-La question est quelque part assez naturelle. Par ailleurs, une partie de la communauté semble avoir des avis reposant sur des contextes ancrés dans le passé.
-Dans le respect de tous les avis et en tant qu'ingénieur, il me semblait intéressant d'essayer de faire cet effort de prise de perspective et le partager avec les lexteurs.
+La question est quelque part assez naturelle.
 
-De plus, il n'est pas toujours facile d'y voir clair dans un environnement qui ne cherche qu'à évoluer et où les axes pérennes sont difficiles à identifier.
-
-
-
-.NET has been around for a while, going through different levels of evolutions, growth and maturity.
-It is quite fair to say that .NET is following a total new strategy line since .NET Core, and especially after the unification of.NET 5.
-
-What seems strange is that, even though .NET has been evolving, some opinions seem to remain attached to experiences in the past.
-This post shares some personal thoughts (but trying to remain as objective as possible) and invites readers to ignore all the opinionated contents (even this one) to just give a try to the current version of .NET.
+Par ailleurs, il est assez étonnant de remarquer que malgré tous ces changements, les avis d'une certaine partie de la communauté semblent ancrés à un contexte révolu.
+Cet article synthétise la nouvelle situation en essayant de rester aussi objectif que possible et invite les lecteurs à se faire un nouvel avis en ignorant tout autre avis (même celui-ci) et comprendre ce que .NET a à offrir aujourd'hui.
 
 
 # Current .NET version: .NET 8
