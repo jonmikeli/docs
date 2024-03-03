@@ -94,6 +94,12 @@ Quand on regarde l'un des sujets en particulier, la courbe d'apprentissage est r
 Quand on regarde dans l'ensemble, la courbe d'apprentissage des différents workloads reste également très raisonnable.
 Ceci fait de .NET un framework à très bon ROI, ce qui est toujours bon à prendre en tant que développeur et surtout, en tant qu'entreprise.
 
+## Besoins d'entreprise et/ou professionels
+
+.NET répond bien aux critères de fonctionnalités techniques, usage et son aspect pratique.
+Ces points sont importants mais les besoins vont souvent au-delà dans des environnements d'entreprise ou professionnels.
+Qu'en est-il?
+
 
 ## Enterprise/architectural/developer needs
 
