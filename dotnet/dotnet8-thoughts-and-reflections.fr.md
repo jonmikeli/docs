@@ -33,20 +33,20 @@ Vous trouverez ci-dessous une liste (non exhaustive) des axes d'amélioration le
 
 # Extract des changements ou sujets d'améioration in .NET 8
 
-.NET 8 is a cross-platform framework that covers different workloads, such as:
+
+.NET couvre de spectre assez large en termes de domaines de développement.
+Les sujets les plus siginificatifs sont:
  - Web development (special mention to Blazor, the framework to develop WASM apps in C#)
  - native and cross-platform mobile development (MAUI)
  - Desktop development (WPF, UWP, WinUI, MAUI) (not mentioning WinForms even though it seems still quite used)
  - Cloud development (APIs, Azure Functions, event/messages driven applications, data consuming applications, etc)
+ - Containerization
  - Machine learning
- - Game development
  - IoT development (IoT Operations, and IoT Solutions at cloud level)
  - API development (WebAPIs, minimal APIs, CoreWCF, gRPC, etc)
  - Distributed applications (Aspire, DAPR, etc)
- - C# itself
- - compilation improvements, modes, AOT, etc
- - containerization and chiseled containers
- - etc
+ - certains aspects de la gestion et accès aux données
+
 
 
 # Other important/interesting Aspects to consider about .NET 8
