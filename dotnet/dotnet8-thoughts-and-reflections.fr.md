@@ -81,28 +81,10 @@ L'une des dernières nouveautés est la possibilité de construire des images Do
 ## Contenus
 TODO
 
-
-## Tooling
-
-Tooling around .NET is probably among the best in the industry.
-There are proprietary IDEs like Visual Studio, Rider, etc.
-
-There are also free IDEs like Visual Studio Code, Visual Studio Community, etc.
-
-The same IDE is used for the different types of development.
-
-Visual Studio, my personal choice for most of the tasks, is truly a great IDE:
- - the developer experience is quite good (IntelliSense, tools, extensions, performance analyzers, thread analyzers, etc)
- - the debugging experience is unique.
- - seamless integration with Azure, GitHub, Azure DevOps, etc (Git integration could be better though)
- 
-Visual Studio Code developing and debugging experience remains limited compared to Visual Studio (when it comes to .NET developement).
-This said, it is growing in popularity because it addresses other needs and it is cross-platform (also free).
-
-Rider is probably the most known alternative to Visual Studio and it is truly cross-platform.
+## Courbe apprentissage
+TODO
 
 
-## Learning curve
 
 The Learn Team is working continuously to refresh, update and improve all the official learning content from Microsoft.
 Microsoft Learn includes getting started tutorials, richer step by step tutorials or very detailed documentation.
