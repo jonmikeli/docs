@@ -130,7 +130,10 @@ Cet écosystème est composé de:
 
 ## Performances
 
-Performance improvements since .NET 5 are being quite impressive actually.
+
+Comme mentionné précédemment, l'amélioration des performances est un vrai sujet. Le bond en avant de .NET en ce sujet est assez impresionnant et les efforts continuent. Les nouveaux modes de compilation devraient apporter un autre niveau de gains sur cet aspect.
+
+Au-delà du gain direct sur les temps de réponse, ceci se traduit aussi en une réduction des coûts pour les services Azure.
 
 
 ## EF8
