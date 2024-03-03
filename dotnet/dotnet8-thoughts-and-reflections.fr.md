@@ -53,11 +53,34 @@ Les sujets les plus siginificatifs sont:
 
 .NET 8 est Open Source. En effet, ceci continue à surprendre encore mais .NET 8 est bien Open Source.
 
+De même, une communauté très riche et active alimente et enrichit .NET 8.
+TODO
+Exemples de projets
+//Rajouter des exemples de projets opensource
 
-## Community
 
-There is an important community around .NET contributing and enriching with valuable content, libraries, tools, etc.
-The number of interesting/good GitHub projects related to .NET are considerable.
+## L'outillage
+
+### IDEs et interfaces de développement
+
+L'outillage mérite de faire une section à part.
+
+Ce dernier a également évolué avec .NET:
+ - la famille complète des différentes version de Visual Studio, étant toujours un IDE exceptionnel en termes de productivité (fonctionnalité, templates, ergonomie, debugg, etc)
+ - Visual Studio Code qui, même si intéressant, reste loin Visual Studio pour du développement .NET
+
+Des éditeurs tiers se sont également faits une place, en particulier, dans la zone des IDEs cross-platform et en adressant certains types de projets (ex: Rider).
+
+### CLI
+
+.NET CLI est souvent mis de côté mais ce dernier est très riche.
+L'une des dernières nouveautés est la possibilité de construire des images Docker directement en CLI, sans dépendre du CLI Docker et sans devoir construire des Dockerfile.
+
+
+
+## Contenus
+TODO
+
 
 ## Tooling
 
