@@ -138,10 +138,11 @@ Au-delà du gain direct sur les temps de réponse, ceci se traduit aussi en une 
 
 ## EF8
 
-Entity Framework Core is quite convenient to use and answers to most of needs.
-However, some alternatives were more performant at some specific tasks.
+Entity Framework a souvent été dans le centre de critques dues aux performances.
+Il est vrai que malgré sa richesse fonctionnelle, il intégrait des axes d'amélioration dans ce chapitre (surtout pour les solutions gérant des volumes d'appel importants et avec des flux de données importants également).
 
-With .NET8, the gap between EF8 and its alternatives has been narrowed considerably.
+D'importants travaux et améliorations ont été réalisés dans la version 8.
+Ainsi, EF Core 8 redevient une solution très compétitive.
 
 
 ## Blazor 8
