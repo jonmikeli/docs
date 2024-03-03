@@ -6,7 +6,11 @@ Le framework a beaucoup évolué et traversé différentes "époques", "modes", 
 L'évolution a été telle que laa version actuelle du framework est assez différente de celle de ses débuts, dans son contenu mais aussi dans sa stratégie.
 
 Au-delà de cette transformation, on peut se demander qu'est-ce que ce framework a à nous offrir.
-L'idée de cet article est de faire un peu le bilan et ajouter une perspective depuis le monde de l'entreprise.
+La question est quelque part assez naturelle. Par ailleurs, une partie de la communauté semble avoir des avis reposant sur des contextes ancrés dans le passé.
+Dans le respect de tous les avis et en tant qu'ingénieur, il me semblait intéressant d'essayer de faire cet effort de prise de perspective et le partager avec les lexteurs.
+
+De plus, il n'est pas toujours facile d'y voir clair dans un environnement qui ne cherche qu'à évoluer et où les axes pérennes sont difficiles à identifier.
+
 
 
 .NET has been around for a while, going through different levels of evolutions, growth and maturity.
