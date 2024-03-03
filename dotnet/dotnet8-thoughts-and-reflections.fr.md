@@ -154,19 +154,23 @@ Microsoft a commencé à travailler dessus il y a déjà plusieurs années. Aujo
 Il reste encore des axes d'amélioration mais l'alternative est de plus en plus sérieuse.
 
 
-## API developement
+## Développement API
 
-Backend development has also seen many changes. These are the most significant:
- - REST APIs based on WebAPI (controller-based development)
+Le développement d'APIs est dévenu inévitable et vital de nos jours.
+
+.NET apporte également beaucoup de richesse sur ces aspects (peut-être plus que partout ailleurs):
+ - REST APIs basées sur WebAPI (controller-based development)
  - minimal APIs
  - gRPC
  - CoreWCF
- - their monitorization, and governance (OpenTelemetry integration, custom metrics, etc generic to .NET, not only API development)
+ - containerisation
+ - monitoring et governance (standards comme Open Telemetry)
  - first class resilience mechanisms
  - YARP
-
-The API development experience has changed considerably.
-It is way easier now to focus on the business side of the code relying on homogeneous and easy to use technical layers implementing the necessary plumbing to build enterprise ready solutions.
+ - les nombreux templates pour Visual Studio et/ou .NET CLI
+ - l'expérience de debug
+ - http/rest files
+ - etc
 
 
 # Distributed applications
@@ -174,6 +178,7 @@ It is way easier now to focus on the business side of the code relying on homoge
 After thinking of services, the natural next step is to think of distributed applications.
 From this perspective, .NET has also evolved and gained in maturity (new containers with optimized composition, container integration, distributed logs, etc). .NET with Azure offer pretty impressive capabilities in this field:
  - Azure App Service (containerized or not)
+ - Aspire
  - Azure Container for Apps (ACA)
  - Azure Kubernes Service (AKS)
  - APIM
