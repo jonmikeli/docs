@@ -208,9 +208,10 @@ Les traces, logs et debugging sont un ensemble de sujets auxquels on ne pense pa
 .NET offre des solutions qui ont fait ses preuves, consistantes, interopérables et simples à mettre en place (voire à étendre).
 
 
-# Bottom line
+# Conclusion
 
-All this is only a very small portion of what .NET is today. The general development experience is soft, efficient, with less frictions than ever.
-It seems .NET is not only a great technical alternative but also, a business one.
+Cet artcile n'est qu'une vision très réductrice de ce que .NET peut apporter.
+Mais le but était plutôt d'illustrer certains des éléments clés pour déclencher une réflexion et prise de décision plus objective et terrénale (encore une fois, en respectant tous les avis).
 
-With all this is combined with Azure, DevOps (Azure DevOps, GitHub, whatever), communities and the whole ecosystem, isn't it a great time to be a .NET developer?
+En tant que touche personnelle, mon expérience avec .NET reste parmis les plus efficientes en entreprise. Le ratio effort/valeur reste parmi les meilleurs et l'outillage est exceptionnel (Visual Studio dans mon cas).
+L'intégration de librairies, de SDKs (Azure, etc) et la stabilité/relibilité du framework sont également des atouts majeurs dans le monde professionnel.
