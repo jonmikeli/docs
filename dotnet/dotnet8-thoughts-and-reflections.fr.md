@@ -173,12 +173,12 @@ Le développement d'APIs est dévenu inévitable et vital de nos jours.
  - etc
 
 
-# Distributed applications
+# Application distribuées
 
-After thinking of services, the natural next step is to think of distributed applications.
-From this perspective, .NET has also evolved and gained in maturity (new containers with optimized composition, container integration, distributed logs, etc). .NET with Azure offer pretty impressive capabilities in this field:
+Le sujet naturel après le développement de services est surement le développement d'applications distribuées.
+
+.NET offre une richesse de possibilités très intéressante également sur cet aspect. Combiné à Azure, le duo devient très attractif:
  - Azure App Service (containerized or not)
- - Aspire
  - Azure Container for Apps (ACA)
  - Azure Kubernes Service (AKS)
  - APIM
@@ -186,11 +186,12 @@ From this perspective, .NET has also evolved and gained in maturity (new contain
  - Azure Monitor
  - All the security services related to the services mentioned above
 
-Azure is not linked to .NET only. However, it was worth it to mention the multiplied potential of combining both.
+Mention spéciale à Aspire, nouveau projet de Microsoft, lié à .NET, pour développer des solutions distribuées.
+https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview?WT.mc_id=AZ-MVP-5004280
 
-Besides these native features, there are initiatives like Dapr, Orleans, and many other that extend the alternatives of building distributed applications with .NET.
+L'initiative a eu un tel accueil et engougement que le sujet est en train d'évoluer très répidement.
 
-.NET 8 has also been released with Aspire, a new type of projects to address common and repetitive problems when it comes to developing distributed applications (containerized or not). Aspire is still in preview but looks very promising.
+D'autres projets comme Dapr, Orleans, Radius se penchent sur ces problématiques d'applications distribuées.
 
 
 ## MAUI 8
