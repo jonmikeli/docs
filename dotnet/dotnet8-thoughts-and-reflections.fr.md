@@ -2,8 +2,13 @@
 
 
 .NET est parmi nous depuis le début des années 2000, ce qui fait un bon bout de temps en IT.
-Bien entendu, le framework a beaucoup évolué mais l'écosystème technologique aussi.
-Il est peut être intéressant de se poser un peu, prendre du recul et faire le point de la situation de .NET et essayer de comprendre ce qu'il offre aux développeurs.
+Le framework a beaucoup évolué et traversé différentes "époques", modes, tendances, etc.
+On pourrait même affirmer de manière assez légitime que la version actuelle du framework est assez différente de celle de ses débuts, dans son contenu mais aussi dans sa stratégie.
+
+Par ailleurs, 
+
+Envie d'en savoir un peu plus?
+
 
 
 .NET has been around for a while, going through different levels of evolutions, growth and maturity.
