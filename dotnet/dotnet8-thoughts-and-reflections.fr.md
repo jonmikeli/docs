@@ -147,12 +147,11 @@ Ainsi, EF Core 8 redevient une solution très compétitive.
 
 ## Blazor 8
 
-Web development is a very special type of development.
-The issues related to technologies like Javascript and the frameworks/products on top of it have been growing.
+Le développement web a été un sujet sur lequel Microsoft s'est vu dépasser par différentes autres technologies.
+Depuis quelques temps, Microsoft (et d'autres grands éditeurs) cherchent à radicalement changer l'expérience du développement web (coûts, retour sur investissement, fonctionnalités, possibilités, etc). Web Assembly est l'une des technologies qui semble prendre le plus de poids en tant qu'alternative/solution. Blazor est la solution de Microsoft pour créer des projets de type Web Assembly.
 
-WASM tries to bring a more efficient and productive alternative (with more potential too and technologically at another level of possibilities). Blazor is Microsoft's answer to this.
-
-Blazor is considered as a potential game changer by part of the Web Developers.
+Microsoft a commencé à travailler dessus il y a déjà plusieurs années. Aujourd'hui, Blazor 8 commence à atteindre un niveau de matûrité et performances intéressants. Le niveau de mâturité inclut aussi les outils de développement.
+Il reste encore des axes d'amélioration mais l'alternative est de plus en plus sérieuse.
 
 
 ## API developement
