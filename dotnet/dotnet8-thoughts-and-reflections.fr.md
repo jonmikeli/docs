@@ -17,15 +17,18 @@ Cet article synthétise la nouvelle situation en essayant de rester aussi object
 .NET 8 est la version actuelle de .NET.
 Il s'agit d'une version LTS (Long Term Service), ce qui signifie que le support et les updates seront garantis et maintenus plus longtemps que pour les versions STS (Short Term Service).
 
-.NET 8 est construit dans la continuité de la fusion de .NET Framework and .NET Core. Cette fusion a été amorcée pour .NET 5 et s'enrichit de version en version.
+.NET 8 est construit dans la continuité de la fusion de .NET Framework and .NET Core. Cette fusion a été amorcée par .NET 5 et s'enrichit de version en version.
 
-.NET 8 est conçu pour être cross platform (Windows, Linuw et MacOS).
+.NET 8 est conçu pour être cross platform (Windows, Linuw et MacOS) en opposition à .NET Framework, très couplé à Windows.
 .NET 7 et .NET 8 en particulier ont amené de gros progrès sur ces sujets.
-Aujourd'hui, la cross-platform est assez riche sauf sur certaines des technos UI desktop. Mais il existe des solutions qui cherchent à apporter des solutions en ce sens (Blazor, MAUI même si tout n'est pas rose avec MAUI encore).
+Aujourd'hui, l'aspect cross-platform est assez riche sauf sur certaines des technos UI desktop. Mais il existe des solutions qui cherchent à apporter des solutions en ce sens (Blazor, MAUI même si tout n'est pas rose avec MAUI encore).
 
-Au-delà de cet aspect cross-platform, .NET 8 a été fortement revu pour améliorer les performances de manière assez significative.
-En ce sens, de nouveaux modes de compilation sont en train d'être rajoutés.
-De manière similaire, la containerisation est en train d'être fortement enrichie et optimisée (voir plus loin pour les détails).
+Au-delà de cet aspect cross-platform, .NET 8 a été fortement revu pour améliorer la sécurité et les performances de manière assez significative.
+En effet, les librairies pour le cryptage sont désormais nettement plus cross-platform et de nouveaux modes de compilation sont en train d'être rajoutés pour améliorer drastiquement la taille des packages et les performances. En plus de la compilation, le code a été profondement revu pour le rendre plus performant à la base.
+
+De manière similaire, la containerisation est en train d'être fortement revue et optimisée (voir plus loin pour les détails).
+
+Vous trouverez ci-dessous une liste (non exhaustive) des axes d'amélioration les plus significatifs.
 
 
 # Current .NET version: .NET 8
