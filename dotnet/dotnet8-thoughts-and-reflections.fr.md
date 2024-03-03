@@ -49,12 +49,10 @@ Les sujets les plus siginificatifs sont:
 
 
 
-# Other important/interesting Aspects to consider about .NET 8
+# D'autres sujets intéressants sur .NET 8
 
+.NET 8 est Open Source. En effet, ceci continue à surprendre encore mais .NET 8 est bien Open Source.
 
-## Open source
-
-.NET is opens source.
 
 ## Community
 
