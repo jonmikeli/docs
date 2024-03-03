@@ -5,8 +5,8 @@
 Le framework a beaucoup évolué et traversé différentes "époques", modes, tendances, etc.
 On pourrait même affirmer de manière assez légitime que la version actuelle du framework est assez différente de celle de ses débuts, dans son contenu mais aussi dans sa stratégie.
 
-Par ailleurs, 
-
+Qui est .NET aujourd'hui?
+Qu'est-ce qu'il apporte?
 Envie d'en savoir un peu plus?
 
 
