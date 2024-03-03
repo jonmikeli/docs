@@ -12,6 +12,22 @@ Par ailleurs, il est assez étonnant de remarquer que malgré tous ces changemen
 Cet article synthétise la nouvelle situation en essayant de rester aussi objectif que possible et invite les lecteurs à se faire un nouvel avis en ignorant tout autre avis (même celui-ci) et comprendre ce que .NET a à offrir aujourd'hui.
 
 
+# Version actuelle: .NET 8
+
+.NET 8 est la version actuelle de .NET.
+Il s'agit d'une version LTS (Long Term Service), ce qui signifie que le support et les updates seront garantis et maintenus plus longtemps que pour les versions STS (Short Term Service).
+
+.NET 8 est construit dans la continuité de la fusion de .NET Framework and .NET Core. Cette fusion a été amorcée pour .NET 5 et s'enrichit de version en version.
+
+.NET 8 est conçu pour être cross platform (Windows, Linuw et MacOS).
+.NET 7 et .NET 8 en particulier ont amené de gros progrès sur ces sujets.
+Aujourd'hui, la cross-platform est assez riche sauf sur certaines des technos UI desktop. Mais il existe des solutions qui cherchent à apporter des solutions en ce sens (Blazor, MAUI même si tout n'est pas rose avec MAUI encore).
+
+Au-delà de cet aspect cross-platform, .NET 8 a été fortement revu pour améliorer les performances de manière assez significative.
+En ce sens, de nouveaux modes de compilation sont en train d'être rajoutés.
+De manière similaire, la containerisation est en train d'être fortement enrichie et optimisée (voir plus loin pour les détails).
+
+
 # Current .NET version: .NET 8
 
 .NET 8 is the current version of .NET.
