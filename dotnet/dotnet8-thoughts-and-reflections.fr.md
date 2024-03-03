@@ -79,10 +79,20 @@ L'une des dernières nouveautés est la possibilité de construire des images Do
 
 
 ## Contenus
-TODO
+
+Les contenus disponibles en ligne (gratuits et payants) sont nombreux.
+La documentation officielle (Microsoft Learn) est relativement acceptable (bien pour démarrer mais pas suffisante à mes yeux pour approfondir les sujets).
+Il existe néanmoins des contenus payants de très bonne qualité pour aller plus loin (ex: [dometrain.com](dometrain.com) de Nick Chapas, Pluralsight, etc).
+
+Apress et Packt publient également de très bons livres sur les différents sujets autour de .NET.
+
 
 ## Courbe apprentissage
-TODO
+
+La "simplicité" et la cohérence de .NET, la richesse des librairies, la variété des projets possibles font de .NET un framework très efficient et multiusages.
+Quand on regarde l'un des sujets en particulier, la courbe d'apprentissage est relativement courte.
+Quand on regarde dans l'ensemble, la courbe d'apprentissage des différents workloads reste également très raisonnable.
+Ceci fait de .NET un framework à très bon ROI, ce qui est toujours bon à prendre en tant que développeur et surtout, en tant qu'entreprise.
 
 
 
