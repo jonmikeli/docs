@@ -31,17 +31,7 @@ De manière similaire, la containerisation est en train d'être fortement revue 
 Vous trouverez ci-dessous une liste (non exhaustive) des axes d'amélioration les plus significatifs.
 
 
-# Current .NET version: .NET 8
-
-.NET 8 is the current version of .NET.
-It is a cross platform framework in contrast to .NET Framework.
-Indeed, .NET Framework was tightly linked to Windows.
-
-Besides this aspect, .NET covers now a lot of more areas, more efficiently and better.
-You will find below some of them (not an exhaustive list).
-
-
-# An excerpt of the changes/improvements in .NET 8
+# Extract des changements ou sujets d'améioration in .NET 8
 
 .NET 8 is a cross-platform framework that covers different workloads, such as:
  - Web development (special mention to Blazor, the framework to develop WASM apps in C#)
