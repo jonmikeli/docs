@@ -1,6 +1,6 @@
 # .NET 8 REST API Template
 
-This solution template is the result of the evolution of many other templates. It includes the solution to many problems faced in real-life projects as well as the will to follow a certain level of good practices.
+This Visual Studio solution template is the result of the evolution of many other templates. It includes the solution to many problems faced in real-life projects as well as the will to follow a certain level of good practices.
 
 The "Why" of this extension is to cover the need of business-oriented templates. IDEs (or .NET for .NET CLI) come with full of technical templates. However, I thought it could be valuable to create value with deeper approaches and help developers in their daily work.
 
