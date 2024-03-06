@@ -1,10 +1,9 @@
 # .NET 8 YARP Template
 
-This Visual Studio solution template is the result of different works on how to help developers when it comes to developing distributed applications (backend). It is quite common to implement a gateway (or many) in such solutions.
-
-It includes the solution to many problems faced in real-life projects as well as the will to follow a certain level of good practices.
+This Visual Studio solution template is the result of different works on how to help developers when it comes to developing distributed applications (backend). It is quite common to implement a gateway (or many) in such solutions. This extensions helps in that task and provides a starting point to implement a gateway using YARP (Yet Another Reverse Proxy).
 
 The created template implements a quite simplistic but complete (and operational) solution.
+It includes common settings and a configuration by default that can be updated afterwards.
 
 The "Why" of this extension is to simplify developers' lives and help them to find easy ways to implement basic features, with patterns and good practices, without having to spend a lot of time looking for "how tos". The extension absorbs that work and offers it to developers.
 
@@ -13,33 +12,32 @@ IDEs come with full of technical templates. However, I thought it could be meani
 Choices are based on experiences that might be biased and as a result, the template might have an opinionated perspective.
 Feel free to provide feedback and use the template at will.
 
-This template creates a Visual Studio solution implementing the features below:
- - minimize dependencies
- - configurable reflection
- - configurable JSON transcoding
- - configurable OpenAPI
 
+### YARP
 
-## Why?
+YARP is a reverse proxy, used in many Microsoft products, that allows to create a gateway to expose multiple services through a single access endpoint. It is a great solution to create a gateway for a microservices architectures.
 
-As mentioned above, the "Why" of this extension is to cover the need of templates with something else than pure technical content. "Technical" templates are great but inhere, the idea is to solve another type of need and create a different type of value.
+It includes features like:
+ - Swagger UI
+ - Health checks
+ - Routing
+ - Request Logging
+ - Rate limiting
+ - Caching
+ - Compression
+ - Request and response transformations
+ - Request and response tracing
+ - Protocol translation
+ - Load balancing
+ - etc
 
-Visual Studio will not generate business code (yet?). The idea is to help developers to maximize the creation of value.
-Also, the IT environment changes fast and widely. It might end being very time consuming starting to be productive with new technologies. This extension tries to save some time providing solutions from the real world and based on good practices.
-
-
-### gRPC APIS?
-
-After RPC, SOAP and many other binary (proprietary) services, it was the time of REST APIs (mainly JSON).
-THey brought kind of "simplicity", cross-platform and a sort of "efficiency". This said, it also came with missing features and some performance drawbacks compared to other types of services.
-The natural evolution leads us to gRPC, with binary serialization and way more efficient than REST JSON APIs.
-The development mode is a bit more complex than REST API's but this is another reason why this extension was built and released.
+More information about [YARP](https://microsoft.github.io/reverse-proxy/?WT.mc_id=AZ-MVP-5004280).
 
 ## Where to find it?
 
 The extension might be found:
- - in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8gRPCAPIVSTemplate?WT.mc_id=AZ-MVP-5004280) (Visual Studio version)
- - in NuGet.org repository [.NET CLI version](https://www.nuget.org/packages/JMI.DotNet8.GRPC.API.Template.CSharp/?WT.mc_id=AZ-MVP-5004280)
+ - in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8YARPVSTemplate?WT.mc_id=AZ-MVP-5004280) (Visual Studio version)
+ - in NuGet.org repository [.NET CLI version](https://www.nuget.org/packages/JMI.Net8.Gateway.Template.CSharp/?WT.mc_id=AZ-MVP-5004280)
 
 > NOTE
 >
@@ -50,14 +48,14 @@ The extension might be found:
 
 ### Visual Studio
 
-The extension might be installed from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8gRPCAPIVSTemplate?WT.mc_id=AZ-MVP-5004280).
+The extension might be installed from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8YARPVSTemplate?WT.mc_id=AZ-MVP-5004280).
 If the VSIX is downloaded to the local machine, you only need to double-click on it and it triggers the installation process.
 
 The extension can also be installed from the Extensions menu in Visual Studio.
 
 ### .NET CLI
 
-The extension might be installed from the [NuGet.org repository](https://www.nuget.org/packages/JMI.DotNet8.GRPC.API.Template.CSharp/?WT.mc_id=AZ-MVP-5004280) using the following command:
+The extension might be installed from the [NuGet.org repository](https://www.nuget.org/packages/JMI.Net8.Gateway.Template.CSharp/?WT.mc_id=AZ-MVP-5004280) using the following command:
 
 ```bash
 dotnet new -i <package name>
