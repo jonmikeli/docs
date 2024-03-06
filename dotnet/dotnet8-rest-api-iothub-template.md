@@ -38,16 +38,6 @@ As mentioned above, the "Why" of this extension is to cover the need of template
 Visual Studio will not generate business code (yet?). The idea is to help developers to maximize the creation of value. Business oriented APIs might be "complex" in certain aspects and generate considerable technical debt if "bad" decisions are made. The extension provides an opinionated canvas to solve the mentioned problems and create a proposal of value.
 
 
-### REST "Business" APIS?
-
-The initial and natural use of such a template would be for complex and rich REST APIs. RESTFul APIs are not meant to contain business logic because of their nature and inherent definition (resource oriented, not business logic oriented).
-This said, due to the "everything REST" trend, it is quite common to find (and even have to develop) business REST APIs.
-
-### "Simple" APIs vs Complex APIs
-
-With this in mind, rich and business APIs might start "simple" but, quite soon, they grow and end up needing some structure and segregation of concerns.
-This template anticipates that and, even though it might seem a bit overkill for an initial and simple API, it will help developers to keep their code clean and structured.
-
 ### A concentrate of "how tos"
 
 Technology evolves fast, very fast. At the same time, developers come from very different paths, some of them not giving time, importance or focus enough to specific topics. Saying that all the needed concepts, principles and patterns are understood, there is still a need to know how to use a given technology stack to implement them. This template tries to help with that.
@@ -56,8 +46,8 @@ Of course, the template integrates specific choices when it comes to some practi
 ## Where to find it?
 
 The extension might be found:
- - in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8RESTAPIDBTemplate?WT.mc_id=AZ-MVP-5004280) (Visual Studio version)
- - in NuGet.org repository [.NET CLI version](https://www.nuget.org/packages/JMI.DotNet8.REST.API.DB.Template.CSharp/?WT.mc_id=AZ-MVP-5004280)
+ - in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.IoTHubDotNet8RESTAPITemplate?WT.mc_id=AZ-MVP-5004280) (Visual Studio version)
+ - in NuGet.org repository [.NET CLI version](https://www.nuget.org/packages/JMI.DotNet8.IoTHub.REST.API.Template.CSharp/?WT.mc_id=AZ-MVP-5004280)
 
 > NOTE
 >
@@ -68,14 +58,14 @@ The extension might be found:
 
 ### Visual Studio
 
-The extension might be installed from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8RESTAPIDBTemplate?WT.mc_id=AZ-MVP-5004280).
+The extension might be installed from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.IoTHubDotNet8RESTAPITemplate?WT.mc_id=AZ-MVP-5004280).
 If the VSIX is downloaded to the local machine, you only need to double-click on it and it triggers the installation process.
 
 The extension can also be installed from the Extensions menu in Visual Studio.
 
 ### .NET CLI
 
-The extension might be installed from the [NuGet.org repository](https://www.nuget.org/packages/JMI.DotNet8.REST.API.DB.Template.CSharp/?WT.mc_id=AZ-MVP-5004280) using the following command:
+The extension might be installed from the [NuGet.org repository](https://www.nuget.org/packages/JMI.DotNet8.IoTHub.REST.API.Template.CSharp/?WT.mc_id=AZ-MVP-5004280) using the following command:
 
 ```bash
 dotnet new -i <package name>
