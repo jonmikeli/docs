@@ -1,15 +1,21 @@
 # .NET 8 REST API IoT Hub Template
 
-This Visual Studio solution template is the result of the evolution of many other templates. It includes the solution to many problems faced in real-life projects as well as the will to follow a certain level of good practices.
+This Visual Studio solution template is the result of the experience fo different IoT projects where the creation of such a solution was quite repetitive.
 
-The "Why" of this extension is to cover the need of business-oriented templates. IDEs come with full of technical templates. However, I thought it could be valuable to create value with deeper approaches and help developers in their daily work.
+The "Why" of this extension is to cover the need of industrializing the implementation of such solutions, taking advantage of the different experiences and the foundations used to build REST API solutions.
 
-The adopted architecture is not a full and strict Domain Driven solution to avoid a too extreme position and extend the usability of the template. This said, it still follows a business (or domain) oriented approach.
+The adopted architecture relies on choices made in the extension this work is based on (REST API Solution Extension, documented [here](dotnet8-rest-api-template.md)).
 
 Choices are based on experiences that might be biased and as a result, the template might have an opinionated perspective.
 Feel free to provide feedback and use the template at will.
 
 This template creates a Visual Studio solution with many projects answering to the problems below:
+ - expose Azure IoT Hub Service API's technical features
+ - build a façade of such features
+ - have the possibility to enrich the mentioned features with business aspects (ex: commissioning control, membership controls for different commands, etc)
+ - implement customized provisioning mechanisms
+
+From the technical perspective:
  - minimize dependencies
  - implement the most used technical mechanisms like:
     - API Versioning (URL based but it can be updated)
@@ -22,6 +28,7 @@ This template creates a Visual Studio solution with many projects answering to t
     - a fully wired sample of code (database persistence included based on Entity Framework Core and SQL Database)
     - partial test code 
     - automatic documentation (included at OpenAPI level)
+    
 
 
 ## Why?
