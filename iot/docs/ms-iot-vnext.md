@@ -18,5 +18,20 @@ As mentioned initially, this post will not mention any specific content but this
 
 ## What to expect
 
+Commitment and investments are palpable.
+Will they solve all the issues? Hard to know.
+Is Microsoft taking into account the feedback they have been receiving in the recent years? More than true.
+
+New features are already coming and some of them start to be public.
+A lot more should come.
+
+
 ## Bottom line
 
+In order to make the message inhere very clear:
+-  no, Microsoft has not and does not plan to abandon IoT.
+-  yes, clear commitment has been showed during these days.
+-  
+
+IoT is a key part of nowadays world. It also feeds other fields like data and AI.
+Improvements and new features are coming. Microsoft has needed some time to rethink about all the collected feedback, reorganize and continue building. Clear and specific steps are in progress.
