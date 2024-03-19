@@ -1,7 +1,8 @@
 # IoT Tools
 
 This section enumerates some of the tools that I have been building for IoT and Azure (PaaS) solutions. The spirit of the whole set of tools is to:
- - ease developers life
+ - ease developers' life
+ - simplify and ease the first steps
  - accelerate development
  - increase quality
  - absorb a certain level of complexity
