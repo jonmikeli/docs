@@ -183,6 +183,21 @@ MAUI is often linked to mobile development. However, it can beyond that with cro
 Good and consistent monitoring is vital in nowadays applications.
 .NET brings that level of first class level of consistency. Additionnally, it can be extended to be used with other protocols or tools promoted by the community (Prometheus, OpenTelemetry, Grafana, etc).
 
+## IoT
+
+The IoT ecosystem is following a new transformational pivot. This world has existed since very long time but technical evolutions, new solutions and key role of solution/technologies editors had accelerate and ease the way of creating value (and inherently, adoption since the initial barrier was lowered).
+Many editors and solutions providers have changed their strategies recently.
+Added to this, the considerable internal changes in Microsoft's IoT internal teams added to the absence of clear communication have fed rumours.
+
+Having had the chance to talk directly to Microsoft's IoT teams, it is clear that Microsoft is still investing seriously in IoT. Our conversations are under NDA but it is important to state clearly that Microsoft is still investing seriously in IoT and clear up any doubts.
+
+It would be ideal that Microsoft states this very clearly too. They have heard the message and that communication will come.
+
+Why to mention IoT in a .NET 8 post? Because .NET is a key part of the IoT ecosystem. .NET can be used in IoT solutions and truly helps to streamline the developments.
+
+.NET can be even be used in MCU devices with [.NET nanoFramework](https://www.nanoframework.net/), an amazing project created by [José Simões](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAAAZ-U8BowawG3qPgzG7of9-rx6YOAuWPaI&keywords=jos%C3%A9%20sim%C3%B5es&origin=RICH_QUERY_SUGGESTION&position=0&searchId=abd63094-761f-4eb2-b9b8-8c11f9b762d6&sid=yS.&spellCorrectionEnabled=false).
+
+
 
 # Bottom line
 
