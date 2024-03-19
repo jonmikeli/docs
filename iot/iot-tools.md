@@ -131,8 +131,8 @@ Solution template extension to create an reverse proxy (YARP) with common config
 
 #### Links
 
- - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7RESTAPIVSTemplate)
- - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.REST.API.Template.CSharp/)
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8YARPVSTemplate)
+ - [.NET CLI](https://www.nuget.org/packages/JMI.Net8.Gateway.Template.CSharp/)
 
 ### REST API
 
