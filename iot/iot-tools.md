@@ -14,7 +14,7 @@ Accelerators: 2
 
 Simulators: +5
 
-Extensions: 8
+Extensions: 9
 
 Libraries: 1
 
