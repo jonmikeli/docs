@@ -94,9 +94,9 @@ When it comes to the application, I have considered different alternatives and t
  
 
 
->[!NOTE]
+> [!NOTE]
 >
->The application has only been tested on Android phones. There is no particular reason for this; just a logistic problem since I do not have the required material to work on iOS.
+> The application has only been tested on Android phones. There is no particular reason for this; just a logistic problem since I do not have the required material to work on iOS.
 
  
 
@@ -145,7 +145,7 @@ We have already seen that the application needs some prerequisites to work prope
 To create these services, you will need an Azure Subscription. If you do not have one, you can get one for free [here](https://azure.microsoft.com/en-us/free/?WT.mc_id=AZ-MVP-5004280).  You can also use a free Azure IoT Hub if its use remains under the limits described in the [next link](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-quotas-throttling?WT.mc_id=AZ-MVP-5004280).
 
 
->[!NOTE]
+> [!NOTE]
 >
 > If you want to use all the IoT features (C2D, Device Management, etc), do not use the Basic tiers.
 
@@ -203,16 +203,12 @@ You can also use them to create a QR code to ease the configuration input in the
     ```
 
 
->[!NOTE]
+> [!NOTE]
 >
->To use this application in production environments, the QR code should be created based on encrypted content. So, be aware of how and where you are using the application.
->You might wonder "when" and "how" to create the QR Code. The "when" will depend on your processes but right after the IaC scripts could be a good moment. The "how" depends also on your context. There are many alternatives (APIs, SDKs, shell commands, SaaS services, etc).
-
- 
+> To use this application in production environments, the QR code should be created based on encrypted content. So, be aware of how and where you are using the application.
+> You might wonder "when" and "how" to create the QR Code. The "when" will depend on your processes but right after the IaC scripts could be a good moment. The "how" depends also on your context. There are many alternatives (APIs, SDKs, shell commands, SaaS services, etc).
 
 The post describes later how the application uses these QR Codes.
-
- 
 
 The provided Azure CLI commands create:
 
@@ -229,10 +225,6 @@ An enrollment group represents a group (logical) where devices will be managed a
 
 At this stage, we can already run the application. Let’s mention again that in real projects, the architectures will be richer and more complex. Also, it is highly probable that after many projects you will have to deal with many DPSs and IoT Hubs, similarly to the diagram below:
 
- 
-
-
- 
 
 One of the purposes of this mobile application is to help in this scenario by offering the possibility to interact with more than one DPSs and, also, implement many virtual devices.
 
@@ -271,7 +263,6 @@ To create the simulators, it is necessary to cover the next steps:
 The application allows to configure as many DPS instances as desired. This might be practical if you need to test different environments or different projects.
 
  
-
 The enrollment type is limited to “Group”.
 
 The default security type is “Symmetric Key”. “X509CA certificates” have been added in the 1.3.736 version of the application.
@@ -292,11 +283,11 @@ If you are going through the manual process, the application will ask for the in
  - The Secondary Key, not mandatory, depending on what type of tests you want to complete
  
 
-[!NOTE]
+> [!NOTE]
 >
->The Primary (and optional Secondary) Keys are only needed with the Symmetric Key security type.
+> The Primary (and optional Secondary) Keys are only needed with the Symmetric Key security type.
 >
->X509CA does not require any key. From the device perspective, it only requires a device (leaf) certificate issued from the certificates registered in the DPS (verified) and use at Enrollment Group levels.
+> X509CA does not require any key. From the device perspective, it only requires a device (leaf) certificate issued from the certificates registered in the DPS (verified) and use at Enrollment Group levels.
 
  
 
@@ -310,9 +301,9 @@ Instead, if you follow the QR Code path, the app will enable the camera to scan 
 
  
 
->[!NOTE]
+> [!NOTE]
 >
->If you have started the manual process, you still can use the QR Code scan (QR code button next to the "Scope Id" label). In this case, the DPS Settings name needs to be provided to unlock the QR Code button.
+> If you have started the manual process, you still can use the QR Code scan (QR code button next to the "Scope Id" label). In this case, the DPS Settings name needs to be provided to unlock the QR Code button.
 
  
 
@@ -332,9 +323,9 @@ If you look into the DPS Settings details, you might notice that some of the pro
  - Security Type ("Symmetric Key" or "X509CA")
  - Enrollment type ("Group" for now)
 
->[!NOTE]
+> [!NOTE]
 >
->For additional details about how to create X509 certificates (root, intermediate, leaf), follow this [link](https://github.com/jonmikeli/docs/blob/main/iot/tools/mobile-app/iot-mobile-device-x509-public-documentation.md). These instructions have been put out of this publication to avoid extending this content too much and keep the focus of the post on the app and IoT experience.
+> For additional details about how to create X509 certificates (root, intermediate, leaf), follow this [link](https://github.com/jonmikeli/docs/blob/main/iot/tools/mobile-app/iot-mobile-device-x509-public-documentation.md). These instructions have been put out of this publication to avoid extending this content too much and keep the focus of the post on the app and IoT experience.
 
 Once the required information has been provided, you can save the settings and go to the next step.
 
@@ -350,9 +341,9 @@ The provisioning step covers many actions for you:
  - It gets a connection string and sends it back to the mobile application
  
 
->[!NOTE]
+> [!NOTE]
 >
->The application persists the connection string in insecure ways for production-oriented use. This is not a big concern at this stage, where the application is more a tool and/or a pedagogical example. However, if at some point the application goes further, these types of secrets have to be stored in more secure ways.
+> The application persists the connection string in insecure ways for production-oriented use. This is not a big concern at this stage, where the application is more a tool and/or a pedagogical example. However, if at some point the application goes further, these types of secrets have to be stored in more secure ways.
 
  
 
@@ -395,9 +386,9 @@ The application covers a complete set of IoT features:
    - [Messages](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-messages-c2d?WT.mc_id=AZ-MVP-5004280) (C2D-M) – Similar to Direct Methods but with asynchronous messages;
    - [Twin Desired Properties](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-device-twins?WT.mc_id=AZ-MVP-5004280) (C2D-DP) – Part of the Device Twin features.
 
->[!NOTE]
+> [!NOTE]
 >
->If you want to use the [File Upload feature](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-file-upload?WT.mc_id=AZ-MVP-5004280), it has to be enabled and configured at IoT Hub level. Otherwise, the application will raise an exception (expected and normal behavior). This requires creating an Azure Storage account, a container and configuring the IoT Hub to store the uploaded files into it. Step-by-step details are described at the provided link.
+> If you want to use the [File Upload feature](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-file-upload?WT.mc_id=AZ-MVP-5004280), it has to be enabled and configured at IoT Hub level. Otherwise, the application will raise an exception (expected and normal behavior). This requires creating an Azure Storage account, a container and configuring the IoT Hub to store the uploaded files into it. Step-by-step details are described at the provided link.
 
 The IaC code seen previously in this post does not enable this feature.
 
@@ -465,9 +456,9 @@ If C2D-Read TP is checked, Device Twin Properties are read and displayed at star
 Once all the settings have been provided, they can be persisted with the “Save” button. You can also change them whenever you want. Stop the simulator to make the changes.
 
 
->[!NOTE]
+> [!NOTE]
 >
->Keep in mind that the device needs to be provisioned (green icon) to start using the simulator. The application will guide you through the process, keeping you safe from doing inappropriate operations.
+> Keep in mind that the device needs to be provisioned (green icon) to start using the simulator. The application will guide you through the process, keeping you safe from doing inappropriate operations.
 
  
 
