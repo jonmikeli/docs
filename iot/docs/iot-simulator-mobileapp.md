@@ -226,18 +226,18 @@ One of the purposes of this mobile application is to help in this scenario by of
 
  
 
-5 - Features implemented in the application
+# Features implemented in the application
  
 
 The application allows to:
 
-Configure one or many Azure IoT Hub DPS instances (manually or scanning QR codes)
-Provision one or many devices with the previous DPSs
-Configure the IoT flows for each new device (the simulator part)
-Visualize the logs of the configured flows
+ - Configure one or many Azure IoT Hub DPS instances (manually or scanning QR codes)
+ - Provision one or many devices with the previous DPSs
+ - Configure the IoT flows for each new device (the simulator part)
+ - Visualize the logs of the configured flows
  
 
-If you want to try the application, you can install it from Google Play.
+If you want to try the application, you can install it from [Google Play](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile).
 
  
 
