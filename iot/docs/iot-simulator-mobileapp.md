@@ -60,14 +60,11 @@ Special mention to Microsoft Fabric, which is taking and importante place (and r
 
 Obviously, each project is unique, and the list of the truly used services depends on the requirements of each solution.
 
- 
 
 In this post, we will only use an Azure IoT Hub DPS (DPS) and a linked Azure IoT Hub. The idea is to avoid being dispersed and keep our attention at the application level. If you are interested in IoT architectures, you can find more information here.
 
- 
 
 DPS works together with at least one Azure IoT Hub. Its role is to simplify the provisioning mechanism with guarantees in terms of security, availability, reliability, and scalability.
-
  
 
 In very simple words, “provisioning” is the action that takes in charge:
@@ -76,13 +73,11 @@ The creation of an identity for a given device
 The creation and transfer of the needed security artifacts (identity, connection string, etc) to the device
  
 
-You will find here more details about Azure IoT Hub DPS and the provisioning process.
+You will find [here](https://learn.microsoft.com/azure/iot-dps/about-iot-dps?WT.mc_id=AZ-MVP-5004280) more details about Azure IoT Hub DPS and the provisioning process.
 
- 
 
 Once the provisioning is done, the devices can communicate with the assigned IoT Hub in a secure way. It is important to mention that the IoT Hub can also interact with the device (Cloud To Device flows, C2D), which unlocks very interesting possibilities.
 
- 
 
 When it comes to the application, I have considered different alternatives and technologies to implement it (Microsoft and not Microsoft). In the end, the set of technologies that offered the best value (features, tools, learning curve, productivity, etc) were:
 
