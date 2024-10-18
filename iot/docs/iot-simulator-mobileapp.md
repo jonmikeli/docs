@@ -147,16 +147,37 @@ To create these services, you will need an Azure Subscription. If you do not hav
 
 All the needed services can be created either directly through the Azure Portal or using IaC (Infrastructure as Code). The latter offers these different alternatives:
 
-ARM
-Bicep
-Azure CLI
-Power Shell
-REST API
+ - ARM
+ - Bicep
+ - Azure CLI
+ - Power Shell
+ - REST API
+
 We will provide here an Azure CLI-oriented approach but any of them is valid.
 
  
+```bash
+rg="aiot-md-rg"
+location="westeurope"
+iothub_name="aiot-md-iothub"
+dps_name="aiot-md-dps"
+enrollent_id="aiotmdegr"
 
-rg="aiot-md-rg" location="westeurope" iothub_name="aiot-md-iothub" dps_name="aiot-md-dps" enrollent_id="aiotmdegr" #Resource group creation az group create --name $rg --location $location #IoT Hub creation az iot hub create --name $iothub_name --sku S1 --resource-group $rg --location $location #DPS Creation az iot dps create --name $dps_name --resource-group $rg --location $location scope_id=$(az iot dps show --resource-group $rg --name $dps_name -o tsv --query "properties.idScope") #Link between the DPS and the IoT Hub pk=$(az iot hub connection-string show -n $iothub_name --policy-name iothubowner --key-type primary -o tsv) az iot dps linked-hub create --dps-name $dps_name --resource-group $rg --connection-string $pk #DPS Enrollment group az iot dps enrollment-group create -g $rg --dps-name $dps_name --enrollment-id $enrollent_id enrollmentgroup_pk=$(az iot dps enrollment-group show -g $rg --dps-name $dps_name --enrollment-id $enrollent_id --show-keys -o tsv --query "attestation.symmetricKey.primaryKey")
+#Resource group creation
+az group create --name $rg --location $location
+
+#IoT Hub creation
+az iot hub create --name $iothub_name --sku S1 --resource-group $rg --location $location
+
+#DPS Creation
+az iot dps create --name $dps_name --resource-group $rg --location $location scope_id=$(az iot dps show --resource-group $rg --name $dps_name -o tsv --query "properties.idScope")
+
+#Link between the DPS and the IoT Hub
+pk=$(az iot hub connection-string show -n $iothub_name --policy-name iothubowner --key-type primary -o tsv) az iot dps linked-hub create --dps-name $dps_name --resource-group $rg --connection-string $pk
+
+#DPS Enrollment group
+az iot dps enrollment-group create -g $rg --dps-name $dps_name --enrollment-id $enrollent_id enrollmentgroup_pk=$(az iot dps enrollment-group show -g $rg --dps-name $dps_name --enrollment-id $enrollent_id --show-keys -o tsv --query "attestation.symmetricKey.primaryKey")
+```
  
 
 $scope_id and $enrollmentgroup_pk contain the needed values for the provisioning settings in the application.
