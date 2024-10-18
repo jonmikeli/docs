@@ -55,7 +55,7 @@ These services are usually completed by many others (not an exhaustive list):
 - Azure Monitor
 
 And many others if we extend the perimeter with AI, data analysis, BI, security, etc.
-Special mention to Microsoft Fabric, which is taking and importante place (and role) in solutions where data plays a decisive role.
+Special mention to Microsoft Fabric, which is taking and important place (and role) in solutions where data plays a decisive role.
  
 
 Obviously, each project is unique, and the list of the truly used services depends on the requirements of each solution.
