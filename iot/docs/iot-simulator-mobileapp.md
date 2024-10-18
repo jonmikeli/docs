@@ -240,32 +240,20 @@ The application allows to:
 If you want to try the application, you can install it from [Google Play](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile).
 
  
-
-
- 
-
- 
-
-5.1 Home
+## Home
  
 
 The home screen enumerates the simulators. A simulator is nothing else than a provisioned virtual device with all the settings to initialize the simulated flows. Another view will list the devices and give access to the settings of the devices.
-
- 
-
-
- 
-
  
 
 To create the simulators, it is necessary to cover the next steps:
 
-Configure at least one DPS
-Provision at least one device
-Configure the simulation settings
+ - Configure at least one DPS
+ - Provision at least one device
+ - Configure the simulation settings
  
 
-5.2 Azure IoT Hub DPS instances
+## Azure IoT Hub DPS instances
  
 
 The application allows to configure as many DPS instances as desired. This might be practical if you need to test different environments or different projects.
@@ -279,31 +267,24 @@ The default security type is “Symmetric Key”. “X509CA certificates” have
  
 
 To add a DPS configuration, you only need to go to “DPS Settings” and click the “Add” button. If you have QR codes with the settings, you can also tap on the QR Code button.
-
  
 
-
- 
-
-5.2.1 Manual input
- 
-
-
+### Manual input
  
 
 If you are going through the manual process, the application will ask for the information below:
 
-A name for the new configuration (unlocks the use of the QR Code button from this form)
-The DPS Scope Id (see the prerequisites section and the Azure CLI script)
-The Primary Key (see the prerequisites section and the Azure CLI script)
-The Secondary Key, not mandatory, depending on what type of tests you want to complete
+ - A name for the new configuration (unlocks the use of the QR Code button from this form)
+ - The DPS Scope Id (see the prerequisites section and the Azure CLI script)
+ - The Primary Key (see the prerequisites section and the Azure CLI script)
+ - The Secondary Key, not mandatory, depending on what type of tests you want to complete
  
 
-NOTE
-
-The Primary (and optional Secondary) Keys are only needed with the Symmetric Key security type.
-
-X509CA does not require any key. From the device perspective, it only requires a device (leaf) certificate issued from the certificates registered in the DPS (verified) and use at Enrollment Group levels.
+[!NOTE]
+>
+>The Primary (and optional Secondary) Keys are only needed with the Symmetric Key security type.
+>
+>X509CA does not require any key. From the device perspective, it only requires a device (leaf) certificate issued from the certificates registered in the DPS (verified) and use at Enrollment Group levels.
 
  
 
@@ -311,14 +292,15 @@ All these values are also available at the Azure Portal.
 
  
 
-5.2.2 QR Code
+### QR Code
+
 Instead, if you follow the QR Code path, the app will enable the camera to scan the codes.
 
  
 
-NOTE
-
-If you have started the manual process, you still can use the QR Code scan (QR code button next to the "Scope Id" label). In this case, the DPS Settings name needs to be provided to unlock the QR Code button.
+>[!NOTE]
+>
+>If you have started the manual process, you still can use the QR Code scan (QR code button next to the "Scope Id" label). In this case, the DPS Settings name needs to be provided to unlock the QR Code button.
 
  
 
@@ -326,24 +308,21 @@ When a QR code is detected, the screen shows its content and you can add the set
 
  
 
-
- 
-
- 
-
 After leaving the QR code scanning screen, you might be redirected either to the DPS Settings (list) screen or to the DPS Settings (item) screen, depending on where you started the scanning process.
 
  
 
-5.2.3 DPS Settings details
+### DPS Settings details
+
 If you look into the DPS Settings details, you might notice that some of the properties are not editable in the current version:
 
-Global DPS Url, unique and provided by Azure
-Security Type ("Symmetric Key" or "X509CA")
-Enrollment type ("Group" for now)
-NOTE
+ - Global DPS Url, unique and provided by Azure
+ - Security Type ("Symmetric Key" or "X509CA")
+ - Enrollment type ("Group" for now)
 
-For additional details about how to create X509 certificates (root, intermediate, leaf), follow this link. These instructions have been put out of this publication to avoid extending this content too much and keep the focus of the post on the app and IoT experience.
+>[!NOTE]
+>
+>For additional details about how to create X509 certificates (root, intermediate, leaf), follow this [link](https://github.com/jonmikeli/docs/blob/main/iot/tools/mobile-app/iot-mobile-device-x509-public-documentation.md). These instructions have been put out of this publication to avoid extending this content too much and keep the focus of the post on the app and IoT experience.
 
  
 
