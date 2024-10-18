@@ -324,52 +324,34 @@ If you look into the DPS Settings details, you might notice that some of the pro
 >
 >For additional details about how to create X509 certificates (root, intermediate, leaf), follow this [link](https://github.com/jonmikeli/docs/blob/main/iot/tools/mobile-app/iot-mobile-device-x509-public-documentation.md). These instructions have been put out of this publication to avoid extending this content too much and keep the focus of the post on the app and IoT experience.
 
- 
-
- 
-
 Once the required information has been provided, you can save the settings and go to the next step.
 
- 
 
-
- 
-
- 
-
-5.3 Provisioning and device configuration
+## Provisioning and device configuration
  
 
 The provisioning step covers many actions for you:
 
-The DPS takes into account the request and processes it
-It assigns the appropriate IoT Hub according to the DPS rules
-It creates an identity for the device in the mentioned Azure IoT Hub
-It gets a connection string and sends it back to the mobile application
+ - The DPS takes into account the request and processes it
+ - It assigns the appropriate IoT Hub according to the DPS rules
+ - It creates an identity for the device in the mentioned Azure IoT Hub
+ - It gets a connection string and sends it back to the mobile application
  
 
-NOTE
-
-The application persists the connection string in insecure ways for production-oriented use. This is not a big concern at this stage, where the application is more a tool and/or a pedagogical example. However, if at some point the application goes further, these types of secrets have to be stored in more secure ways.
+>[!NOTE]
+>
+>The application persists the connection string in insecure ways for production-oriented use. This is not a big concern at this stage, where the application is more a tool and/or a pedagogical example. However, if at some point the application goes further, these types of secrets have to be stored in more secure ways.
 
  
 
 To provision a device, the application will request:
 
-A configured DPS (picker with the configured DPSs)
-A name for the device to be provisioned
+ - A configured DPS (picker with the configured DPSs)
+ - A name for the device to be provisioned
  
 
 The “Simulator” button will unlock once all the settings have been provided.
 
- 
-
- 
-
-
- 
-
- 
 
 Note that if the device is provisioned properly, a green icon is displayed at the right of the "Connection String" label. You will find this same icon in all the application to distinguish visually the devices (and the related simulator) ready to be used (provisioned and with a connection string).
 
@@ -384,17 +366,8 @@ You will also see the new device in the list of provisioned devices.
 If you add not provisioned devices, they will also be visible in the list but without the green icon.
 
  
-
- 
-
-
- 
-
- 
-
 If you try to provision an already existing device, the DPS will send in return the existing connection string. No error will be raised.
 
- 
 
 5.4 Simulator configuration
  
