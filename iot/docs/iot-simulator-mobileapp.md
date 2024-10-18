@@ -90,6 +90,7 @@ When it comes to the application, I have considered different alternatives and t
  - [Azure](https://azure.microsoft.com/?WT.mc_id=AZ-MVP-5004280) (PaaS, [Azure IoT Services](https://azure.microsoft.com/solutions/iot/#overview?WT.mc_id=AZ-MVP-5004280))
  
 
+
 >[!NOTE]
 >
 >The application has only been tested on Android phones. There is no particular reason for this; just a logistic problem since I do not have the required material to work on iOS.
@@ -109,6 +110,8 @@ Tools and IDEs:
  
 You will see later in the post how to use Direct Methods. The other features are quite simple to understand.
  
+
+
 
 # IoT Plug and Play
  
@@ -186,9 +189,15 @@ Keep them for later steps.
 
 You can also use them to create a QR code to ease the configuration input in the mobile app. Indeed, the IoT Mobile app (> v1.1.x) is built to read and interpret QR codes containing the message structure described below:
  - Symmetric QR Code content
+  
+   ```json
    { "idScope":"$idScope", "pk":"$enrollmentgroup_pk", "sk":"$enrollmentgroup_sk", "securityType":"symmetric", "enrollmentType":"group" }
+    ```
  - X509 QR Code content
+  
+    ```json
    { "idScope":"$idScope", "securityType":"X509CA", "enrollmentType":"group" }
+    ```
 
 
 >[!NOTE]
