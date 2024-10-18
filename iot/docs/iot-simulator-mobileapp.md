@@ -253,11 +253,14 @@ The application allows to:
 
 If you want to try the application, you can install it from [Google Play](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile).
 
- 
-![Google play link]()
+
+
+[![Google play link](media/Google_Play_Store_badge_EN.svg.webp)](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile)
+
+
 
 ## Home
- 
+
 
 The home screen enumerates the simulators. A simulator is nothing else than a provisioned virtual device with all the settings to initialize the simulated flows. Another view will list the devices and give access to the settings of the devices.
 
@@ -531,19 +534,19 @@ The About screen includes:
  - Access to the "Reset" feature
 
 
-![Flyout menu]()
+![Flyout menu](media/Flyout.png)
 
 
-![About page]()
+![About page](media/About.png)
 
 
 ## Reset the settings
 
 In case you need to reset the application and clear all the settings, it can be done through the button located in the “About” screen.
 
-![Reset feature]()
+![Reset feature](media/About.png)
 
-![Reset confirmation pop up]()
+![Reset confirmation pop up](media/Reset.png)
  
 # Conclusion
  
