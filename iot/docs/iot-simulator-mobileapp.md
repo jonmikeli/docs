@@ -185,63 +185,16 @@ $scope_id and $enrollmentgroup_pk contain the needed values for the provisioning
 Keep them for later steps.
 
 You can also use them to create a QR code to ease the configuration input in the mobile app. Indeed, the IoT Mobile app (> v1.1.x) is built to read and interpret QR codes containing the message structure described below:
-
- 
-
  - Symmetric QR Code content
-
- 
-
- 
-
- 
-
- 
-
- 
-
 { "idScope":"$idScope", "pk":"$enrollmentgroup_pk", "sk":"$enrollmentgroup_sk", "securityType":"symmetric", "enrollmentType":"group" }
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
  - X509 QR Code content
-
- 
-
- 
-
- 
-
- 
-
- 
-
 { "idScope":"$idScope", "securityType":"X509CA", "enrollmentType":"group" }
- 
 
- 
 
- 
-
- 
-
- 
-
- 
-
-NOTE
-
-To use this application in production environments, the QR code should be created based on encrypted content. So, be aware of how and where you are using the application.
-You might wonder "when" and "how" to create the QR Code. The "when" will depend on your processes but right after the IaC scripts could be a good moment. The "how" depends also on your context. There are many alternatives (APIs, SDKs, shell commands, SaaS services, etc).
+>[!NOTE]
+>
+>To use this application in production environments, the QR code should be created based on encrypted content. So, be aware of how and where you are using the application.
+>You might wonder "when" and "how" to create the QR Code. The "when" will depend on your processes but right after the IaC scripts could be a good moment. The "how" depends also on your context. There are many alternatives (APIs, SDKs, shell commands, SaaS services, etc).
 
  
 
