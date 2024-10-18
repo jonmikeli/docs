@@ -49,7 +49,7 @@ The mentioned simulators are delivered through two formats
 
 The containerized simulator is the initial and default version of the simulator. It is the richer and more versatile type of built simulator here.
 It finds its place in projects that need different IoT simulated devices running autonomously.
-Similarly to the accelerator mentioned previously, the containerzed version of the simulator as been made private to protected the work against unethical use.
+Similarly to the accelerator mentioned previously, the containerized version of the simulator as been made private to protected the work against unethical use.
 
 ### Mobile app
 
