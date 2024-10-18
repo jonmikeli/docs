@@ -104,7 +104,7 @@ When it comes to the application, I have considered different alternatives and t
 >
 > The application has only been tested on Android phones. There is no particular reason for this; just a logistic problem since I do not have the required material to work on iOS.
 
-TODO: PICTURE: IoT Explorer - used features
+![IoT Explorer - used features]()
  
 
 Tools and IDEs:
@@ -254,7 +254,7 @@ The application allows to:
 If you want to try the application, you can install it from [Google Play](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile).
 
  
-TODO: PICTURE: Google play link
+![Google play link]()
 
 ## Home
  
@@ -262,7 +262,14 @@ TODO: PICTURE: Google play link
 The home screen enumerates the simulators. A simulator is nothing else than a provisioned virtual device with all the settings to initialize the simulated flows. Another view will list the devices and give access to the settings of the devices.
 
 
+![Splash screen](media/0-mobileapp-splash_framed.png)
+
+
+
+
 ![Home - simulators](media/1-mobileapp-home_framed.png)
+
+
 
 
 To create the simulators, it is necessary to cover the next steps:
