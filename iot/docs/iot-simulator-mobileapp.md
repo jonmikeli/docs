@@ -407,7 +407,7 @@ You will also see the new device in the list of provisioned devices.
 If you add not provisioned devices, they will also be visible in the list but without the green icon.
 
 
-![Devices settings list](media/6-mobileapp-devices-list_framed.png)
+![Devices settings list](media/6-mobileapp-provisioning-list_framed.png)
 
 
 If you try to provision an already existing device, the DPS will send in return the existing connection string. No error will be raised.
