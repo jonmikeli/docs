@@ -1,3 +1,5 @@
+![](media/Teaser.png)
+
 # Azure IoT Simulator - Mobile application
 
 You are a developer and want a simple tool to create virtual devices and test IoT flows?
@@ -33,7 +35,8 @@ Before going deeper into the application, let's remind first some basic concepts
 # Azure IoT Services and technical stack
  
 
-TODO: PICTURE: Very high perspective view
+
+![Very high perspective view](media/Architecture.Global.png)
 
 
 An IoT Solution might include many Azure services. Most of the time, they include at least:
@@ -230,7 +233,7 @@ An enrollment group represents a group (logical) where devices will be managed a
 At this stage, we can already run the application. Let’s mention again that in real projects, the architectures will be richer and more complex. Also, it is highly probable that after many projects you will have to deal with many DPSs and IoT Hubs, similarly to the diagram below:
 
 
-TODO: PICTURE: Multi-configuration
+![Multi-configuration](media/Architecture-Detailled.png)
 
 
 One of the purposes of this mobile application is to help in this scenario by offering the possibility to interact with more than one DPSs and, also, implement many virtual devices.
@@ -259,7 +262,7 @@ TODO: PICTURE: Google play link
 The home screen enumerates the simulators. A simulator is nothing else than a provisioned virtual device with all the settings to initialize the simulated flows. Another view will list the devices and give access to the settings of the devices.
 
 
-TODO: PICTURE: Home - simulators
+![Home - simulators](media/1-mobileapp-home_framed.png)
 
 
 To create the simulators, it is necessary to cover the next steps:
@@ -283,13 +286,13 @@ The default security type is “Symmetric Key”. “X509CA certificates” have
 
 To add a DPS configuration, you only need to go to “DPS Settings” and click the “Add” button. If you have QR codes with the settings, you can also tap on the QR Code button.
  
-TODO: PICTURE: QR COde scan from the DPS settings
+![QR Code scan from the DPS settings]()
 
 
 ### Manual input
  
 
-TODO: PICTURE: Azure IoT Hub DPS settings
+![Azure IoT Hub DPS settings](media/2-mobileapp-new-dps_framed.png)
 
 
 If you are going through the manual process, the application will ask for the information below:
@@ -327,7 +330,7 @@ Instead, if you follow the QR Code path, the app will enable the camera to scan 
 When a QR code is detected, the screen shows its content and you can add the settings to the application. If you go to the QR scanning screen from the DPS Settings list screen, the name of the setting will be created automatically.
 
 
-TODO: PICTURE: DPS Settings QR Code - Scanning
+![DPS Settings QR Code - Scanning]()
  
 
 After leaving the QR code scanning screen, you might be redirected either to the DPS Settings (list) screen or to the DPS Settings (item) screen, depending on where you started the scanning process.
@@ -348,7 +351,7 @@ If you look into the DPS Settings details, you might notice that some of the pro
 
 Once the required information has been provided, you can save the settings and go to the next step.
 
-TODO: PICTURE: Azure IoT Hub DPS list
+![Azure IoT Hub DPS list](media/3-mobileapp-saved-dps_framed.png)
 
 
 ## Provisioning and device configuration
@@ -376,11 +379,11 @@ To provision a device, the application will request:
 
 The “Simulator” button will unlock once all the settings have been provided.
 
-TODO: PICTURE: Device settings - Provisioned device
+![Device settings - Provisioning](media/4-mobileapp-provisioning_framed.png)
 
 Note that if the device is provisioned properly, a green icon is displayed at the right of the "Connection String" label. You will find this same icon in all the application to distinguish visually the devices (and the related simulator) ready to be used (provisioned and with a connection string).
 
- 
+![Device settings - Provisioned device](media/5-mobileapp-provisioning-ok_framed.png)
 
 At this stage, we already have a configured DPS and a first provisioned virtual device.
 
@@ -391,7 +394,7 @@ You will also see the new device in the list of provisioned devices.
 If you add not provisioned devices, they will also be visible in the list but without the green icon.
 
 
-TODO: PICTURE: Devices settings list
+![Devices settings list](media/6-mobileapp-devices-list_framed.png)
 
 
 If you try to provision an already existing device, the DPS will send in return the existing connection string. No error will be raised.
@@ -437,7 +440,7 @@ The interval to send telemetry can be configured (value in seconds):
 In case you do not have a way to send the Direct Method requests, you can use [Azure IoT Explorer](https://learn.microsoft.com/en-us/azure/iot-fundamentals/howto-use-iot-explorer?WT.mc_id=AZ-MVP-5004280).
 
 
-TODO: PICTURE: Azure IoT Explorer - Direct Method - SetTelemetryInterval
+![Direct Method - SetTelemetryInterval]()
 
 
 The payload takes the new interval (in seconds).
@@ -454,13 +457,13 @@ No special actions are implemented after those Direct Methods are called. The re
 The name of the Direct Methods and their signature are not important. You can use whatever you want.
 
 
-TODO: PICTURE: IoT Explorer - Generic Direct Methods
+![IoT Explorer - Generic Direct Methods]()
 
 
 Remember that the simulator needs to be connected, running and with the checkmark "C2D-DM" checked.
 
 
-TODO: PICTURE: Simulator - Generic methods - Running logs
+![Simulator - Generic methods - Running logs]()
 
 
 As you can see in the screen below, the application displays a short trace of the requests.
@@ -475,7 +478,7 @@ The message structure can be defined with a configurable JSON Schema. When tappi
 
 This schema will be used to generate random JSON messages. The randomization mechanism is very rudimentary in this first version.
 
-TODO: PICTURE: Device simulation settings
+![Device simulation settings](media/8-mobileapp-simulator-settings_framed.png)
 
 
 ### Other simulation settings
@@ -497,12 +500,13 @@ Once all the settings have been provided, they can be persisted with the “Save
 > Keep in mind that the device needs to be provisioned (green icon) to start using the simulator. The application will guide you through the process, keeping you safe from doing inappropriate operations.
 
 
-TODO: PICTURE: Configured simulator
+![Configured simulator](media/8-mobileapp-simulator-settings_framed.png)
 
 
 ### Simulation running screen
 
-TODO: PICTURE: Running simulator
+
+![Running simulator](media/8-mobileapp-simulator-running_framed.png)
 
 
 The running section of the simulator (yellowish) is just below the configuration section (blue).
@@ -520,19 +524,19 @@ The About screen includes:
  - Access to the "Reset" feature
 
 
-TODO: PICTURE: Flyout menu
+![Flyout menu]()
 
 
-TODO: PICTURE: About page
+![About page]()
 
 
 ## Reset the settings
 
 In case you need to reset the application and clear all the settings, it can be done through the button located in the “About” screen.
 
-TODO: PICTURE: Reset feature
+![Reset feature]()
 
-TODO: PICTURE: Reset confirmation pop up
+![Reset confirmation pop up]()
  
 # Conclusion
  
