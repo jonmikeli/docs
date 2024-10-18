@@ -5,7 +5,7 @@ You are a developer and want a simple tool to create virtual devices and test Io
 If so, this post is probably for you.
 
 <sub>
-Exported content from Microsoft technical blog post. Original content can be found [here](https://techcommunity.microsoft.com/t5/internet-of-things-blog/transform-your-phone-into-an-iot-device-with-net-maui/ba-p/3673909?WT.mc_id=AZ-MVP-5004280).
+Exported content from Microsoft technical blog post (+20k). Original content can be found [here](https://techcommunity.microsoft.com/t5/internet-of-things-blog/transform-your-phone-into-an-iot-device-with-net-maui/ba-p/3673909?WT.mc_id=AZ-MVP-5004280).
 </sub>
 
  
