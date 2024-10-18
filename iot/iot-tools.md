@@ -57,6 +57,9 @@ A [mobile application simulating](https://techcommunity.microsoft.com/t5/interne
 
 You can fin the details [here](https://techcommunity.microsoft.com/t5/internet-of-things-blog/transform-your-phone-into-an-iot-device-with-net-maui/ba-p/3673909?WT.mc_id=AZ-MVP-5004280).
 
+This initial application has been completed with another one, taking into account Teltonika's Codec 8E format (Hex).
+This version includes the possibility to simulate coherent GPS data (routes, paths, position and speed in time), based on Azure Maps.
+
 
 ## Extensions
 
