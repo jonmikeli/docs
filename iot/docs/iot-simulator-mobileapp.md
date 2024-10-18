@@ -186,9 +186,9 @@ Keep them for later steps.
 
 You can also use them to create a QR code to ease the configuration input in the mobile app. Indeed, the IoT Mobile app (> v1.1.x) is built to read and interpret QR codes containing the message structure described below:
  - Symmetric QR Code content
-{ "idScope":"$idScope", "pk":"$enrollmentgroup_pk", "sk":"$enrollmentgroup_sk", "securityType":"symmetric", "enrollmentType":"group" }
+   { "idScope":"$idScope", "pk":"$enrollmentgroup_pk", "sk":"$enrollmentgroup_sk", "securityType":"symmetric", "enrollmentType":"group" }
  - X509 QR Code content
-{ "idScope":"$idScope", "securityType":"X509CA", "enrollmentType":"group" }
+   { "idScope":"$idScope", "securityType":"X509CA", "enrollmentType":"group" }
 
 
 >[!NOTE]
@@ -395,15 +395,15 @@ If any of these features are not familiar to you, follow the provided links for 
 
  
 
-5.4.1 Telemetry interval
+### Telemetry interval
  
 
 The interval to send telemetry can be configured (value in seconds):
 
-Directly, through the “Telemetry Interval” property at the screen
-Through a C2D-Direct Method (SetTelemetryInterval).
-Parameter: int (interval in seconds).
-To use this Direct Method, the simulator has to be running and the check mark “C2D-DM” has to be checked.
+ - Directly, through the “Telemetry Interval” property at the screen
+ - Through a C2D-Direct Method (SetTelemetryInterval).
+   Parameter: int (interval in seconds).
+   To use this Direct Method, the simulator has to be running and the check mark “C2D-DM” has to be checked.
  
 
 In case you do not have a way to send the Direct Method requests, you can use Azure IoT Explorer.
