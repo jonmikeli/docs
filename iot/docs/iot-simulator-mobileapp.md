@@ -204,12 +204,12 @@ The post describes later how the application uses these QR Codes.
 
 The provided Azure CLI commands create:
 
-A resource group
-An IoT Hub
-A DPS
-The DPS is linked to the IoT Hub
-An enrollment group in the DPS
- 
+ - A resource group
+ - An IoT Hub
+ - A DPS
+ - The DPS is linked to the IoT Hub
+ - An enrollment group in the DPS
+
 
 An enrollment group represents a group (logical) where devices will be managed and authorized for provisioning in the same way.
 
