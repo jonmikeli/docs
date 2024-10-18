@@ -252,12 +252,11 @@ The application allows to:
 
 If you want to try the application, you can install it from [Google Play](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile).
 
-
+<p align="center">
 <a href="https://play.google.com/store/apps/details?id=jmi.iot.device.mobile" target="_blanc">
-<img src="media/Google_Play_Store_badge_EN.svg.webp" width="200" height="100">
+<img src="media/Google_Play_Store_badge_EN.svg.webp" width="200">
 </a>
-[![Google play link](media/Google_Play_Store_badge_EN.svg.webp)](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile)
-
+</p>
 
 
 ## Home
