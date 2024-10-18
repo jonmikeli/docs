@@ -127,22 +127,21 @@ Despite the attractivity of this approach, sometimes it is not enough, and you n
 
  
 
-4 - Prerequisites
+# Prerequisites
  
 
 We have already seen that the application needs some prerequisites to work properly:
 
-One or more Azure IoT Hub DPSs, to provision the devices
-One or more Azure IoT Hubs (D2C/C2D flows)
+ - One or more Azure IoT Hub DPSs, to provision the devices
+ - One or more Azure IoT Hubs (D2C/C2D flows)
  
 
-To create these services, you will need an Azure Subscription. If you do not have one, you can get one for free here.  You can also use a free Azure IoT Hub if its use remains under the limits described in the next link.
+To create these services, you will need an Azure Subscription. If you do not have one, you can get one for free [here](https://azure.microsoft.com/en-us/free/?WT.mc_id=AZ-MVP-5004280).  You can also use a free Azure IoT Hub if its use remains under the limits described in the [next link](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-quotas-throttling?WT.mc_id=AZ-MVP-5004280).
 
- 
 
-NOTE
-
-If you want to use all the IoT features (C2D, Device Management, etc), do not use the Basic tiers.
+>[!NOTE]
+>
+> If you want to use all the IoT features (C2D, Device Management, etc), do not use the Basic tiers.
 
  
 
