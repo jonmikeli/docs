@@ -6,7 +6,7 @@ If so, this post is probably for you.
 
  
 
-## Why such an application?
+# Why such an application?
  
 
 When working on IoT projects, sooner or later, you will need to test the integration of the “device side” with the “solution side”. There are many alternatives for this (UI-oriented or command-line-oriented).
@@ -23,7 +23,7 @@ Before going deeper into the application, let's remind first some basic concepts
 
  
 
-## Azure IoT Services and technical stack
+# Azure IoT Services and technical stack
  
 
 An IoT Solution might include many Azure services. Most of the time, they include at least:
@@ -109,13 +109,13 @@ You will see later in the post how to use Direct Methods. The other features are
 # IoT Plug and Play
  
 
-As mentioned earlier, Microsoft has already published a mobile application to create virtual IoT devices based on IoT Plug and Play and focused on Azure IoT Central. Azure IoT Mobile Device’s approach is different and more oriented to Azure IoT PaaS services. There is no “better or worse” discussion here. The approach is just different.
+As mentioned earlier, Microsoft has already published a mobile application to create virtual IoT devices based on [IoT Plug and Play](https://learn.microsoft.com/azure/iot-fundamentals/iot-phone-app-how-to?WT.mc_id=AZ-MVP-5004280) and focused on [Azure IoT Central](https://azure.microsoft.com/products/iot-central/?WT.mc_id=AZ-MVP-5004280). Azure IoT Mobile Device’s approach is different and more oriented to Azure IoT PaaS services. There is no “better or worse” discussion here. The approach is just different.
 
  
 
 IoT Plug and Play is an interesting concept having for purpose to simplify as much as possible the user experience and help to connect a device to an IoT solution. We could say that it is similar to the PnP we know with hardware (at least, conceptually). IoT Plug and Play uses DTDL (Digital Twins Definition Language) to describe the interface (contract) of a given device type.
 
-Azure IoT Central is also based on IoT Plug and Play, which allows very easy and fast device/solution integration, going until the automatic UI rendering based on the described DTDL models.
+Azure IoT Central is also based on IoT Plug and Play, which allows very easy and fast device/solution integration, going until the automatic UI rendering based on the described [DTDL](https://github.com/Azure/opendigitaltwins-dtdl/blob/master/DTDL/v2/dtdlv2.md?WT.mc_id=AZ-MVP-5004280) models.
 
  
 
