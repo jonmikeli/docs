@@ -296,7 +296,10 @@ The default security type is “Symmetric Key”. “X509CA certificates” have
 
 To add a DPS configuration, you only need to go to “DPS Settings” and click the “Add” button. If you have QR codes with the settings, you can also tap on the QR Code button.
  
-![QR Code scan from the DPS settings]()
+![QR Code scan from the DPS settings](media/3-mobileapp-saved-dps_framed.png)
+
+
+![QR Code scan from the DPS settings](media/2-mobileapp-new-dps_framed.png)
 
 
 ### Manual input
