@@ -86,33 +86,27 @@ When it comes to the application, I have considered different alternatives and t
  - [Azure](https://azure.microsoft.com/?WT.mc_id=AZ-MVP-5004280) (PaaS, [Azure IoT Services](https://azure.microsoft.com/solutions/iot/#overview?WT.mc_id=AZ-MVP-5004280))
  
 
-NOTE
-
-The application has only been tested on Android phones. There is no particular reason for this; just a logistic problem since I do not have the required material to work on iOS.
+>[!NOTE]
+>
+>The application has only been tested on Android phones. There is no particular reason for this; just a logistic problem since I do not have the required material to work on iOS.
 
  
 
 Tools and IDEs:
-
-Visual Studio 2022 with MAUI’s prerequisites (prerequisites and configuration)
-Azure IoT Hub SDK (C#, device side)
-Azure IoT Explorer to test and control the IoT flows
-Visual Studio Code
-(Custom library to create JSON content from JSON Schemas)
+ - [Visual Studio 2022](https://visualstudio.microsoft.com/?WT.mc_id=AZ-MVP-5004280) with MAUI’s prerequisites ([prerequisites and configuration](https://learn.microsoft.com/en-us/dotnet/maui/get-started/installation?tabs=vswin&WT.mc_id=AZ-MVP-5004280))
+ - [Azure IoT Hub SDK](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks?WT.mc_id=AZ-MVP-5004280?WT.mc_id=AZ-MVP-5004280) (C#, device side)
+ - [Azure IoT Explorer](https://learn.microsoft.com/en-us/azure/iot-fundamentals/howto-use-iot-explorer?WT.mc_id=AZ-MVP-5004280?WT.mc_id=AZ-MVP-5004280) to test and control the IoT flows
+ - [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=AZ-MVP-5004280)
+ - ([Custom library](https://www.nuget.org/packages/JMI.Json.Data/?WT.mc_id=AZ-MVP-5004280) to create JSON content from JSON Schemas)
  
 
-Azure IoT Explorer covers a large set of features. Those used in this context are focused on C2D flows and controlling the telemetry collected at Azure IoT Hub level (see the screenshot below). The documentation provided by Microsoft Learn describes all the steps to install, configure and use the tool.
+[Azure IoT Explorer](https://learn.microsoft.com/en-us/azure/iot-fundamentals/howto-use-iot-explorer?WT.mc_id=AZ-MVP-5004280) covers a large set of features. Those used in this context are focused on C2D flows and controlling the telemetry collected at Azure IoT Hub level (see the screenshot below). The documentation provided by [Microsoft Learn](https://learn.microsoft.com/en-us/azure/iot-fundamentals/howto-use-iot-explorer?WT.mc_id=AZ-MVP-5004280) describes all the steps to install, configure and use the tool.
 
  
-
-
- 
-
 You will see later in the post how to use Direct Methods. The other features are quite simple to understand.
-
  
 
-3 - IoT Plug and Play
+# IoT Plug and Play
  
 
 As mentioned earlier, Microsoft has already published a mobile application to create virtual IoT devices based on IoT Plug and Play and focused on Azure IoT Central. Azure IoT Mobile Device’s approach is different and more oriented to Azure IoT PaaS services. There is no “better or worse” discussion here. The approach is just different.
