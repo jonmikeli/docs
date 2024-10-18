@@ -369,24 +369,23 @@ If you add not provisioned devices, they will also be visible in the list but wi
 If you try to provision an already existing device, the DPS will send in return the existing connection string. No error will be raised.
 
 
-5.4 Simulator configuration
+## Simulator configuration
  
 
 The application covers a complete set of IoT features:
 
-D2C
-Telemetry messages - Regular known telemetry from a device to the cloud. The sending interval is configurable (in seconds);
-Twin Reported Properties (not configurable directly in this version) - Part of the Device Twin features;
-C2D
-Direct Methods (C2D-DM) - Allowing to send requests from the cloud to a device, to execute commands;
-Messages (C2D-M) – Similar to Direct Methods but with asynchronous messages;
-Twin Desired Properties (C2D-DP) – Part of the Device Twin features;
-File Upload - Allowing to send a set of messages, images, video, etc. This version of the application creates a set of random messages based on the telemetry schema (JSON Schema, described later in the post). Images and other types of media are not included in this version. The sending interval is configurable (in seconds).
- 
+ - D2C
+   - Telemetry messages - Regular known telemetry from a device to the cloud. The sending interval is configurable (in seconds);
+   - Twin Reported Properties (not configurable directly in this version) - Part of the Device Twin features;
+   - File Upload - Allowing to send a set of messages, images, video, etc. This version of the application creates a set of random messages based on the telemetry schema (JSON Schema, described later in the post). Images and other types of media are not included in this version. The sending interval is configurable (in seconds).
+ - C2D
+   - Direct Methods (C2D-DM) - Allowing to send requests from the cloud to a device, to execute commands;
+   - Messages (C2D-M) – Similar to Direct Methods but with asynchronous messages;
+   - Twin Desired Properties (C2D-DP) – Part of the Device Twin features;
 
-NOTE
-
-If you want to use the File Upload feature, it has to be enabled and configured at IoT Hub level. Otherwise, the application will raise an exception (expected and normal behavior). This requires creating an Azure Storage account, a container and configuring the IoT Hub to store the uploaded files into it. Step-by-step details are described at the provided link.
+>[!NOTE]
+>
+>If you want to use the File Upload feature, it has to be enabled and configured at IoT Hub level. Otherwise, the application will raise an exception (expected and normal behavior). This requires creating an Azure Storage account, a container and configuring the IoT Hub to store the uploaded files into it. Step-by-step details are described at the provided link.
 
 The IaC code seen previously in this post does not enable this feature.
 
