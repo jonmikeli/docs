@@ -376,22 +376,22 @@ The application covers a complete set of IoT features:
 
  - D2C
    - Telemetry messages - Regular known telemetry from a device to the cloud. The sending interval is configurable (in seconds);
-   - Twin Reported Properties (not configurable directly in this version) - Part of the Device Twin features;
-   - File Upload - Allowing to send a set of messages, images, video, etc. This version of the application creates a set of random messages based on the telemetry schema (JSON Schema, described later in the post). Images and other types of media are not included in this version. The sending interval is configurable (in seconds).
+   - [Twin Reported Properties](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-device-twins?WT.mc_id=AZ-MVP-5004280) (not configurable directly in this version) - Part of the Device Twin features;
+   - [File Upload](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-file-upload?WT.mc_id=AZ-MVP-5004280) - Allowing to send a set of messages, images, video, etc. This version of the application creates a set of random messages based on the telemetry schema (JSON Schema, described later in the post). Images and other types of media are not included in this version. The sending interval is configurable (in seconds).
  - C2D
-   - Direct Methods (C2D-DM) - Allowing to send requests from the cloud to a device, to execute commands;
-   - Messages (C2D-M) – Similar to Direct Methods but with asynchronous messages;
-   - Twin Desired Properties (C2D-DP) – Part of the Device Twin features;
+   - [Direct Methods](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-direct-methods?WT.mc_id=AZ-MVP-5004280) (C2D-DM) - Allowing to send requests from the cloud to a device, to execute commands;
+   - [Messages](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-messages-c2d?WT.mc_id=AZ-MVP-5004280) (C2D-M) – Similar to Direct Methods but with asynchronous messages;
+   - [Twin Desired Properties](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-device-twins?WT.mc_id=AZ-MVP-5004280) (C2D-DP) – Part of the Device Twin features.
 
 >[!NOTE]
 >
->If you want to use the File Upload feature, it has to be enabled and configured at IoT Hub level. Otherwise, the application will raise an exception (expected and normal behavior). This requires creating an Azure Storage account, a container and configuring the IoT Hub to store the uploaded files into it. Step-by-step details are described at the provided link.
+>If you want to use the [File Upload feature](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-file-upload?WT.mc_id=AZ-MVP-5004280), it has to be enabled and configured at IoT Hub level. Otherwise, the application will raise an exception (expected and normal behavior). This requires creating an Azure Storage account, a container and configuring the IoT Hub to store the uploaded files into it. Step-by-step details are described at the provided link.
 
 The IaC code seen previously in this post does not enable this feature.
 
  
 
-If any of these features are not familiar to you, follow the provided links for each feature. You will find all the necessary information at Microsoft Learn (either at the regular documentation level or at the great IoT Show channel).
+If any of these features are not familiar to you, follow the provided links for each feature. You will find all the necessary information at [Microsoft Learn](https://learn.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004280) (either at the regular documentation level or at the great [IoT Show channel](https://learn.microsoft.com/en-us/shows/internet-of-things-show/?WT.mc_id=AZ-MVP-5004280)).
 
  
 
