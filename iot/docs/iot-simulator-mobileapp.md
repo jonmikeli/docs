@@ -419,41 +419,16 @@ Talking about Direct Methods, the application includes a generic handler.
 No special actions are implemented after those Direct Methods are called. The requests are logged and displayed at C2D level, which allows to test and control that the mechanism works.
 
  
-
 The name of the Direct Methods and their signature are not important. You can use whatever you want.
 
  
-
- 
-
-
- 
-
- 
-
 Remember that the simulator needs to be connected, running and with the checkmark "C2D-DM" checked.
-
- 
-
- 
-
-
- 
-
  
 
 As you can see in the screen below, the application displays a short trace of the requests.
 
  
-
- 
-
-
-  
-
- 
-
-5.4.3 Message structure
+### Message structure
  
 
 The message structure can be defined with a configurable JSON Schema. When tapping on the button "Message structure", the application will ask you to locate the file containing the JSON Schema and it will display its content.
@@ -464,51 +439,27 @@ This schema will be used to generate random JSON messages. The randomization mec
 
  
 
-5.4.4 Other simulation settings
- 
-
- 
-
-
- 
-
+### Other simulation settings
  
 
 C2D Messages (C2D-M) and Twin Desired Properties (C2D-DP) work in a similar way to the generic Direct Method handler.
 
 Whatever you send to the virtual device, it is logged and displayed at the C2D logs level.
 
- 
 
 If C2D-Read TP is checked, Device Twin Properties are read and displayed at start time.
 
- 
 
 Once all the settings have been provided, they can be persisted with the “Save” button. You can also change them whenever you want. Stop the simulator to make the changes.
 
- 
 
-NOTE
-
-Keep in mind that the device needs to be provisioned (green icon) to start using the simulator. The application will guide you through the process, keeping you safe from doing inappropriate operations.
-
- 
+>[!NOTE]
+>
+>Keep in mind that the device needs to be provisioned (green icon) to start using the simulator. The application will guide you through the process, keeping you safe from doing inappropriate operations.
 
  
 
-
- 
-
- 
-
-5.4.5 Simulation running screen
- 
-
- 
-
-
- 
-
+### Simulation running screen
  
 
 The running section of the simulator (yellowish) is just below the configuration section (blue).
@@ -516,59 +467,32 @@ The running section of the simulator (yellowish) is just below the configuration
 It includes simple logs of D2C and C2D flows but enough to see how your "new IoT phone" is interacting with an IoT Solution. This is, by the way, a simple way to observe how impressively well are designed the underlying technologies (SDKs, Azure Services, etc).
 
  
-
-5.5 About
+## About
  
 
 The About screen includes:
 
-Different types of information about the application (version, author words, etc)
-Access to technical Logs
-Access to the "Reset" feature
+ - Different types of information about the application (version, author words, etc)
+ - Access to technical Logs
+ - Access to the "Reset" feature
  
 
- 
-
-
- 
-
- 
-
-
- 
-
- 
-
-5.6 Reset the settings
- 
+## Reset the settings
 
 In case you need to reset the application and clear all the settings, it can be done through the button located in the “About” screen.
 
  
-
- 
-
-
- 
-
- 
-
-
- 
-
- 
-
-6 - Conclusion
+# Conclusion
  
 
 I hope this application either helps you as a developer or gives you new ideas. This is also an example of the perimeter covered by the large catalog of services, technologies, tools, and IDEs offered by Microsoft and their level of integration.
 
  
 
-What is next?
+# What is next?
 
 An interesting upgrade of the application could be to use IoT flows to collect technical telemetry of how the application is being used. There are already other solutions to achieve that. That said, this type of flows is pretty natural in IoT and the application contains all the components to implement it.
 
  
 
-Feel free to reach out and provide any feedback, your thoughts, whatever .
+Feel free to reach out and provide any feedback, your thoughts, whatever.
