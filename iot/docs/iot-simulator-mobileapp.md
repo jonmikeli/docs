@@ -82,8 +82,8 @@ Once the provisioning is done, the devices can communicate with the assigned IoT
 When it comes to the application, I have considered different alternatives and technologies to implement it (Microsoft and not Microsoft). In the end, the set of technologies that offered the best value (features, tools, learning curve, productivity, etc) were:
  - [MAUI](https://learn.microsoft.com/dotnet/maui/what-is-maui?WT.mc_id=AZ-MVP-5004280)
  - [.NET, C#](https://dotnet.microsoft.com/learn/csharp?WT.mc_id=AZ-MVP-5004280)
- - IoT Hub SDK, C# (device side)
- - Azure (PaaS, Azure IoT Services)
+ - [IoT Hub SDK](https://learn.microsoft.com/azure/iot-hub/iot-hub-devguide-sdks?WT.mc_id=AZ-MVP-5004280), C# (device side)
+ - [Azure](https://azure.microsoft.com/?WT.mc_id=AZ-MVP-5004280) (PaaS, [Azure IoT Services](https://azure.microsoft.com/solutions/iot/#overview?WT.mc_id=AZ-MVP-5004280))
  
 
 NOTE
