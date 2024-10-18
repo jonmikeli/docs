@@ -11,9 +11,9 @@ If so, this post is probably for you.
 
 When working on IoT projects, sooner or later, you will need to test the integration of the “device side” with the “solution side”. There are many alternatives for this (UI-oriented or command-line-oriented).
 
-Azure IoT Explorer is probably one of the most known among Microsoft's tools. It is a graphical tool covering a large set of features and IoT flows. However, it is a desktop application.
+[Azure IoT Explorer](https://learn.microsoft.com/azure/iot-fundamentals/howto-use-iot-explorer?WT.mc_id=AZ-MVP-5004280) is probably one of the most known among Microsoft's tools. It is a graphical tool covering a large set of features and IoT flows. However, it is a desktop application.
 
-Microsoft has also developed an IoT Plug and Play Mobile App. It is very easy to use. Nevertheless, it is focused on Azure IoT Central.
+Microsoft has also developed an [IoT Plug and Play Mobile App](https://play.google.com/store/apps/details?id=com.iot_pnp&hl=en&gl=US). It is very easy to use. Nevertheless, it is focused on Azure IoT Central.
 
 I was missing a more generic tool, a bit more versatile and keeping the same level of simplicity. So, why not create a mobile application implementing most of the common IoT flows and allowing to simulate not only one virtual device but many of them? That was the beginning of Azure IoT Mobile Device.
 
