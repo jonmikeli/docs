@@ -453,7 +453,7 @@ The interval to send telemetry can be configured (value in seconds):
 In case you do not have a way to send the Direct Method requests, you can use [Azure IoT Explorer](https://learn.microsoft.com/en-us/azure/iot-fundamentals/howto-use-iot-explorer?WT.mc_id=AZ-MVP-5004280).
 
 
-![Direct Method - SetTelemetryInterval]()
+![Direct Method - SetTelemetryInterval](media/with-frame/C2D.png)
 
 
 The payload takes the new interval (in seconds).
@@ -470,13 +470,13 @@ No special actions are implemented after those Direct Methods are called. The re
 The name of the Direct Methods and their signature are not important. You can use whatever you want.
 
 
-![IoT Explorer - Generic Direct Methods]()
+![IoT Explorer - Generic Direct Methods](media/C2D-DC-SetTelemetryInterval.png)
 
 
 Remember that the simulator needs to be connected, running and with the checkmark "C2D-DM" checked.
 
 
-![Simulator - Generic methods - Running logs]()
+![Simulator - Generic methods - Running logs](media/with-frame/C2D.png)
 
 
 As you can see in the screen below, the application displays a short trace of the requests.
