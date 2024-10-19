@@ -343,7 +343,7 @@ Instead, if you follow the QR Code path, the app will enable the camera to scan 
 When a QR code is detected, the screen shows its content and you can add the settings to the application. If you go to the QR scanning screen from the DPS Settings list screen, the name of the setting will be created automatically.
 
 
-![DPS Settings QR Code - Scanning]()
+![DPS Settings QR Code - Scanning](media/with-frame/QRCodeScan.png)
  
 
 After leaving the QR code scanning screen, you might be redirected either to the DPS Settings (list) screen or to the DPS Settings (item) screen, depending on where you started the scanning process.
