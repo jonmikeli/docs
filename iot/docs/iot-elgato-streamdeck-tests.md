@@ -101,3 +101,5 @@ The second action stops the simulation:
  - Add a System Text action with the following content:
    - Title: 
    - Text: exit
+
+![Multiaction 2](media/streamdeck_multiaction2.png)
