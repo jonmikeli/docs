@@ -21,5 +21,19 @@ Have fun ;).
 
 ## Configuration
 
+The idea here is to use a stream deck to control different IoT simulators answering to different contexts:
+ - different configurations
+ - different projects
+
+The content of the article will be based on the containerized version of the IoT Simulator (multidevice).
+If you need more details, you can find them [here](../tools/simulators/iot-simulator-multi-device-container.md).
+
+
+### Stream Deck
+
+
+### Mobile application
+
+
 
 
