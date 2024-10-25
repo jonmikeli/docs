@@ -69,6 +69,8 @@ Steps:
 
 #### Action 1
 
+The first action starts the simulation:
+
 - add a System Open action with the following parameters:
   - Title: Open a terminal
   - App/file: cmd
@@ -83,4 +85,19 @@ Steps:
 
 ![Multiaction 1](media/streamdeck_multiaction1.png)
 
+#### Action 2
 
+The second action stops the simulation:
+
+ - add a System HotKey action with the following parameters:
+   - Title: Ctrl
+   - Hotkey: Ctrl
+ - add a System Text action with the following content:
+   - Title: 
+   - Text: c
+ - Add a System HotKey action with the following parameters:
+   - Title: Return
+   - Hotkey: Return
+ - Add a System Text action with the following content:
+   - Title: 
+   - Text: exit
