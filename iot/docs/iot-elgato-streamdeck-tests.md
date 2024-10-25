@@ -39,31 +39,6 @@ The article describes how to use physical Elgato Stream Deck and also, the mobil
 This way, you can imagine additional alternatives to your use cases.
 
 
-
-### Mobile application
-
-> [!NOTE]
->
-> Be sure that Elgato Stream Deck software is installed on your computer and that the mobile application is also installed on your mobile device.
-> You do not need a physical Elgato Stream Deck to use the mobile application. This said, the experience is richer with the physical device.
->
-
-To use the mobile application, you will need to pair your application with the computer where the Elgato Stream Deck software is installed.
-The pairing is done from the mobile application.
-
-
-Once the pairing is done, the actual configuration might start.
-
-Depending on the type of membership you have, you can add more or less configurable buttons.
-This said, the configuration of simulations remains the same.
-
-
-![Mobile app1](media/mobile_app1.jpg)
-
-
-![Mobile app2](media/mobile_app2.jpg)
-
-
 ### Adding a new button
 
 Steps:
@@ -125,6 +100,30 @@ The second action stops the simulation:
 > [!NOTE]
 >
 > Screenshots are taken from the mobile profile configuration. The desktop version is similar.
+
+
+### Mobile application
+
+> [!NOTE]
+>
+> Be sure that Elgato Stream Deck software is installed on your computer and that the mobile application is also installed on your mobile device.
+> You do not need a physical Elgato Stream Deck to use the mobile application. This said, the experience is richer with the physical device.
+>
+
+To use the mobile application, you will need to pair your application with the computer where the Elgato Stream Deck software is installed.
+The pairing is done from the mobile application.
+
+
+Once the pairing is done, the actual configuration might start.
+
+Depending on the type of membership you have, you can add more or less configurable buttons.
+This said, the configuration of simulations remains the same.
+
+
+![Mobile app1](media/mobile_app1.jpg)
+
+
+![Mobile app2](media/mobile_app2.jpg)
 
 
 ### Stream Deck
