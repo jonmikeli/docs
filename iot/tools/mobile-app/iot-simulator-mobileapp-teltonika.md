@@ -16,6 +16,7 @@ This initial version creates telemetry messages with a fixed set of properties.
 These properties are serialized in a HEX string, following the Codec 8E format.
 
 List of currently used properties (Event Ids):
+
  - 16, total odometer
  - 21, gsm signal strength
  - 24, speed
@@ -37,9 +38,11 @@ List of currently used properties (Event Ids):
  - 658, trunk door open
 
 The codec is described [here](https://wiki.teltonika-gps.com/view/Codec).
+
 Event Ids are described [here](https://wiki.teltonika-gps.com/view/FMB120_Teltonika_Data_Sending_Parameters_ID).
 
-
+When the telemetry generation is started, an event is sent (Ignition On) simulating how a vehicle starts.
+Similarly, when the telemetry generation is stopped, an event is sent (Ignition Off) simulating how a vehicle stops.
 
 
 ### GPS data
