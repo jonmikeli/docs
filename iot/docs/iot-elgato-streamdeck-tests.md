@@ -61,7 +61,23 @@ This said, the configuration of simulations remains the same.
 
 ### Adding a new button
 
+Steps:
+ - drag and drop a Multitask Action Switch button to the stream deck configuration area
+ - configure the two actions of the button
 
+#### Action 1
+
+- add a System Open action with the following parameters:
+  - Title: Open a terminal
+  - App/file: cmd
+- add a Multi Action of type Delay with the following parameters:
+  - Title: Delay
+  - Delay: 1000 ms
+  This step is needed to be sure the terminal is opened before sending the command.
+- add a System Text action with the following content:
+  ```bash
+    docker run -ti --rm --name DeviceSymJMIMulti -e DPS_SECURITY_TYPE="SymmetricKey" -e TRANSPORT_TYPE="Mqtt" -e DPS_IDSCOPE="TO BE REPLACED" -e DPS_PRIMARY_SYMMETRIC_KEY="TO BE REPLACED" -e MULTIDEVICE_DEVICE_COUNT=10 -e MULTIDEVICE_DEVICE_PREFIX="sim-" -e MULTIDEVICE_DEVICE_ID_FORMAT="test-d{0}" --network="host" jmiacr.azurecr.io/iot-simulator-dps-multi:8.2.785.2258
+  ```
 
 
 
