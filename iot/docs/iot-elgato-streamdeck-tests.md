@@ -42,6 +42,11 @@ TODO
 
 ### Mobile application
 
+> [!NOTE]
+>
+> Be sure that Elgato Stream Deck software is installed on your computer and that the mobile application is also installed on your mobile device.
+>
+
 
 
 
