@@ -63,4 +63,4 @@ Required credentials are configurable in the application.
 
  # The app
 
- You can download the app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.azureiot.simulator.teltonika).
+ You can download the app from the [Google Play Store](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile.teltonika).
