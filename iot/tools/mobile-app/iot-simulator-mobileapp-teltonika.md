@@ -13,8 +13,8 @@ The Teltonika version of the mobile application includes the following features:
 
 This initial version creates telemetry messages with a fixed set of properties.
 
-TODO
-Describe them
+The codec is described [here](https://wiki.teltonika-gps.com/view/Codec).
+Event Ids are described [here](https://wiki.teltonika-gps.com/view/FMB120_Teltonika_Data_Sending_Parameters_ID).
 
 These properties are serialized in a HEX string, following the Codec 8E format.
 
