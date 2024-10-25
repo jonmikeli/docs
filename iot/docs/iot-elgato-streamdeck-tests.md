@@ -39,23 +39,18 @@ The article describes how to use physical Elgato Stream Deck and also, the mobil
 This way, you can imagine additional alternatives to your use cases.
 
 
-### Stream Deck
-
-TODO
-
 
 ### Mobile application
 
 > [!NOTE]
 >
 > Be sure that Elgato Stream Deck software is installed on your computer and that the mobile application is also installed on your mobile device.
+> You do not need a physical Elgato Stream Deck to use the mobile application. This said, the experience is richer with the physical device.
 >
 
 To use the mobile application, you will need to pair your application with the computer where the Elgato Stream Deck software is installed.
 The pairing is done from the mobile application.
 
-TODO
-Screenshot
 
 Once the pairing is done, the actual configuration might start.
 
@@ -124,4 +119,8 @@ The second action stops the simulation:
 > [!NOTE]
 >
 > Screenshots are taken from the mobile profile configuration. The desktop version is similar.
-> 
+
+
+### Stream Deck
+
+If you have a physical Elgato Stream Deck, the configuration is similar to the mobile application.
