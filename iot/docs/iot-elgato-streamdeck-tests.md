@@ -14,7 +14,7 @@ Have fun ;).
 
 ## Prerequisites
 
-- Elgato Stream Deck
+- [Elgato Stream Deck](https://www.elgato.com/us/en/p/stream-deck-mk2-black)
 - Elgato Stream Deck software installed
 - Elgato mobile application (optional)
 - Docker installed
