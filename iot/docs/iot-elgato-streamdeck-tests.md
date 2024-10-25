@@ -79,6 +79,6 @@ Steps:
     docker run -ti --rm --name DeviceSymJMIMulti -e DPS_SECURITY_TYPE="SymmetricKey" -e TRANSPORT_TYPE="Mqtt" -e DPS_IDSCOPE="TO BE REPLACED" -e DPS_PRIMARY_SYMMETRIC_KEY="TO BE REPLACED" -e MULTIDEVICE_DEVICE_COUNT=10 -e MULTIDEVICE_DEVICE_PREFIX="sim-" -e MULTIDEVICE_DEVICE_ID_FORMAT="test-d{0}" --network="host" jmiacr.azurecr.io/iot-simulator-dps-multi:8.2.785.2258
   ```
 
-
+![Multiaction 1](media/streamdeck_multiaction1.png)
 
 
