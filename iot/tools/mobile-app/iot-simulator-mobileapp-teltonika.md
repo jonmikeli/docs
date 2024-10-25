@@ -30,5 +30,7 @@ When it comes to routes or paths, it might be helpful to generate coherent GPS d
 This version of the application uses Azure Maps to implement part of the feature.
 Required credentials are configurable in the application.
 
-TODO
-Screenshot
+![Teltonika About](media/with-frame/Teltonika_About_Settings_framed.png)
+
+
+![Teltonika Settings](media/with-frame/Teltonika_Settings_framed.png)
