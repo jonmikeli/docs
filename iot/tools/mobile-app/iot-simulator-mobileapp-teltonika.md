@@ -13,10 +13,33 @@ The Teltonika version of the mobile application includes the following features:
 
 This initial version creates telemetry messages with a fixed set of properties.
 
+These properties are serialized in a HEX string, following the Codec 8E format.
+
+List of currently used properties (Event Ids):
+ - 16, total odometer
+ - 21, gsm signal strength
+ - 24, speed
+ - 66, external voltage
+ - 67, battery voltage
+ - 80, data mode
+ - 81, vehicle speed
+ - 89, fuel level
+ - 152, hv battery level
+ - 200, sleep mode
+ - 239, ignition
+ - 240, movement
+ - 391, private mode
+ - 400, distance next service
+ - 654, front left door open
+ - 655, front right door open
+ - 656, rear left door open
+ - 657, rear right door open
+ - 658, trunk door open
+
 The codec is described [here](https://wiki.teltonika-gps.com/view/Codec).
 Event Ids are described [here](https://wiki.teltonika-gps.com/view/FMB120_Teltonika_Data_Sending_Parameters_ID).
 
-These properties are serialized in a HEX string, following the Codec 8E format.
+
 
 
 ### GPS data
