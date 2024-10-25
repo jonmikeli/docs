@@ -103,3 +103,9 @@ The second action stops the simulation:
    - Text: exit
 
 ![Multiaction 2](media/streamdeck_multiaction2.png)
+
+
+> [!NOTE]
+>
+> Screenshots are taken from the mobile profile configuration. The desktop version is similar.
+> 
