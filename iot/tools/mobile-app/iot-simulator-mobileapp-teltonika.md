@@ -20,3 +20,10 @@ These properties are serialized in a HEX string, following the Codec 8E format.
 
 
 ### GPS data
+
+When it comes to routes or paths, it might be helpful to generate coherent GPS data. By "coherent" we mean meaningful data in terms of:
+ - position (ordered)
+ - speed
+ - time
+ - according to a route
+
