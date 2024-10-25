@@ -120,10 +120,10 @@ Depending on the type of membership you have, you can add more or less configura
 This said, the configuration of simulations remains the same.
 
 
-![Mobile app1](media/mobile_app1.jpg)
+![Mobile app1](media/mobile_app1_50.jpg)
 
 
-![Mobile app2](media/mobile_app2.jpg)
+![Mobile app2](media/mobile_app2_50.jpg)
 
 
 ### Stream Deck
