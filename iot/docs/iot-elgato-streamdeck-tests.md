@@ -8,7 +8,7 @@ Having such tools is great. However, from the practical perspective, some projec
 
 Instead of building another application being used as hub for all the tools, using a stream deck might be a good alternative.
 
-This article describes how to use an Elgato Stream Deck to control the IoT simulators.
+This article describes how to use an [Elgato Stream Deck](https://www.elgato.com/us/en/p/stream-deck-mk2-black) to control the IoT simulators.
 
 Have fun ;).
 
