@@ -21,7 +21,7 @@ Have fun ;).
 
 > [!IMPORTANT]
 >
-> Be sure that Docker is running on your computer.
+> Be sure that Docker is running on your computer before using the simulators.
 
 
 ## Configuration
