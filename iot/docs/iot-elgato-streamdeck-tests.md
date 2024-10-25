@@ -12,4 +12,14 @@ This article describes how to use an Elgato Stream Deck to control the IoT simul
 
 Have fun ;).
 
+## Prerequisites
+
+- Elgato Stream Deck
+- Elgato Stream Deck software installed
+- Elgato mobile application (optional)
+
+
+## Configuration
+
+
 
