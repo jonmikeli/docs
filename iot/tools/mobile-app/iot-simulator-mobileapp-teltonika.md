@@ -64,3 +64,10 @@ Required credentials are configurable in the application.
  # The app
 
  You can download the app from the [Google Play Store](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile.teltonika).
+
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=jmi.iot.device.mobile.teltonika" target="_blanc">
+<img src="media/Google_Play_Store_badge_EN.svg.webp" width="200">
+</a>
+</p>
