@@ -97,6 +97,8 @@ The first action starts the simulation:
     jmiacr.azurecr.io/iot-simulator-dps-multi:8.2.785.2258
   ```
 
+
+
 ![Multiaction 1](media/streamdeck_multiaction1.png)
 
 #### Action 2
