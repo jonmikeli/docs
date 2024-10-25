@@ -1,6 +1,6 @@
 # Azure IoT Simulator - Mobile application - Teltonika
 
-This version of the mobile application is based on the [Azure IoT Simulator - Mobile application](iot/tools/mobile-app/iot-simulator-mobileapp.md).
+This version of the mobile application is based on the [Azure IoT Simulator - Mobile application](iot-simulator-mobileapp.md).
 As the title suggests, this new version is designed to include features specific to Teltonika's contexts.
 
 ## Features
