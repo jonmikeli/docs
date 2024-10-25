@@ -19,6 +19,10 @@ Have fun ;).
 - Elgato mobile application (optional)
 - Docker installed
 
+> [!IMPORTANT]
+>
+> Be sure that Docker is running on your computer.
+
 
 ## Configuration
 
