@@ -17,6 +17,7 @@ Have fun ;).
 - Elgato Stream Deck
 - Elgato Stream Deck software installed
 - Elgato mobile application (optional)
+- Docker installed
 
 
 ## Configuration
@@ -28,11 +29,20 @@ The idea here is to use a stream deck to control different IoT simulators answer
 The content of the article will be based on the containerized version of the IoT Simulator (multidevice).
 If you need more details, you can find them [here](../tools/simulators/iot-simulator-multi-device-container.md).
 
+When it comes to stream decks, Elgato offers very popular products. They even include a mobile application.
+The article describes how to use physical Elgato Stream Deck and also, the mobile application.
+
+This way, you can imagine additional alternatives to your use cases.
+
 
 ### Stream Deck
 
+TODO
+
 
 ### Mobile application
+
+
 
 
 
