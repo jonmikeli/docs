@@ -124,3 +124,9 @@ The second action stops the simulation:
 ### Stream Deck
 
 If you have a physical Elgato Stream Deck, the configuration is similar to the mobile application.
+
+
+## Nex steps
+
+You can configure as many buttons and simulators as you want, taking into account a rich set of use cases.
+This might be very useful and time saving when it comes to testing or demonstrations.
