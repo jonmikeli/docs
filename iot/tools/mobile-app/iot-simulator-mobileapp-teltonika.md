@@ -60,3 +60,7 @@ Required credentials are configurable in the application.
 
 
 ![Teltonika Settings](media/with-frame/Teltonika_Settings_framed.png)
+
+ # The app
+
+ You can download the app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.azureiot.simulator.teltonika).
