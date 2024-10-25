@@ -47,6 +47,20 @@ TODO
 > Be sure that Elgato Stream Deck software is installed on your computer and that the mobile application is also installed on your mobile device.
 >
 
+To use the mobile application, you will need to pair your application with the computer where the Elgato Stream Deck software is installed.
+The pairing is done from the mobile application.
+
+TODO
+Screenshot
+
+Once the pairing is done, the actual configuration might start.
+
+Depending on the type of membership you have, you can add more or less configurable buttons.
+This said, the configuration of simulations remains the same.
+
+
+### Adding a new button
+
 
 
 
