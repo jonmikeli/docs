@@ -63,6 +63,7 @@ This said, the configuration of simulations remains the same.
 
 Steps:
  - drag and drop a Multitask Action Switch button to the stream deck configuration area
+ - give a name to the button
  - configure the two actions of the button
 
 ![Configuration](media/streamdeck_mobile.png)
