@@ -65,6 +65,8 @@ Steps:
  - drag and drop a Multitask Action Switch button to the stream deck configuration area
  - configure the two actions of the button
 
+![Configuration](media/streamdeck_mobile.png)
+
 #### Action 1
 
 - add a System Open action with the following parameters:
