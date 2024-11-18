@@ -71,3 +71,11 @@ Required credentials are configurable in the application.
 <img src="media/Google_Play_Store_badge_EN.svg.webp" width="200">
 </a>
 </p>
+
+### Dependencies
+
+The application relies on specific NuGet packages:
+ - [Data generation](https://www.nuget.org/packages/JMI.Json.Data/)
+ - [Teltonika related content](https://www.nuget.org/packages/JMI.Teltonika.Telemetry/)
+
+Both packages are shared too.
