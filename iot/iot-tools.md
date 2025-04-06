@@ -12,11 +12,11 @@ This section enumerates some of the tools that I have been building for IoT and 
 
 Accelerators: 2
 
-Simulators: +6
+Simulators: +10
 
-Extensions: 9
+Extensions: 14
 
-Libraries: 3
+Libraries: 5
 
 ## Accelerators
 
