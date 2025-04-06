@@ -172,5 +172,74 @@ Functional features are based on these generic technical features:
 - ~~adding IoT Plug and Play (DTDL v2)?~~
 - tools to create PKIs
 
+## Containerized version
+To make things even easier and more practical, the simulator has been containerized.
+You can find it [here](https://hub.docker.com/repository/docker/jonmikeli/iot-simulator-dps-multi/general).
+
+This new version includes a big additional feature: the ability to simulate multiple devices at the same time.
+
+### Why? Problem to solve?
+
+The "why" is pretty simple: it is quite common that an IoT project requires a certain number of devices to test the solution.
+In the end, most of IoT teams have to develop such tools, in a way or another.
+
+So, here it is a kind of generic and reusable tool to simulate multiple devices.
+
+### How does it work?
+
+Most of the features implemented in the previous single device version are included in this version.
+Each virtual device is implemented in an isolated context and a separated thread.
+
+The tool is delivered as a Docker container.
+This makes the tool very suitable for a large number of uses:
+  - development
+  - tests
+  - integration tests
+  - load tests
+  - etc
+
+Each device runs according to its own settings and configuration.
+Each device remains reactive to C2D flows.
+
+The tool is designed to provide parameters like:
+ - number of devices to simulate/virtualize
+ - device Id format (to generate device Ids)
+ - device Id prefix
+
+
+### Limitations
+
+#### Security
+
+X509 authentication is not supported in this version.
+Indeed, knowing that the devices are created dynamically (including their names), it would have need a way to dynamically create and refer to the different leaf certificates.
+
+The purpose of the tool being different, this level of complexity was not reasonable.
+
+#### Modules
+
+Modules simulation is not supported in this version.
+It has been quite rare to have to simulate modules in the context of the projects I have been involved in.
+So, it has not been a priority.
+
+### How to use it
+
+To run the container, it is quite simple. Just one command line is needed.
+
+```bash	
+docker run -ti --rm --name DeviceSymJMIMulti \
+-e DPS_SECURITY_TYPE="SymmetricKey" \
+-e TRANSPORT_TYPE="Mqtt" \
+-e DPS_IDSCOPE="TO REPLACE" \
+-e DPS_PRIMARY_SYMMETRIC_KEY="TO REPLACE" \
+-e MULTIDEVICE_DEVICE_COUNT=10 \
+-e MULTIDEVICE_DEVICE_PREFIX="sim-" \
+-e MULTIDEVICE_DEVICE_ID_FORMAT="test-d{0}" \
+--network="host" \
+[DOCKER IMAGE NAME] 
+```
+
+Complete details about how to use it are provided [here] (https://github.com/jonmikeli/azureiotdevicesimulator8-dps-multidevice/blob/main/docs/Multidevice.md).
+
 ## More information
 Detailed documentation [here](https://github.com/jonmikeli/azureiotdevicesimulator8-dps-multidevice).
