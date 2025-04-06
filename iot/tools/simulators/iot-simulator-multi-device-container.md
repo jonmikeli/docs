@@ -17,7 +17,7 @@ You can find the whole detailed documentation [here](https://github.com/jonmikel
 
 *Azure IoT Device Simulator logs*
 
-![Azure IoT Device Simulator Logs](iot/docs/media/IoTSimulator-DPS-CAX509.gif)
+![Azure IoT Device Simulator Logs](/iot/docs/media/IoTSimulator-DPS-CAX509.gif)
 
 
 ## IoT tools
