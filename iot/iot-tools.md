@@ -51,6 +51,8 @@ The containerized simulator is the initial and default version of the simulator.
 It finds its place in projects that need different IoT simulated devices running autonomously.
 Similarly to the accelerator mentioned previously, the containerized version of the simulator as been made private to protected the work against unethical use.
 
+Donwload containers [here](https://hub.docker.com/repository/docker/jonmikeli/iot-simulator-dps/general).
+
 ### Mobile app
 
 A [mobile application simulating](https://techcommunity.microsoft.com/t5/internet-of-things-blog/transform-your-phone-into-an-iot-device-with-net-maui/ba-p/3673909?WT.mc_id=AZ-MVP-5004280) most of the IoT flows has been implemented too.
