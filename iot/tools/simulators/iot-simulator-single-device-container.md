@@ -1,6 +1,7 @@
-# Azure IoT Device Simulator (.NET 8, C#) - Single device - DPS version
+# Azure IoT Device Simulator (.NET, C#) - Single device - DPS version
 
-<sub>10/13/2024</sub>
+<sub>11/22/2025</sub>
+
 
 ## New features
 This version of the Azure IoT Device Simulator implements provisioning relying on DPS (Device Provisioning Service).
@@ -45,7 +46,7 @@ Telemetry messages are based on the templates used in the regular simulator.
  - etc
 
 ## Technical information
- - .NET 8 (C#)
+ - .NET 10 (C#)
  - Microsoft Azure IoT SDK (provisioning, properties, tags, C2D/D2C, device modules*).
  - Docker and bash for the containerized use cases.
 
@@ -178,3 +179,8 @@ Functional features are based on these generic technical features:
 
 ## More information
 Detailed documentation can be found [here](https://github.com/jonmikeli/azureiotdevicesimulator8-dps).
+
+
+# Downloads
+
+Docker versions [here](https://hub.docker.com/repository/docker/jonmikeli/iot-simulator-dps/general).
