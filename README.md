@@ -6,10 +6,12 @@ Their number is increasing and they were starting to be dispersed. So, it was ti
 This repository will evolve in time and be enriched iteration after iteration, either with documentation updates or new tools/libraries/publications.
 
 The content is structured in many sections. For now, those identified are:
- - DevOps
+ - [DevOps](./devops/README.md)
  - [dotnet](./dotnet/README.md)
  - [Iac](./iac/README.md)
  - [IoT](./iot/iot-tools.md)
- - Azure (backend distributed applications with different types of persistence)
+ - [Azure](./azure/README.md) (backend distributed applications with different types of persistence)
+ - Aspire
+ - AI
 
 These sections might evolve with time.
