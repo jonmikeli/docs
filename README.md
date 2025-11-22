@@ -11,7 +11,7 @@ The content is structured in many sections. For now, those identified are:
  - [Iac](./iac/README.md)
  - [IoT](./iot/iot-tools.md)
  - [Azure](./azure/README.md) (backend distributed applications with different types of persistence)
- - Aspire
+ - [Aspire](./aspire/README.md)
  - AI
 
 These sections might evolve with time.
