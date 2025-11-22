@@ -7,7 +7,7 @@ This repository will evolve in time and be enriched iteration after iteration, e
 
 The content is structured in many sections. For now, those identified are:
  - DevOps
- - dotnet
+ - [dotnet](./dotnet/README.md)
  - Iac
  - [IoT](./iot/iot-tools.md)
  - Azure (backend distributed applications with different types of persistence)
