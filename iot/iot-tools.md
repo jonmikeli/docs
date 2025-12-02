@@ -115,7 +115,10 @@ Solution template extension to create an Azure Function reading messages from an
 
 #### Links
 
- - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFDigitalTwinsVSTemplate)
+ - [Visual Studio, .NET 7](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFDigitalTwinsVSTemplate)
+ - [Visual Studio, .NET 8](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8AFDigitalTwinsVSTemplate)
+ - [Visual Studio, .NET 9](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet9AFDigitalTwinsVSTemplate)
+ - [Visual Studio, .NET 10](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet10AFDigitalTwinsVSTemplate)
  - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.DigitalTwins.Template.CSharp/)
 
 ### IoT Hub facade
