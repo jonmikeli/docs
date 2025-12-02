@@ -115,7 +115,7 @@ Solution template extension to create an Azure Function reading messages from an
 #### Links
 
  - [Visual Studio]()
- - [.NET CLI]()
+ - [.NET 10 CLI](https://www.nuget.org/packages/JMI.DotNet10.AF.Isolated.SchemaValidator.IoT.StructuredOutputs.EventHub.Template.CSharp/)
 
 ### EH to DT
 
