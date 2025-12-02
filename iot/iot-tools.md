@@ -174,8 +174,8 @@ Solution template extension to create an REST API (WebAPI) following structured 
 
 #### Links
 
- - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7RESTAPIVSTemplate)
- - [.NET CLI](https://www.nuget.org/packages/JMI.DotNet7.REST.API.Template.CSharp/)
+ - [Visual Studio, .NET 7](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7RESTAPIVSTemplate)
+ - [.NET 7 CLI](https://www.nuget.org/packages/JMI.DotNet7.REST.API.Template.CSharp/)
 
 ### gRPC
 
