@@ -1,4 +1,4 @@
-# Azure IoT Device Simulator (.NET 8, C#) - Multi device
+# Azure IoT Device Simulator (.NET, C#) - Multi device
 
 ## New features
 This version of the Azure IoT Device Simulator implements provisioning relying on DPS (Device Provisioning Service).
