@@ -196,6 +196,9 @@ Solution template extension to create an gRPC services with default and common s
  - [Visual Studio, .NET 9](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet9gRPCAPIVSTemplate)
  - [Visual Studio, .NET 10](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet10gRPCAPIVSTemplate)
  - [.NET 7 CLI](https://www.nuget.org/packages/JMI.DotNet7.GRPC.API.Template.CSharp/)
+ - [.NET 8 CLI](https://www.nuget.org/packages/JMI.DotNet8.GRPC.API.Template.CSharp/)
+ - [.NET 9 CLI](https://www.nuget.org/packages/JMI.DotNet9.GRPC.API.Template.CSharp/)
+ - [.NET 10 CLI](https://www.nuget.org/packages/JMI.DotNet10.GRPC.API.Template.CSharp/)
 
 ### Azure IoT Edge
 
