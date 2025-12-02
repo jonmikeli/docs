@@ -97,6 +97,10 @@ Solution template extension to create an Azure Function reading messages from an
 
 Solution template extension to create an Azure Function reading messages from an Event Hub, implementing some processing (validations, etc) and sending the messages to a new Event Hub.
 
+> NOTE: Obsolete
+>
+> See the EH to SR version, which combines EventHub outputs with Azure Storage and Azure SignalR.
+
 #### Links
 
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateEventHub)
