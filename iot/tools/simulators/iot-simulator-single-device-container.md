@@ -172,6 +172,9 @@ Functional features are based on these generic technical features:
 
 ## Upcoming features
 - ~~adding IoT Plug and Play (DTDL v2)?~~
+- Aspire integration
+- Azure Foundry integration
+
 - data correlation features?
 - quality control automation features?
 - better GPS data management?
