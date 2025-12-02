@@ -22,7 +22,7 @@ You can find the whole detailed documentation [here](https://github.com/jonmikel
 
 ## IoT tools
 This simulator keeps the spirit of the [regular version](https://github.com/jonmikeli/azureiotdevicesimulator5).
-It completes other simulators like:
+It complements other simulators like:
  - [regular version of the simulator](https://github.com/jonmikeli/azureiotdevicesimulator5)
  - [Plug and Play version of the simulator](https://github.com/jonmikeli/azureiotdevicesimulator5-pnp) (based on DTDL v2)
  - DPS version (this repository)
@@ -31,7 +31,7 @@ I guess that forking this version with IoT Plug and Play capabilities may be a g
 
 ## Automatization
 A script is provided in the repository to showcase how to create a set of simulators (containerized version).
-The sample creates the containers in the local machine. You can use the same mecanism and adapt it to cloud services like ACR and ACI.
+The sample creates the containers in the local machine. You can use the same mechanism and adapt it to cloud services like ACR and ACI.
 
 The whole set of simulated devices may be provisioned and running in a few seconds.....literally. Once the initial settings are configured (configuration files), everything runs automatically (provisioning, modules, telemetries, D2C/C2D flows, etc).
 
@@ -50,7 +50,7 @@ Telemetry messages are based on the templates used in the regular simulator.
  - Docker and bash for the containerized use cases.
 
 ## Global features
- - device provisioning (group enrollment with symetric keys).
+ - device provisioning (group enrollment with symmetric keys).
  - device provisioning (group enrollment with CA X509 certificate).
  - provisioning configuration through environment variables, command parameters or setting files.
  - device level simulation (C2D/D2C).
@@ -78,9 +78,9 @@ The simulator has been designed to work in different provisioning use cases:
  1. If the simulator has no connection string, a provisioning process is initiated.
    This process requires a DPS configuration to be set.
    The DPS configuration can be provided by:
-    - environment variables (recommended and useful for containerized targets. It is less prone to compromise security.).
-    - command line parameters, that will overwrite the environment variables (may be used in not containerized targets, in automated processes and providing safe ways to instantiate the simulator).
-    - if none of the previous settings are found, a `dpssettings.json` file will be loaded (not recommended in production unless the JSON file is persisted in a secured location. This third alternative can be used as a development tool.).
+    - environment variables (recommended and useful for containerized targets. It is less prone to compromising security.).
+    - command line parameters, that will overwrite the environment variables (may be used in non-containerized targets, in automated processes and providing safe ways to instantiate the simulator).
+    - if none of the previous settings are found, a `dpssettings.json` file will be loaded (not recommended in production unless the JSON file is persisted in a secure location. This third alternative can be used as a development tool.).
  2. If the simulator finds a connection string, it uses and it skips the provisioning process.
  
 > NOTE
@@ -118,11 +118,11 @@ The simulator has been designed to work in different provisioning use cases:
 
 
 ### Module level (C2M/M2C)
-The features at the module level are the identical to the device features except for the latency tests.
+The features at the module level are identical to the device features except for the latency tests.
 
 > NOTE
 >
-> The security type implemented for module identities is based on symmetric keys. Depending on the faced use cases, additional possibities may be added in upcoming versions. Adding X509 module identities will require to add the needed certificates in a secured way (to the cloud and the device).
+> The security type implemented for module identities is based on symmetric keys. Depending on the faced use cases, additional possibities may be added in upcoming versions. Adding X509 module identities will require to add the needed certificates in a secure way (to the cloud and the device).
 > Personnally, I am wondering why a given device and its module identities could implement different types of security. What requirements may lead to such a scenario?
 
 
