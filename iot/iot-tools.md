@@ -147,6 +147,9 @@ Solution template extension to create an IoT Hub facade, based on the REST API (
  - [Visual Studio, NET 9](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.IoTHubDotNet9RESTAPITemplate)
  - [Visual Studio, NET 10](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.IoTHubDotNet10RESTAPITemplate)
  - [.NET 7 CLI](https://www.nuget.org/packages/JMI.DotNet7.IoTHub.REST.API.Template.CSharp/)
+ - [.NET 8 CLI](https://www.nuget.org/packages/JMI.DotNet8.IoTHub.REST.API.Template.CSharp/)
+ - [.NET 9 CLI](https://www.nuget.org/packages/JMI.DotNet9.IoTHub.REST.API.Template.CSharp/)
+ - [.NET 10 CLI](https://www.nuget.org/packages/JMI.DotNet10.IoTHub.REST.API.Template.CSharp/)
 
 ### YARP Reverse proxy
 
