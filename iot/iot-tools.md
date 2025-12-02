@@ -81,7 +81,13 @@ Solution template extension to create an Azure Function reading messages from an
 #### Links
 
  - [Visual Studio, NET 7](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet7AFSchemaValidatorIoTOutputsVSTemplateServiceBus)
+ - [Visual Studio, NET 8](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet8AFSchemaValidatorIoTOutputsVSTemplateServiceBus)
+ - [Visual Studio, NET 9](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet9AFSchemaValidatorIoTOutputsVSTemplateServiceBus)
+ - [Visual Studio, NET 10](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.DotNet10AFSchemaValidatorIoTOutputsVSTemplateServiceBus)
  - [.NET 7 CLI](https://www.nuget.org/packages/JMI.DotNet7.AF.SchemaValidator.IoT.StructuredOutputs.ServiceBus.Template.CSharp/)
+ - [.NET 8 CLI](https://www.nuget.org/packages/JMI.DotNet8.AF.SchemaValidator.IoT.StructuredOutputs.ServiceBus.Template.CSharp/)
+ - [.NET 9 CLI](https://www.nuget.org/packages/JMI.DotNet9.AF.SchemaValidator.IoT.StructuredOutputs.ServiceBus.Template.CSharp/)
+ - [.NET 10 CLI](https://www.nuget.org/packages/JMI.DotNet10.AF.SchemaValidator.IoT.StructuredOutputs.ServiceBus.Template.CSharp/)
 
 
 ### EH to EH
