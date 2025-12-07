@@ -84,7 +84,12 @@ Visual Studio Extensions (VSIX):
 
    ![alt text](image-3.png)
 
+  - Run the solution
 
+
+  > NOTE
+  >
+  > Solution settings are at appsettings.json level. They can be updated whenever it is needed.
 
 ## .NET CLI
 
