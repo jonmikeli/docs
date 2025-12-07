@@ -93,8 +93,11 @@ Visual Studio Extensions (VSIX):
 
 ## .NET CLI
 
+ - command help
 ![alt text](image-6.png)
 
+
+ - execute the script
 
 ```bash
 dotnet new aspireiotdpsmulti10 \
@@ -108,6 +111,9 @@ dotnet new aspireiotdpsmulti10 \
  -pr 'cli-' \
  -f 'sim-dd{0}'
 ```
+
+ - Run the solution
+ 
 
 ## Running solution
 
