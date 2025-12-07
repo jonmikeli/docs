@@ -70,19 +70,19 @@ Visual Studio Extensions (VSIX):
 
   - Create the solution
 
-  ![alt text](image.png)
+  ![alt text](media/image.png)
 
   - Set the solution name and location
 
-  ![alt text](image-1.png)
+  ![alt text](media/image-1.png)
 
   - Configure the template
 
-  ![alt text](image-2.png)
+  ![alt text](media/image-2.png)
 
   - Created solution
 
-   ![alt text](image-3.png)
+   ![alt text](media/image-3.png)
 
   - Run the solution
 
@@ -94,7 +94,7 @@ Visual Studio Extensions (VSIX):
 ## .NET CLI
 
  - command help
-![alt text](image-6.png)
+![alt text](media/image-6.png)
 
 
  - execute the script
@@ -118,10 +118,10 @@ dotnet new aspireiotdpsmulti10 \
 ## Running solution
 
  - Aspire dashboard
-![alt text](image-7.png)
+![alt text](media/image-7.png)
 
  - Console of the running simulator
- ![alt text](image-8.png)
+ ![alt text](media/image-8.png)
 
 
 # What is coming next?
