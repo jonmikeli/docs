@@ -68,6 +68,13 @@ Visual Studio Extensions (VSIX):
 
 ## VSIX
 
+  - Create the solution
+
+  ![alt text](image.png)
+
+  -
+
+
 ## .NET CLI
 
 # What is coming next?
