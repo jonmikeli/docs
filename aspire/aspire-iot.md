@@ -109,6 +109,15 @@ dotnet new aspireiotdpsmulti10 \
  -f 'sim-dd{0}'
 ```
 
+## Running solution
+
+ - Aspire dashboard
+![alt text](image-7.png)
+
+ - Console of the running simulator
+ ![alt text](image-8.png)
+
+
 # What is coming next?
 
 Next steps might depend on feedback and detected needs.
