@@ -113,7 +113,7 @@ dotnet new aspireiotdpsmulti10 \
 ```
 
  - Run the solution
- 
+
 
 ## Running solution
 
@@ -134,4 +134,4 @@ This would also showcase a complete use case of:
  - enriched with Azure AI Foundry
  
 
-<sub><sub>Not created with GenAI.</sub></sub>
+<sub><sub>Content not created with GenAI.</sub></sub>
