@@ -93,7 +93,8 @@ Visual Studio Extensions (VSIX):
 
 ## .NET CLI
 
-![alt text](image-5.png)
+![alt text](image-6.png)
+
 
 ```bash
 dotnet new aspireiotdpsmulti10 -
