@@ -66,6 +66,9 @@ Visual Studio Extensions (VSIX):
 
 # How to use the extensions?
 
+## VSIX
+
+## .NET CLI
 
 # What is coming next?
 
