@@ -72,7 +72,18 @@ Visual Studio Extensions (VSIX):
 
   ![alt text](image.png)
 
-  -
+  - Set the solution name and location
+
+  ![alt text](image-1.png)
+
+  - Configure the template
+
+  ![alt text](image-2.png)
+
+  - Created solution
+
+   ![alt text](image-3.png)
+
 
 
 ## .NET CLI
