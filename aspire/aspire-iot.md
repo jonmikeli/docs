@@ -72,5 +72,12 @@ Visual Studio Extensions (VSIX):
 
 # What is coming next?
 
+Next steps might depend on feedback and detected needs.
+This said, one natural next step could be to complete the telemetry generator with AI features (through Azure AI Foundry).
+This would also showcase a complete use case of:
+ - existing tool
+ - integrated with Aspire
+ - enriched with Azure AI Foundry
+ 
 
 <sub><sub>Not created with GenAI.</sub></sub>
