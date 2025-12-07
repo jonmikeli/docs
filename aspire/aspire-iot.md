@@ -1,5 +1,9 @@
 # Aspire and IoT
 
+
+![alt text](media/image-8.png)
+
+
 Aspire has become way more than just a nice tool. Today it adds actual value when it comes to developing different types of applications through:
  - local monitoring
  - configuration definition and management
