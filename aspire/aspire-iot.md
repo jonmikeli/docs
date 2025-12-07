@@ -14,6 +14,9 @@ Last but not least, its extensibility model and MCP server complete Aspire possi
 
 Obviously, it does not cover everything but the value created in terms of development experience is more than tangible.
 
+More information about Aspire:
+ - [Aspire.Dev](https://aspire.dev/?WT.mc_id=AZ-MVP-5004280)
+ - [Learn](https://learn.microsoft.com/en-us/dotnet/aspire/?WT.mc_id=AZ-MVP-5004280)
 
 # Why to use Aspire with IoT?
 
