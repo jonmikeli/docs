@@ -38,3 +38,9 @@ The proposed extensions create solutions templates to use the IoT Devices simula
   - the container simulates many devices at the same time (in one single container). The number is configurable.
   - X509 security type is not covered
   More information [here](/iot/tools/simulators/iot-simulator-multi-device-container.md).
+
+  Extensions:
+   - Visual Studio [Single device extension](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AspireIoTSimulatorDPSSingleDeviceTemplate)
+   - .NET CLI [Single device extension](https://www.nuget.org/packages/JMI.Aspire.IoTSimulator.DPS.SingleDevice.Template/)
+   - Visual Studio [Multi device extension](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AspireIoTSimulatorDPSMultiDeviceTemplate)
+   - .NET CLI [Multi device extension](https://www.nuget.org/packages/JMI.Aspire.IoTSimulator.DPS.MultiDevice.Template/)
