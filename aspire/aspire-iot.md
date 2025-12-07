@@ -93,6 +93,10 @@ Visual Studio Extensions (VSIX):
 
 ## .NET CLI
 
+```bash
+dotnet new 
+```
+
 # What is coming next?
 
 Next steps might depend on feedback and detected needs.
