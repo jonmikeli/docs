@@ -47,6 +47,19 @@ The proposed extensions create solutions templates to use the IoT Devices simula
 
 # How to install the extensions?
 
+Visual Studio Extensions (VSIX):
+ - through the Visual Studio Explorer
+ - through the Visual Studio Marketplace
+   - download the extensions
+     - [Single device](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AspireIoTSimulatorDPSSingleDeviceTemplate)
+     - [Multi device](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AspireIoTSimulatorDPSMultiDeviceTemplate)
+   - double click on the VSIX and follow the instructions
+
+.NET CLI (NuGet):
+ - through the NuGet official repository
+   - [Single device](https://www.nuget.org/packages/JMI.Aspire.IoTSimulator.DPS.SingleDevice.Template/)
+   - [Multi device](https://www.nuget.org/packages/JMI.Aspire.IoTSimulator.DPS.MultiDevice.Template/)
+
 
 # How to use the extensions?
 
