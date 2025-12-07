@@ -93,8 +93,10 @@ Visual Studio Extensions (VSIX):
 
 ## .NET CLI
 
+![alt text](image-4.png)
+
 ```bash
-dotnet new 
+dotnet new aspireiotdpsmulti10 -
 ```
 
 # What is coming next?
