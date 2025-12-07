@@ -52,3 +52,6 @@ The proposed extensions create solutions templates to use the IoT Devices simula
 
 
 # What is coming next?
+
+
+<sub><sub>Not created with GenAI.</sub></sub>
