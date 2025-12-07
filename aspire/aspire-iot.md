@@ -97,7 +97,16 @@ Visual Studio Extensions (VSIX):
 
 
 ```bash
-dotnet new aspireiotdpsmulti10 -
+dotnet new aspireiotdpsmulti10 \
+ -n AspireDPSDeviceTest \
+ -t Mqtt \
+ -s SymmetricKey \
+ -sc 0ne010A2076 \
+ -pk F48a7JscD3PR3swunbvSU07KmIHe+BxnXPduIeV7s479q3DRZlUnxdm98SEb8USu1P68WDjNUJ7IAIoTyjHJVg== \
+ -j https://stdevtjmitests.blob.core.windows.net/schemas/measureddata2-schema.json \
+ -c 10 \
+ -pr 'cli-' \
+ -f 'sim-dd{0}'
 ```
 
 # What is coming next?
