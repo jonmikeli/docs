@@ -26,8 +26,8 @@ Also, this might be an unusual use case, worth it being mentioned.
 # Visual Studio and .NET CLI extensions
 
 The proposed extensions create solutions templates to use the IoT Devices simulators:
- - containerized [single device simulator]()
- - containerized [multi device simulator]()
+ - containerized [single device simulator](https://hub.docker.com/r/jonmikeli/iot-simulator-dps)
+ - containerized [multi device simulator](https://hub.docker.com/r/jonmikeli/iot-simulator-dps-multi)
 
  The first one simulates most of the IoT flows (D2C, C2D) covered by the Azure IoT Hub SDK (c#).
  It covers also different security types (SAS, X509) and DPS provisioning.
