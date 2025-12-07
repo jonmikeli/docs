@@ -14,5 +14,11 @@ Last but not least, its extensibility model and MCP server complete Aspire possi
 
 Obviously, it does not cover everything but the value created in terms of development experience is more than tangible.
 
-# How to use Aspire with IoT
+# Why to use Aspire with IoT?
 
+Some of the shared IoT Devices are shipped as containers. They are designed to be used through CLI either automatically or by hand.
+However, from the develoment perspective, in some cases Aspire might be practical and offers a fast way to use the mentioned simulators.
+
+Also, this might be an unusual use case, worth it being mentioned.
+
+# Visual Studio and .NET CLI extensions
