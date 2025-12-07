@@ -40,6 +40,7 @@ The proposed extensions create solutions templates to use the IoT Devices simula
  The second one covers the same flows with the following differences:
   - the container simulates many devices at the same time (in one single container). The number is configurable.
   - X509 security type is not covered
+
   More information [here](/iot/tools/simulators/iot-simulator-multi-device-container.md).
 
   Extensions:
