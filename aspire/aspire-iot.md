@@ -44,3 +44,11 @@ The proposed extensions create solutions templates to use the IoT Devices simula
    - .NET CLI [Single device extension](https://www.nuget.org/packages/JMI.Aspire.IoTSimulator.DPS.SingleDevice.Template/)
    - Visual Studio [Multi device extension](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AspireIoTSimulatorDPSMultiDeviceTemplate)
    - .NET CLI [Multi device extension](https://www.nuget.org/packages/JMI.Aspire.IoTSimulator.DPS.MultiDevice.Template/)
+
+# How to install the extensions?
+
+
+# How to use the extensions?
+
+
+# What is coming next?
