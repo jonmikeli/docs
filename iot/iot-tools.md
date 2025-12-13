@@ -232,7 +232,7 @@ Library containing simple logic to randomize data after a JSON schema definition
  - [.NuGet](https://www.nuget.org/packages/JMI.JSON.Data/)
 
 
-### Aspire - IoT Device Simulator (Single)
+### Aspire - IoT Device Simulator (Single device)
 
 #### Description
 
@@ -242,3 +242,15 @@ Extension to create a Visual Studio solution (Aspire) with the code to use the c
 
  - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AspireIoTSimulatorDPSSingleDeviceTemplate)
  - [.NuGet](https://www.nuget.org/packages/JMI.Aspire.IoTSimulator.DPS.SingleDevice.Template/)
+
+
+### Aspire - IoT Device Simulator (Multiple device)
+
+#### Description
+
+Extension to create a Visual Studio solution (Aspire) with the code to use the containerized IoT Device Simulator (Multi version).
+
+#### Links
+
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AspireIoTSimulatorDPSMultiDeviceTemplate)
+ - [.NuGet](https://www.nuget.org/packages/JMI.Aspire.IoTSimulator.DPS.MultiDevice.Template/)
