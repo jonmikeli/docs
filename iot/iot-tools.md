@@ -240,4 +240,5 @@ Extension to create a Visual Studio solution (Aspire) with the code to use the c
 
 #### Links
 
- - [.NuGet](https://www.nuget.org/packages/JMI.JSON.Data/)
+ - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=JonMikelInza.AspireIoTSimulatorDPSSingleDeviceTemplate)
+ - [.NuGet](https://www.nuget.org/packages/JMI.Aspire.IoTSimulator.DPS.SingleDevice.Template/)
