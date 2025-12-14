@@ -1,4 +1,4 @@
-# .NET 8 REST API Template - Azure Storaeg
+# .NET 8 REST API Template - Azure Storage
 
 This Visual Studio solution template is the result of the evolution of many other templates. It includes the solution to many problems faced in real-life projects as well as the will to follow a certain level of good practices.
 
