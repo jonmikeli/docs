@@ -122,7 +122,7 @@ You will see later in the post how to use Direct Methods. The other features are
 
 
 
-# IoT Plug and Play
+# IoT Plug and Play (deprecated, mentioned to avoid confusions)
  
 
 As mentioned earlier, Microsoft has already published a mobile application to create virtual IoT devices based on [IoT Plug and Play](https://learn.microsoft.com/azure/iot-fundamentals/iot-phone-app-how-to?WT.mc_id=AZ-MVP-5004280) and focused on [Azure IoT Central](https://azure.microsoft.com/products/iot-central/?WT.mc_id=AZ-MVP-5004280). Azure IoT Mobile Device’s approach is different and more oriented to Azure IoT PaaS services. There is no “better or worse” discussion here. The approach is just different.
