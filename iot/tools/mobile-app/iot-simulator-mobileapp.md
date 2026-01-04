@@ -250,10 +250,10 @@ The application allows to:
  - Visualize the logs of the configured flows
  
 
-If you want to try the application, you can install it from [Google Play](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile).
+If you want to try the application, you can install it from [Google Play](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile2).
 
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=jmi.iot.device.mobile" target="_blanc">
+<a href="https://play.google.com/store/apps/details?id=jmi.iot.device.mobile2" target="_blanc">
 <img src="media/Google_Play_Store_badge_EN.svg.webp" width="200">
 </a>
 </p>
