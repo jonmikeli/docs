@@ -8,9 +8,9 @@ Azure DevOps Work Items are a fantastic way to manage the whole production flow 
  - tests
 
  ADO includes basic rules and flows.
- However, it is quite common to be confronted to specific needs, in daily life.
+ However, it is quite common to be confronted with specific needs in daily life.
 
- This publication will discribe one of the ways to extend the native ADO possibilities.
+ This publication will describe one of the ways to extend the native ADO possibilities.
 
  # Main approach
 
