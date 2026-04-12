@@ -27,6 +27,8 @@ In this case, we will configure the work item creation trigger.
 
 Once messages are published, they can be consummed by different services (ex: Azure Function) and apply specific business logics to control, complete or update Work Items. This process can also be used to fed analytical metrics and indicators.
 
+This is honestly a great way to extend ADO WI features.
+
  # Example
 
 [Repo](https://github.com/jonmikeli/ado-wi-hierarchies-management)
