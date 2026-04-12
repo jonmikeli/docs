@@ -122,7 +122,7 @@ You will see later in the post how to use Direct Methods. The other features are
 
 
 
-# IoT Plug and Play
+# IoT Plug and Play (deprecated, mentioned to avoid confusions)
  
 
 As mentioned earlier, Microsoft has already published a mobile application to create virtual IoT devices based on [IoT Plug and Play](https://learn.microsoft.com/azure/iot-fundamentals/iot-phone-app-how-to?WT.mc_id=AZ-MVP-5004280) and focused on [Azure IoT Central](https://azure.microsoft.com/products/iot-central/?WT.mc_id=AZ-MVP-5004280). Azure IoT Mobile Device’s approach is different and more oriented to Azure IoT PaaS services. There is no “better or worse” discussion here. The approach is just different.
@@ -250,10 +250,10 @@ The application allows to:
  - Visualize the logs of the configured flows
  
 
-If you want to try the application, you can install it from [Google Play](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile).
+If you want to try the application, you can install it from [Google Play](https://play.google.com/store/apps/details?id=jmi.iot.device.mobile2).
 
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=jmi.iot.device.mobile" target="_blanc">
+<a href="https://play.google.com/store/apps/details?id=jmi.iot.device.mobile2" target="_blanc">
 <img src="media/Google_Play_Store_badge_EN.svg.webp" width="200">
 </a>
 </p>
