@@ -20,6 +20,7 @@ Meny new SDKs have also apeared lately (ex: Copilot GH SDK).
 
 # Value proposal
 
-
+The value proposed by .NET 10 and its ecosystem is greater than ever.
+.NET is not only a good choice but one of the best choices.
 
 
