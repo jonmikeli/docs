@@ -11,11 +11,15 @@ In the continuity of the previous publication about .NET ([here](./dotnet8-thoug
  - significant improvements in Blazor
  - new libraries and, let's call them "components"
 
- These new "components" are:
-  - 
+ Some of these new "components" are:
+  - Aspire, a great
+  - revamped AI libraries (Microsoft.Agent.Framework and Microsoft.AI.Extensions), providing native and first class AI integration into C# development
+
+
+Meny new SDKs have also apeared lately (ex: Copilot GH SDK).
 
 # Value proposal
 
-TO COMPLETE
+
 
 
