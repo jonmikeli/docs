@@ -9,7 +9,7 @@ The `Skills` created are :
  - [azure-iothub-service](https://github.com/jonmikeli/ai-tools/blob/main/skills/azure-iothub-service/SKILL.md)
 
  They can be used with:
- - the [IoT Simulator MCP Server](https://github.com/jonmikeli/ai-tools/tree/main/mcpservershttps://github.com/jonmikeli/ai-tools/tree/main/mcpservers)
+ - the [IoT Simulator MCP Server](hhttps://github.com/jonmikeli/ai-tools/tree/main/mcpservers)
  - the [Azure IoT Hub Service MCP Server](https://github.com/jonmikeli/ai-tools/tree/main/mcpservers)
 
  They are also referenced in `agents` and packaged in a `GitHub Copilot plugin`.
