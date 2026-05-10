@@ -11,4 +11,4 @@ The `MCP Server` [azure-iothub-service-mcp](https://github.com/jonmikeli/ai-tool
 
 The `MCP Server` related content is located [here](https://github.com/jonmikeli/ai-tools/tree/main/mcpservers).
 
-The detailled documentation about how to use it is available [here](https://github.com/jonmikeli/ai-tools/docs).
+The detailled documentation about how to use it is available [here](https://github.com/jonmikeli/ai-tools/tree/main/docs).
