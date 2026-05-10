@@ -12,6 +12,6 @@ The `Instructions` created can be used with:
 
 # Resources
 
-The `Instructions` realted content is located [here](https://github.com/jonmikeli/ai-tools/instructions).
+The `Instructions` related content is located [here](https://github.com/jonmikeli/ai-tools/instructions).
 
 The detailled documentation about how to use them is available [here](https://github.com/jonmikeli/ai-tools/docs).
