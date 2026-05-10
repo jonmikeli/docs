@@ -6,7 +6,7 @@ IoT Simulators and Azure IoT Hub REST API façade have been completed with diffe
 
 The `Skills` created are :
  - [iot-simulator](https://github.com/jonmikeli/ai-tools/blob/main/skills/iot-simulator/SKILL.md)
- - [azure-iothub-service](https://github.com/jonmikeli/ai-tools/blob/main/skills/azure-iothub-service/SKILL.md))
+ - [azure-iothub-service](https://github.com/jonmikeli/ai-tools/blob/main/skills/azure-iothub-service/SKILL.md)
 
  They can be used with:
  - the [IoT Simulator MCP Server](https://github.com/jonmikeli/ai-tools/tree/main/mcpservershttps://github.com/jonmikeli/ai-tools/tree/main/mcpservers)
