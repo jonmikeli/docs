@@ -16,6 +16,6 @@ The `Agent` [iot-solution-developer](https://github.com/jonmikeli/ai-tools/blob/
 
 # Resources
 
-The `Agent` related content is located [here](https://github.com/jonmikeli/ai-tools/agents).
+The `Agent` related content is located [here](https://github.com/jonmikeli/ai-tools/tree/main/agents).
 
-The detailled documentation about how to use them is available [here](https://github.com/jonmikeli/ai-tools/docs).
+The detailled documentation about how to use them is available [here](https://github.com/jonmikeli/ai-tools/tree/main/docs).
