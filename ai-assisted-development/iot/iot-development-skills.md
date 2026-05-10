@@ -16,6 +16,6 @@ The `Skills` created are :
 
 # Resources
 
-The `Skiils` related content is located [here](https://github.com/jonmikeli/ai-tools/skills).
+The `Skiils` related content is located [here](https://github.com/jonmikeli/ai-tools/tree/main/skills).
 
-The detailled documentation about how to use them is available [here](https://github.com/jonmikeli/ai-tools/docs).
+The detailled documentation about how to use them is available [here](https://github.com/jonmikeli/ai-tools/tree/main/docs).
